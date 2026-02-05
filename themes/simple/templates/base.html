@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+		<link rel="stylesheet" href="{{ SITEURL }}/themes/simple/static/css/style.css" />
+	</head>
+	<body>
+		<header>
+			<h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+			<p>{{ SITESUBTITLE }}</p>
+		</header>
+		<nav>
+			<a href="{{ SITEURL }}">Home</a>
+		</nav>
+		<main>{% block content %}{% endblock %}</main>
+		<footer>
+			<small>&copy; {{ AUTHOR }} {{ CURRENT_YEAR }}</small>
+		</footer>
+	</body>
+</html>
