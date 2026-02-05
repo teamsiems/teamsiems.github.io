@@ -7,6 +7,7 @@ SITEURL = ""
 CURRENT_YEAR = datetime.datetime.now().year
 
 PATH = "content"
+OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/Chicago'
 
