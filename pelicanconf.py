@@ -40,3 +40,8 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 THEME = 'themes/simple'
+
+# Enable article neighbors for next/previous navigation.
+PLUGINS = [
+    'neighbors',
+]

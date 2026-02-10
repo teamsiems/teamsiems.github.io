@@ -6,4 +6,22 @@
 	<p><small>By {{ article.author }} on {{ article.date|strftime('%Y-%m-%d') }}</small></p>
 	{{ article.content }}
 </article>
+
+<nav>
+{% if (article.next_article is defined and article.next_article) or (article.prev_article is defined and article.prev_article) %}
+<div class="post-navigation">
+    {% if article.prev_article is defined and article.prev_article %}
+    <a href="{{ SITEURL }}/{{ article.prev_article.url }}" class="prev-button">
+        &laquo; {{ article.prev_article.title }}
+    </a>
+    {% endif %}
+    {% if article.next_article is defined and article.next_article %}
+		|
+    <a href="{{ SITEURL }}/{{ article.next_article.url }}" class="next-button">
+        {{ article.next_article.title }} &raquo;
+    </a>
+    {% endif %}
+</div>
+{% endif %}
+</nav>
 {% endblock %}
