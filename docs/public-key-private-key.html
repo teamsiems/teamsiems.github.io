@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>Public Key, Private Key - teamsiems blog</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+		<link rel="stylesheet" href="./theme/css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<header>
+						<h1><a href=".">teamsiems blog</a></h1>
+						<p></p>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<nav>
+						<a href=".">Home</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<main><article>
+	<h2>Public Key, Private Key</h2>
+	<p><small>By chris on 2013-04-13</small></p>
+	<p>If you use ssh (Secure Shell) with public/private keys, here is a quick reference. The private key stays on the computer you will connect/send from. The public key goes on the computer(s) you will connect/send to. You can think of the private and public keys as a signature of the sending computer, and they are used to validate/authenticate the sender. (Keys are also affiliated with the user account that creates them.)</p>
+<p>Create the public key, private key pair:</p>
+<div class="highlight"><pre><span></span><code>ssh_keygen -t rsa
+</code></pre></div>
+
+<p>I used RSA encryption here. You can also use DSA. This generates two files: id_rsa (private key) and id_rsa.pub (public key). Move id_rsa to your .ssh directory.</p>
+<div class="highlight"><pre><span></span><code>mv id_rsa ~/.ssh
+</code></pre></div>
+
+<p>Copy/send id_rsa.pub to the .ssh directory on the computer you will connect to.</p>
+<div class="highlight"><pre><span></span><code><span class="n">scp</span><span class="w"> </span><span class="n">id_rsa</span><span class="p">.</span><span class="n">pub</span><span class="w"> </span><span class="n">receiving_username</span><span class="nv">@receiving_domain</span><span class="p">.</span><span class="nl">com</span><span class="p">:</span><span class="o">~/</span><span class="p">.</span><span class="n">ssh</span>
+</code></pre></div>
+
+<p>Add id_rsa.pub to the authorized_keys file on the receiving computer.</p>
+<div class="highlight"><pre><span></span><code>cat id_rsa.pub &gt;&gt; authorized_keys
+</code></pre></div>
+
+<p>That is essentially it. Now when you connect from the computer with the private key to the computer with the public key, you will be using a secure connection.</p>
+<p>To take this one step further and simplify connection commands, you can add an IdentityFile directive to a ssh config file. This allows you to use the keys along with a known, well used username to connect to the receiving_domain computer more quickly.</p>
+<p>Create a config file in your .ssh directory (litterally named config) if you don't already have one. Add the reference to the private key.</p>
+<div class="highlight"><pre><span></span><code>Host receiver
+    User: receiving_username
+    IdentityFile: ~/.ssh/id_rsa
+</code></pre></div>
+
+<p>Then, when you connect, you can issue the command</p>
+<div class="highlight"><pre><span></span><code>ssh receiver
+</code></pre></div>
+
+<p>and it will ask for the pass phrase (not password) you supplied when you created the private key.</p>
+</article>
+
+<nav>
+<div class="post-navigation">
+    <a href="./taylor-for-bed.html" class="prev-button">
+        &laquo; Taylor for bed
+    </a>
+		|
+    <a href="./oven-baked-spare-ribs.html" class="next-button">
+        Memorial Day Ribs With A Twist: Smoked and Oven Baked Spare Ribs &raquo;
+    </a>
+</div>
+</nav>
+</main>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<footer>
+						<small>&copy; 2026 teamsiems blog</small>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	</body>
+</html>

@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>My Notes from the 2012 MWF Conference - teamsiems blog</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+		<link rel="stylesheet" href="./theme/css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<header>
+						<h1><a href=".">teamsiems blog</a></h1>
+						<p></p>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<nav>
+						<a href=".">Home</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<main><article>
+	<h2>My Notes from the 2012 MWF Conference</h2>
+	<p><small>By chris on 2012-09-07</small></p>
+	<p>These are my raw notes from the webinar sessions of the 2012 MWF Conference that I attended.</p>
+<p>Wednesday, September 5, 2012</p>
+<p>KEYNOTE: Vice Provost of IT at UCLA<br>
+- Cross campus “Informatics”<br>
+- OPT: Online Polling Tool</p>
+<p>Kitchen Sink<br>
+- Look at <a href="http://uxt.ucsd.edu/">http://uxt.ucsd.edu</a></p>
+<p>MWF Forms<br>
+- “formsPolyfill” - adds functions to devices that don’t natively support the HTML5 features.<br>
+- Look in js.php</p>
+<p>Mobile Web Accessibility<br>
+- User scenarios: blind, low-vision, color blind, deaf, dexterity, cognitive<br>
+- Look at <a href="http://snook.ca/">http://snook.ca/</a><br>
+- Look at <a href="http://web.webaim.org/">http://web.webaim.org/</a><br>
+- Look up WCAG 2.0 + MWBP</p>
+<p>MWF Community / MobilizeLabs / Ohmage+MWF<br>
+- MWF 1.3 has BSD license<br>
+- MWF 2.0 “WebBlocks” is responsive<br>
+- UCLA is moving MWF into more HigherEd &amp; beyond (corporate, community based)</p>
+<p>Thursday, September 6, 2012<br>
+MWF Roadmap<br>
+- 9/29/2011 MWF 1.2 released: DTS<br>
+- 4/15/2012 MWF 1.3 released: Lean CSS, Forms API, …<br>
+-12/15/2012 MWF 2.0 “WebBlocks”: responsive. (Request GitHub access from <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#98;&#111;&#108;&#108;&#101;&#110;&#115;&#64;&#117;&#99;&#108;&#97;&#46;&#101;&#100;&#117;">&#101;&#98;&#111;&#108;&#108;&#101;&#110;&#115;&#64;&#117;&#99;&#108;&#97;&#46;&#101;&#100;&#117;</a><br>
+- November 2012/Spring 2013: Web Apps Sharing Environment<br>
+- Ohmage-MWF growing features</p>
+<p>Responsive Design<br>
+- Has flexible grid, flexible media, media queries<br>
+- Flexible grid: percent not pixels<br>
+- Dynamic Image Compression: MWF via img.php; Adaptive Images via .htaccess<br>
+(Mobile First)<br>
+- define content linearly<br>
+- use min-width, not max-width<br>
+- add complexity and asymmetry as screen widen</p>
+<p>Native App Awesomeness<br>
+- Lookup HTTP Compression (mod_deflate) for faster load over mobile<br>
+- Optimize images (ImageOptim MAC tool)<br>
+- Eliminate redirects<br>
+- preload large css images<br>
+- remove unused JS code (customize modernizr, bootstrap, foundation, ...)<br>
+- Defer JS<br>
+- Look at <a href="http://trott.github.com/">http://trott.github.com/</a><br>
+- A fast mobile .edu site loads in 1.75ms</p>
+<p>Mobile Testing<br>
+- Emulators<br>
+- Android <a href="http://developer.android.com/sdk/">http://developer.android.com/sdk/</a></p>
+<p>Mobile Governance Examples<br>
+- 3 phases - Engaging the Stakeholders, Mobile Advocacy, and Defining the Governance Process</p>
+<p>Responsive Future of MWF<br>
+- 3997 different Android device resolutions (2012)<br>
+- Look at <a href="http://mediaqueri.es/">http://mediaqueri.es/</a><br>
+- Maps (Google API) is a good use of MWF over RWD<br>
+- Downsides to RWD: images<br>
+- Look up RESS = responsive + server<br>
+What do we need<br>
+- responsive design<br>
+- support libraries: browser normalization, capability detection, html5 &amp; css3 polyfills<br>
+- rich interfaces<br>
+A Toolkit<br>
+- integrated set of packages<br>
+- customizable for organizational needs<br>
+- extended with ui elements and js interactivity<br>
+- collaboration &amp; federation build directly in<br>
+Basics<br>
+- build script for css js and images<br>
+- support for SASS and Compass<br>
+- jquery and twitter bootstrap<br>
+- modernizr, selectivizr, respond.js<br>
+- rich library of ui elements<br>
+- javascript interactivity api<br>
+Is this compass with libraries, sort of but more customized<br>
+- Look up Adaptive Design Pattern<br>
+- It has abstraction layer<br>
+- Link between markup entities &amp; framwork<br>
+- Switch by changing config variable</p>
+<p>Core Architecture in MWF Responsive Future<br>
+- WebBlocks is framework agnostic<br>
+What does it include<br>
+- basic responsive framework<br>
+- base ui elements<br>
+- rich interactive responsive UI components<br>
+- responsive images<br>
+- responsive video<br>
+- css/js minification<br>
+Modular Architecture<br>
+- enable what you need<br>
+- swap out the underlying framework<br>
+- support for integration third-party components</p>
+</article>
+
+<nav>
+<div class="post-navigation">
+    <a href="./tropical-storm-isaac.html" class="prev-button">
+        &laquo; Tropical Storm Isaac
+    </a>
+		|
+    <a href="./new-theme.html" class="next-button">
+        New Theme &raquo;
+    </a>
+</div>
+</nav>
+</main>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<footer>
+						<small>&copy; 2026 teamsiems blog</small>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	</body>
+</html>

@@ -1,0 +1,49 @@
+Title: Voter ID Law in Texas
+Date: 2014-11-04 10:02
+Author: chris
+Category: Politics
+Tags: election, votes
+Slug: voter-id-law-in-texas
+Status: published
+
+In 2011 the Texas state legislature passed a voter ID law which said voters had to present a government issued (picture) identification in order to vote in person; they wanted to prevent voter fraud. This year Democrats successfully appealed to have the law blocked; the judge said it was a poll tax.
+
+> U.S. District Judge Nelva Gonzales Ramos, an appointee of President Barack Obama confirmed to the bench in 2011,  <a href="http://electionlawblog.org/wp-content/uploads/20141009-TXID-Opinion.pdf" target="_blank">struck down</a> Texas' voter ID law on Thursday \[10/9\], calling it an "unconstitutional poll tax" intended to discriminate against Hispanic and African-American citizens that creates "an unconstitutional burden on the right to vote." Source: [The Huffington Post](http://www.huffingtonpost.com/2014/10/09/texas-voter-id_n_5962674.html)
+
+As I see it there are two types of burdens: physical and financial. Physically, there are people who don't drive and/or don't need picture identification: elderly, poor, big-city dwellers, and college students. Also, there are people in rural areas unable to get to a identification office. These are all legitimate reasons not to have identification.
+
+There are several aspects of financial burden, but I'll just say I think the State can issue voter ID without driver's licence - free of charge. If not, they should. This reason is less of a reason not to have a licence/ID.
+
+In that same article, Ryan P. Haygood, an attorney with the NAACP Legal Defense Fund, said the law imposes costs and burdens:
+
+> “The evidence in this case demonstrated that the law, like its poll tax ancestor, imposes real costs, and unjustified, disparate burdens on the voting rights of more than 600,000 registered Texas voters, a substantial percentage of whom are voters of color."
+
+ 
+
+## Let's Do Some Math
+
+According to the U.S. Census Bureau, before the 2012 election there was 235 million people 18+ years of age, 215 million citizens (18+ years of age), and 143 million registered voters (65% of voting age population). If the NPR news story [Why Millions of Americans Have No Government ID](http://www.npr.org/2012/02/01/146204308/why-millions-of-americans-have-no-government-id) is accurate, then there were 3 million Americans without government ID in 2012; assuming they are citizens 18+ years of age. That's 1.4% of citizens able to vote. That's not a lot, but still, *every* American has the right to vote.
+
+We read/hear stories about how these few people want to vote - try to vote - but get denied because they don't have acceptable identification. The whole point of showing ID (aside from showing a voter ID card) is to show proof of residency and prevent multiple votes. They don't want people voting in the wrong district or voting at several polling places.
+
+## Taxation For Different Reasons
+
+<a href="https://www.google.com/search?q=No+representation+without+taxation&amp;oq=No+representation+without+taxation&amp;aqs=chrome..69i57j69i64j69i60.360j0j7&amp;sourceid=chrome&amp;es_sm=93&amp;ie=UTF-8#q=%22No+representation+without+taxation%22" target="_blank">Recently some have said</a>, and I tend to agree, that the Revolutionary War cry, "No taxation without representation!" has a corollary, "No representation without taxation!" Early American history (sort of) had it this way. When the country was founded, in most states, only white men with property - paying property tax - were permitted to vote; freed African American slaves could vote in four states. Times have changed and more groups of people have been allowed to vote, but the idea of tax payers should be voters remains.
+
+I believe those of us that pay taxes should have a say in how it's spent (e.g. electing people we think will spend it wisely). If you don't pay taxes you should not have a say in how other peoples' money is spent.
+
+## Latest Development
+
+On Tuesday, October 14, the Texas GOP successfully appealed the blocked law.
+
+> The ruling by a three-judge panel of the New Orleans-based 5th Circuit Court of Appeals allows the law to be used in the November election, despite a lower judge's ruling that the law is unconstitutional. The 5th Circuit did not rule on the law's merits; instead, it determined it's too late to change the rules for the election. Source [abcnews.com](http://abcnews.go.com/US/wireStory/appeals-court-reinstates-texas-voter-id-law-26197068)
+
+They said while it may cause harm to some voters, the greater harm would come from disrupting the election statewide.
+
+The NAACP vowed to appeal this appeal to the US Supreme court.
+
+On Saturday, October 18, the Supreme Court allowed Texas to use its voter id law in the November election. They gave no reasoning. Justice Ginsburg - along with justices Sotomayor and Kagan - issued a six-page dissent. (Source: [nytimes.com](http://www.nytimes.com/2014/10/19/us/supreme-court-upholds-texas-voter-id-law.html))
+
+We haven't seen the end of this argument. There will be more legal battles and appeals.
+
+So, in the end, I showed my driver's licence that I paid \$25 for, and I voted early.

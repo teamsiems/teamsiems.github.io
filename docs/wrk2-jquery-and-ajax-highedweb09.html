@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>Client-side Interactivity Through Javascript - jQuery and AJAX - teamsiems blog</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+		<link rel="stylesheet" href="./theme/css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<header>
+						<h1><a href=".">teamsiems blog</a></h1>
+						<p></p>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<nav>
+						<a href=".">Home</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<main><article>
+	<h2>Client-side Interactivity Through Javascript - jQuery and AJAX</h2>
+	<p><small>By chris on 2009-10-04</small></p>
+	<p>Jason Woodward<br>
+Director of Administrative Computing, Cornell University<br>
+<a href="http://twitter.com/jdwcornell">@jdwcornell</a></p>
+<p>October 4, 2009</p>
+<p><a href="http://2009.highedweb.org/EventDetail.aspx?guid=4c46d953-9dbb-495e-b8b0-02fd694e7aa4">http://2009.highedweb.org/EventDetail.aspx?guid=4c46d953-9dbb-495e-b8b0-02fd694e7aa4</a></p>
+<p><a href="http://heweb09.jdwcornell.com/links.html">http://heweb09.jdwcornell.com/links.html</a></p>
+<h2><a href="http://www.json.org/example.html">Part 0: Bookkeeping</a></h2>
+<ul>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addons/versions/10869">JSONView 0.2</a></li>
+</ul>
+<h2>Part 1: Tech Review</h2>
+<h3>JSON</h3>
+<ul>
+<li><a href="http://www.json.org/example.html">http://www.json.org/example.html</a></li>
+</ul>
+<h3>XML</h3>
+<ul>
+<li><a href="http://www.w3.org/XML/">http://www.w3.org/XML/</a></li>
+</ul>
+<h3>XHTML</h3>
+<ul>
+<li><a href="http://www.w3.org/TR/xhtml1/">http://www.w3.org/TR/xhtml1/</a></li>
+</ul>
+<h3>CSS</h3>
+<ul>
+<li><a href="http://www.w3.org/TR/CSS/">http://www.w3.org/TR/CSS/</a></li>
+</ul>
+<h3>HTTP</h3>
+<ul>
+<li><a href="http://www.w3.org/Protocols/rfc2616/rfc2616.html">http://www.w3.org/Protocols/rfc2616/rfc2616.html</a></li>
+</ul>
+<h3>DOM</h3>
+<ul>
+<li><a href="http://www.w3.org/DOM/#what">http://www.w3.org/DOM/#what</a></li>
+</ul>
+<h3>JavaScript</h3>
+<ul>
+<li>Read <a href="http://oreilly.com/catalog/9780596517748">JavaScipt The Good Parts</a> O'Reily Books</li>
+<li><a href="http://www.crockford.com/javascript/">http://www.crockford.com/javascript/</a></li>
+<li><a href="http://jsninja.com/">Secrets of the JavaScript Ninja</a></li>
+</ul>
+<h2>Part 2: jQuery</h2>
+<p><em>\$</em> is a function as in <em>\$(document)</em> that returns jQuery object.</p>
+<p><em>ready</em> is the method</p>
+<h3>Getting Started</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery#Setup">http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery#Setup</a></li>
+<li><a href="http://code.google.com/apis/ajaxlibs/documentation/">http://code.google.com/apis/ajaxlibs/documentation/</a></li>
+<li><a href="http://www.packtpub.com/learning-jquery-1.3/book/mid/1802090m1d2r">Learning jQuery 1.3</a></li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="cp">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;</span>
+<span class="cp">   &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">xmlns</span><span class="o">=</span><span class="s">&quot;http://www.w3.org/1999/xhtml&quot;</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span> <span class="na">xml:lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>#heweb09 Twitter Session Companion<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;text/javascript&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;text/javascript&quot;</span><span class="p">&gt;</span>
+<span class="w">      </span><span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;DOM ready!&#39;</span><span class="p">);</span>
+<span class="w">      </span><span class="p">});</span>
+<span class="w">    </span><span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<h3>Selectors</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Selectors">http://docs.jquery.com/Selectors</a></li>
+<li><a href="http://www.cornell.edu/">http://www.cornell.edu</a></li>
+</ul>
+<h3>Traversal</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Traversing">http://docs.jquery.com/Traversing</a></li>
+</ul>
+<h3>Manipulation</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Manipulation">http://docs.jquery.com/Manipulation</a></li>
+</ul>
+<h3>CSS</h3>
+<ul>
+<li><a href="http://docs.jquery.com/CSS">http://docs.jquery.com/CSS</a></li>
+</ul>
+<h3>Events</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Events">http://docs.jquery.com/Events</a></li>
+</ul>
+<h3>Effects and UI</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Effects">http://docs.jquery.com/Effects</a></li>
+<li><a href="http://docs.jquery.com/UI">http://docs.jquery.com/UI</a></li>
+<li><a href="http://docs.jquery.com/UI/Tabs#Back_button_and_bookmarking">http://docs.jquery.com/UI/Tabs#Back_button_and_bookmarking</a></li>
+</ul>
+<h3>Ajax</h3>
+<ul>
+<li><a href="http://docs.jquery.com/Ajax">http://docs.jquery.com/Ajax</a></li>
+<li><a href="http://malsup.com/jquery/form/">http://malsup.com/jquery/form/</a></li>
+</ul>
+<h3>Browser State Preservation</h3>
+<p><em>Use browser state preservation when someone bookmarks a page with AJAX code.</em></p>
+<ul>
+<li><a href="http://plugins.jquery.com/project/jquery_history">http://plugins.jquery.com/project/jquery_history</a></li>
+<li><a href="http://www.balupton.com/projects/ajaxy/demos/history/">http://www.balupton.com/projects/ajaxy/demos/history/</a></li>
+</ul>
+<h2>Part 3: The Project</h2>
+<h3>Wireframe / Mockup</h3>
+<ul>
+<li><a href="http://www.balsamiq.com/">http://www.balsamiq.com/</a></li>
+</ul>
+<h3>Break it Down</h3>
+<ul>
+<li><a href="http://etherpad.com/jdwcornell-heweb09-project">http://etherpad.com/jdwcornell-heweb09-project</a></li>
+</ul>
+<h3>Build The Pieces</h3>
+<ul>
+<li><a href="http://etherpad.com/jdwcornell-heweb09-project-js1">http://etherpad.com/jdwcornell-heweb09-project-js1</a></li>
+<li><a href="http://etherpad.com/jdwcornell-heweb09-project-css1">http://etherpad.com/jdwcornell-heweb09-project-css1</a></li>
+</ul>
+<h3>Putting them Together</h3>
+<ul>
+<li><a href="http://heweb09.jdwcornell.com/">http://heweb09.jdwcornell.com</a></li>
+</ul>
+<h2>Appendix</h2>
+<h3>#heweb09 twitter session helper API</h3>
+<div class="highlight"><pre><span></span><code>http://heweb09.jdwcornell.com/oauth/twitter/login
+http://heweb09.jdwcornell.com/oauth/twitter/logout
+http://heweb09.jdwcornell.com/api/heweb09/screenname
+http://heweb09.jdwcornell.com/api/twitter/search.json?q=%23heweb09
+
+And any other read-only Twitter API  http://apiwiki.twitter.com/
+
+http://heweb09.jdwcornell.com/api/heweb09/populate/
+http://heweb09.jdwcornell.com/api/heweb09/rightnow/
+http://heweb09.jdwcornell.com/api/heweb09/attendees/TPR
+http://heweb09.jdwcornell.com/api/heweb09/attendees/TPR1
+http://heweb09.jdwcornell.com/api/heweb09/schedule/
+http://heweb09.jdwcornell.com/api/heweb09/schedule/TPR
+http://heweb09.jdwcornell.com/api/heweb09/schedule/TPR1
+http://heweb09.jdwcornell.com/api/heweb09/attending/jdwcornell
+
+http://heweb09.jdwcornell.com/api/heweb09/attend session=TPR1 (POST)
+http://heweb09.jdwcornell.com/etherpad/css/jdwcornell-heweb09-css1
+http://heweb09.jdwcornell.com/etherpad/js/jdwcornell-heweb09-js
+</code></pre></div>
+</article>
+
+<nav>
+<div class="post-navigation">
+    <a href="./better-or-worse-getting-to-highedweb-2009.html" class="prev-button">
+        &laquo; Better or Worse Getting to HighEdWeb 2009
+    </a>
+		|
+    <a href="./using-wordpress-mu-as-a-web-content-management-system.html" class="next-button">
+        Using WordPress MU as a Web Content Management System &raquo;
+    </a>
+</div>
+</nav>
+</main>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<footer>
+						<small>&copy; 2026 teamsiems blog</small>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	</body>
+</html>

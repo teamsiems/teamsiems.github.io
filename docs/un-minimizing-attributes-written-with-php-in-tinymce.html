@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>Un-Minimizing Attributes Written With PHP In TinyMCE - teamsiems blog</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+		<link rel="stylesheet" href="./theme/css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<header>
+						<h1><a href=".">teamsiems blog</a></h1>
+						<p></p>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<nav>
+						<a href=".">Home</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<main><article>
+	<h2>Un-Minimizing Attributes Written With PHP In TinyMCE</h2>
+	<p><small>By chris on 2011-08-02</small></p>
+	<p>I think this is a "feature" of HH implementation of TinyMCE, but I noticed that the editor would "correct" my attributes when I wrote them properly in an PHP echo statement.</p>
+<div class="highlight"><pre><span></span><code>echo &quot;$abc\n&quot;;
+</code></pre></div>
+
+<p>would save as</p>
+<div class="highlight"><pre><span></span><code>echo &quot;$abc\n&quot;;
+</code></pre></div>
+
+<p>which of course breaks PHP. No matter how I tried to trick it into using escaped quotes it always changed back to unescaped.</p>
+<p>My solution was to use single quotes and concatenate the variables into the string:</p>
+<div class="highlight"><pre><span></span><code>echo &#39;&#39;.$abc.&#39;&#39;.&quot;\n&quot;;
+</code></pre></div>
+
+<p>For your reference, here are the minimized attributes that will need this treatment:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">HTML</td>
+<td style="text-align: left;">XHTML</td>
+</tr>
+<tr>
+<td style="text-align: left;">compact</td>
+<td style="text-align: left;">compact="compact"</td>
+</tr>
+<tr>
+<td style="text-align: left;">checked</td>
+<td style="text-align: left;">checked="checked"</td>
+</tr>
+<tr>
+<td style="text-align: left;">declare</td>
+<td style="text-align: left;">declare="declare"</td>
+</tr>
+<tr>
+<td style="text-align: left;">readonly</td>
+<td style="text-align: left;">readonly="readonly"</td>
+</tr>
+<tr>
+<td style="text-align: left;">disabled</td>
+<td style="text-align: left;">disabled="disabled"</td>
+</tr>
+<tr>
+<td style="text-align: left;">selected</td>
+<td style="text-align: left;">selected="selected"</td>
+</tr>
+<tr>
+<td style="text-align: left;">defer</td>
+<td style="text-align: left;">defer="defer"</td>
+</tr>
+<tr>
+<td style="text-align: left;">ismap</td>
+<td style="text-align: left;">ismap="ismap"</td>
+</tr>
+<tr>
+<td style="text-align: left;">nohref</td>
+<td style="text-align: left;">nohref="nohref"</td>
+</tr>
+<tr>
+<td style="text-align: left;">noshade</td>
+<td style="text-align: left;">noshade="noshade"</td>
+</tr>
+<tr>
+<td style="text-align: left;">nowrap</td>
+<td style="text-align: left;">nowrap="nowrap"</td>
+</tr>
+<tr>
+<td style="text-align: left;">multiple</td>
+<td style="text-align: left;">multiple="multiple"</td>
+</tr>
+<tr>
+<td style="text-align: left;">noresize</td>
+<td style="text-align: left;">noresize="noresize"</td>
+</tr>
+</tbody>
+</table>
+<p>There should be a better way to do this. A lot of code is written the proper way in PHP and switching it is untenable.</p>
+</article>
+
+<nav>
+<div class="post-navigation">
+    <a href="./end-of-space-shuttle-program.html" class="prev-button">
+        &laquo; End of Space Shuttle Program
+    </a>
+		|
+    <a href="./aging-air-traffic-control.html" class="next-button">
+        Aging Air Traffic Control UPDATED &raquo;
+    </a>
+</div>
+</nav>
+</main>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<footer>
+						<small>&copy; 2026 teamsiems blog</small>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	</body>
+</html>

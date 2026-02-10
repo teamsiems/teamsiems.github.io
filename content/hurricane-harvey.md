@@ -1,0 +1,59 @@
+Title: Hurricane Harvey [UPDATED]
+Date: 2017-08-24 14:38
+Author: chris
+Category: Environment
+Tags: hurricanes, storms
+Slug: hurricane-harvey
+Status: published
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939854/Hurricane-Harvey-2017/Hurricane-Harvey-2017.png?_i=AA" class="size-thumbnail wp-image-4629 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/Hurricane-Harvey-2017.png) It has been a quiet 8 years since [Hurricane Ike](http://teamsiems.com/2008/09/tropical-weather-and-storms-hurricane-updates-from-weather-com/) came to Texas, but now we're looking at a hurricane that could dump *FEET* of rain on southeast Texas. Meet [Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey), a Category 1 storm with winds of 80 mph (as of Thursday afternoon). He's expected to get stronger - possibly Cat 3 - and make landfall near Corpus Christi sometime Friday evening. I'll update as I can.
+
+Hurricane Harvey Local Statement Special Advisory Number 17 National Weather Service Houston/Galveston TX AL092017 118 PM CDT Thu Aug 24 2017:
+
+Harvey has intensified into a hurricane early this afternoon. Harvey is expected to continue to strengthen possibly becoming a major hurricane on Friday before landfall. At this point, Harvey could become a high end category 3 hurricane. The primary impact from Harvey remains heavy rainfall and subsequent flooding for southeast Texas. There is also the threat for tropical storm to hurricane force winds and storm surge along the coast. The most likely arrival time for tropical storm force winds to reach the upper Texas coast is during the day on Friday. Since the wind fields have expanded in Harvey, higher storm surge can be expected up the Texas coast. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Friday 08-25-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939855/Hurricane-Harvey-20170825/Hurricane-Harvey-20170825.png?_i=AA" class="size-thumbnail wp-image-4636 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/Hurricane-Harvey-20170825.png) Hurricane Harvey Local Statement Intermediate Advisory Number 20A National Weather Service Houston/Galveston TX AL092017 725 AM CDT Fri Aug 25 2017:
+
+Harvey has continued to strengthen this morning to a high-end category 2 hurricane with maximum sustained winds of 110 mph. Harvey is forecast to continue strengthening and will most likely become a major hurricane today before it makes landfall along the Middle Texas Coast later tonight. The primary impact from Harvey over Southeast Texas remains prolonged significant heavy rainfall that will induce extreme widespread flooding through at least the beginning of next week. Tropical storm force winds, with occasional hurricane force wind gusts, and storm surge will occur along the coast as early as this afternoon and persist through Tuesday. Coastal flooding due to storm surge and wave run up will remain an issue throughout the weekend and into the beginning of next week as strong onshore winds will continue to pile water up along the coastline. Again, the primary emphasis and greatest threat to life and property will be the extreme rainfall amounts that will likely lead to a potentially catastrophic and prolonged flash flooding event. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Saturday 08-26-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939856/Hurricane-Harvey-20170826/Hurricane-Harvey-20170826.jpg?_i=AA" class="size-thumbnail wp-image-4640 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/Hurricane-Harvey-20170826.jpg)Harvey came ashore late last night as a Cat 4 - wind speeds of 130 mph - near Port Aransas, Texas. We're doing well - only about 2.5 inches of rain so far.
+
+Hurricane Harvey Local Statement Intermediate Advisory Number 24A National Weather Service Houston/Galveston TX AL092017 713 AM CDT Sat Aug 26 2017:
+
+Hurricane Harvey has weakened to a Category 1 and is producing torrential rainfall and isolated tornadoes across Southeast Texas as it slowly drifts to the NNW. The primary impact from Harvey over Southeast Texas remains prolonged significant heavy rainfall that will induce extreme widespread flooding through at least the beginning of next week. Flash flooding has already begun across portions of Southeast Texas. Tropical storm force winds are possible through around noon Saturday for the southwestern portions of Southeast Texas. With the strongest winds tonight, storm surge will be slow to recede through Sunday, particularly west of Sargent. Elevated tide levels will continue through Tuesday. Tornadoes will continue to form this morning, especially across the coastal counties and first inland tier. Again, the primary emphasis and greatest threat to life and property will be the extreme rainfall amounts that will likely lead to a potentially catastrophic and prolonged flash flooding event over the coming 3 to 5 days. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Sunday 08-27-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939857/Hurricane-Harvey-20170827/Hurricane-Harvey-20170827.jpg?_i=AA" class="size-thumbnail wp-image-4643 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/Hurricane-Harvey-20170827.jpg)Flooding rain is predicted for at least the next 4 days.
+
+Tropical Storm Harvey Local Statement Advisory Number 28 National Weather Service Houston/Galveston TX AL092017 432 AM CDT Sun Aug 27 2017:
+
+A catastrophic and life-threatening flash flooding event is unfolding across Southeast Texas this morning. Five Flash Flood Emergencies have already been issued for the Houston Metro area overnight, some of which remain in effect this morning. Bands of heavy rainfall will continue to drop devastating amounts of ADDITIONAL rainfall across the area over the next several days. Tornadoes have also been occurring across Southeast Texas over the last day or so and will continue through the next several days. Coastal flooding may be an ongoing issue along the coast where winds will continue to push water onshore, particularly south of Sargent. Elevated tides will cause the recession of coastal flood waters to be slow, likely lasting into the first part of the week. Wind gusts to tropical storm force are still ongoing, primarily in the southwestern portions of the area towards Matagorda Bay. Though there are currently multiple hazards present across the area, the greatest threat to life and property remains the ongoing extreme rainfall and subsequent prolonged and catastrophic flash flooding. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Monday 08-28-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939858/TS-Harvey-20170828/TS-Harvey-20170828.png?_i=AA" class="size-thumbnail wp-image-4645 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/TS-Harvey-20170828.png)It's quiet this morning. Rain is in the area and some is coming to BCS, but for the most part we're calm. Now we wait and see how bad the flooding is/will be - there's a Flash Flood Watch until Wednesday night.
+
+Tropical Storm Harvey Local Statement Advisory Number 32 National Weather Service Houston/Galveston TX AL092017 428 AM CDT Mon Aug 28 2017
+
+The life-threatening flooding event around the Houston metro continues through tonight, as water rescues are still occurring in the area. Though comparatively less rainfall has fallen across the area tonight than last night, this speaks more to the unfathomable amount of rainfall last night. Per observations, a widespread 3 to 7 inches of rain has still fallen in the past six hours across much of the area, with more to the east of the Houston metro around I-10. Given the completely saturated ground, this amount of rainfall and future expected heavy rainfall will keep the flooding threat at the forefront of this storm. Tornadoes have also been occurring, and while their rate has slowed overnight, this threat will continue as well. Coastal flooding may be an ongoing issue along the coast where winds will continue to push water onshore, particularly south of Sargent. Elevated tides will cause the recession of coastal flood waters to be slow, likely lasting into the first part of the week. As Harvey drifts back towards the Gulf, the potential for tropical storm force winds will also extend up the coastline. Ultimately, of the multiple hazards present with this storm, the greatest threat to life and property remains the ongoing extreme rainfall and its consequent prolonged and catastrophic flash flooding event. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Tuesday 08-29-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939858/TS-Harvey-20170829/TS-Harvey-20170829.png?_i=AA" class="size-thumbnail wp-image-4647 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/TS-Harvey-20170829.png)Harvey continues as a tropical storm, moving slowly back to the Gulf, throwing tornadoes and flooding rains to New Orleans and beyond.
+
+Tropical Storm Harvey Local Statement Advisory Number 36 National Weather Service Houston/Galveston TX AL092017 446 AM CDT Tue Aug 29 2017:
+
+The catastrophic and life-threatening flooding event around the Houston metro continues this morning with water rescues and evacuations still ongoing across the area. A light to moderate rain continues to fall this morning, with the heavier rates now confined to Chambers County. Given the completely saturated ground, any amount current of rainfall and future expected rainfall will exacerbate conditions and hinder the recession of flood waters. Elevated tides will cause the recession of coastal flood waters to be slow, likely lasting into midweek. Historic flooding is likely on many area rivers and bayous, and many evacuations are already underway. The effect of this historic river and bayou flooding will remain ongoing long after the rains end. As Harvey drifts just off the Upper Texas Coast, the potential for tropical storm force winds will also extend up the coastline. A tornado or two cannot be ruled out today, however the threat for tornadoes has decreased substantially since yesterday. Ultimately, of the multiple hazards present with this storm, the greatest threat to life and property remains the ongoing prolonged and catastrophic flooding event. Source: [www.weather.gov](http://www.weather.gov/)
+
+**\[UPDATE Wednesday 08-30-2017\]**
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939859/TS-Harvey-20170830/TS-Harvey-20170830.png?_i=AA" class="size-thumbnail wp-image-4649 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/TS-Harvey-20170830.png) Texas is done with Tropical Storm Harvey. Today it's slowly moving toward Louisiana. The forecast still has it going north in the next few days - the forecasts so far have been wrong.
+
+Greater Houston is devastated. More than 5,000 square miles are under water; one spot east of Houston received 51 inches of rain in 5 days; over 40,000 homes have been damaged.
+
+[<img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939860/aptopix-harvey/aptopix-harvey.jpg?_i=AA" class="size-thumbnail wp-image-4650 alignright" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2017/08/aptopix-harvey.jpg) Many buildings in Corpus Christi, Port Aransas, Victoria, and Rockport - were Hurricane Harvey made landfall - were damaged.

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>How To Quickly Clean Up Your WordPress Database - teamsiems blog</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+		<link rel="stylesheet" href="./theme/css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<header>
+						<h1><a href=".">teamsiems blog</a></h1>
+						<p></p>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<nav>
+						<a href=".">Home</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<main><article>
+	<h2>How To Quickly Clean Up Your WordPress Database</h2>
+	<p><small>By chris on 2011-04-02</small></p>
+	<p>I'm putting this post on my site because I'm tired of searching for the commands.</p>
+<p>There are plugins that will clean up your WordPress wp_posts table, but if you have access to the database you can do this yourself.</p>
+<h2>Backup the Database</h2>
+<p>You should always make a backup copy of your database just in case something goes wrong. This is a "duh" - but it happens - and things can go wrong. You'll be deleting records from a table so before you do, make a backup.</p>
+<h2>Run the DELETE Query</h2>
+<p>Run the following command on your database. If you have a shared host with a cPanel you probably have phpmyadmin which is your user interface to your MySQL database. WordPress usually installs in MySQL as wrdp. You want click on the right database for your WordPress install. Once you are in the right database you can run this query:</p>
+<p><code>DELETE FROM wp_posts WHERE post_type = "revision";</code></p>
+<p>This will delete all the revisions from WordPress. Just out of curiousity you might take a note of how much space the wp_posts table was taking up before and after running this query. That will tell you how much room you recovered.</p>
+<h2>Optionally, You Can OPTIMIZE</h2>
+<p>This step is optional. If you are sweating bullets right now after deleting 20,000 revision posts, you can skip this step.</p>
+<p>Optimization "releases" the data you deleted from memory thus freeing memory. Its like delete puts data in the trashcan and optimize empties the trash. To optimize the wp_posts table run the following query:</p>
+<p><code>OPTIMIZE TABLE wp_posts;</code></p>
+<p>Check to see the size of this table. In the YIW database, the “wp_posts” is only 3,4 Mb in size, as you can see in the photo below. It’s a lot of space saved, don’t you think?</p>
+<h2>My Numbers</h2>
+<p>I've run this query several times over the years. It's like cleaning up your computer's hard drive - the more you use it the more you should clean it up. There were my numbers.</p>
+<p>Start 407 rows | 792.1 KB</p>
+<p>Deleted 61 rows | 96.1 KB</p>
+<p>Finish 346 rows | 695.4 KB</p>
+<p>Hope this works for you. I know it works for me and I use it about once a year or so.</p>
+</article>
+
+<nav>
+<div class="post-navigation">
+    <a href="./leasing-a-camry.html" class="prev-button">
+        &laquo; Leasing a Camry
+    </a>
+		|
+    <a href="./luigis-not-so-much.html" class="next-button">
+        Luigi's, not so much &raquo;
+    </a>
+</div>
+</nav>
+</main>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-10">
+					<footer>
+						<small>&copy; 2026 teamsiems blog</small>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	</body>
+</html>
