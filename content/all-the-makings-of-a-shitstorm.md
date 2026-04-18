@@ -33,7 +33,7 @@ Oh yeah, Texas also had a record number of COVID19 cases for one day on Sunday: 
 Thousands pay tribute to George Floyd at public viewing in Houston
 \*\*Update 6/10/2020\*\*
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)
+[![Sully](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)
 
 Even Texas A&M has felt the hatred of protesters. The Sul Ross statue was vandalized overnight with a rainbow-colored wig and graffiti - someone sprayed the words [BLM](https://en.wikipedia.org/wiki/Black\_Lives\_Matter), [ACAB](https://en.wikipedia.org/wiki/A.C.A.B.), and racist (and graphic depictions of the male sexual organ) on the statue with red paint.
 > [Lawrence Sullivan "Sully" Ross](https://en.wikipedia.org/wiki/Lawrence\_Sullivan\_Ross) was a Brigadier General during the Civil War and commander of the Texas Cavalry Brigade. After the war, he served as a Texas state senator, governor of Texas and, ultimately, president of the troubled Agricultural and Mechanical College of Texas, which eventually became Texas A&M University.

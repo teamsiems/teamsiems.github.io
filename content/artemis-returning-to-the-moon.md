@@ -8,7 +8,7 @@ Status: published
 [Artemis](https://www.nasa.gov/humans-in-space/artemis/), Greek goddess of the Moon, will follow in twin brother Apollo's footsteps, and return people to the Moon.
 Beginning with the Artemis Accords in 2020, NASA and 7 other countries established the foundations to explore the Moon, Mars, and beyond. Since 2020 there has been much planning, research, and development. They planned the first 5 missions to hopefully begin building a Moon base.
 
-[![](https://res.cloudinary.com/teamsiems/images/v1775663320/ArtemisI-patch/ArtemisI-patch.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1775663320/ArtemisI-patch/ArtemisI-patch.png?_i=AA)
+[![The first crewed Artemis flight marks a key step toward long‑term return to the Moon and future missions to Mars.](https://res.cloudinary.com/teamsiems/images/v1775663320/ArtemisI-patch/ArtemisI-patch.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1775663320/ArtemisI-patch/ArtemisI-patch.png?_i=AA)
 
 [Artemis I](https://www.nasa.gov/mission/artemis-i/): Successfully completed as an uncrewed test flight of the Space Launch System (SLS) rocket and Orion spacecraft. It launched from Kennedy Space Center on November 16, 2022, and splashed down December 11, 2022.
 

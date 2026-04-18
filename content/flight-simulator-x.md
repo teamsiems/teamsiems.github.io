@@ -6,7 +6,7 @@ Tags: flight, Microsoft, Simulator
 Slug: flight-simulator-x
 Status: published
 
-[![](http://teamsiems.com/wp-content/uploads/2010/04/flightsim10_16_lg-7093951-150x150.jpg "flightsim10")](http://teamsiems.com/wp-content/uploads/2010/04/flightsim10\_16\_lg-7093951.jpg)Just keep saying to yourself, "It's only a virtual world. It's only a virtual world.."
+[![flightsim10](http://teamsiems.com/wp-content/uploads/2010/04/flightsim10_16_lg-7093951-150x150.jpg "flightsim10")](http://teamsiems.com/wp-content/uploads/2010/04/flightsim10\_16\_lg-7093951.jpg)Just keep saying to yourself, "It's only a virtual world. It's only a virtual world.."
 Flight Simulator 10 (FSX) was released on October 17, 2006, and like its predecessors - it's as real as it gets.
 Microsoft went back to a two version packaging: standard and deluxe. Of course the deluxe has more stuff. Of course everyone's gonna want to get the deluxe - duh!
 At last glance (about 60 seconds ago) the deluxe retails for \$69.99. The best deal I saw was [tigerdirect.com](http://www.tigerdirect.com/) at \$59.99.

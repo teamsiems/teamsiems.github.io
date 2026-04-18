@@ -6,7 +6,7 @@ Tags: hurricanes, storms
 Slug: tropical-storm-isaac
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586033747/ts-isaac-2012-08-27/ts-isaac-2012-08-27.gif?_i=AA "ts-isaac-2012-08-27")](http://teamsiems.com/wp-content/uploads/2012/08/ts-isaac-2012-08-27.gif)
+[![ts-isaac-2012-08-27](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586033747/ts-isaac-2012-08-27/ts-isaac-2012-08-27.gif?_i=AA "ts-isaac-2012-08-27")](http://teamsiems.com/wp-content/uploads/2012/08/ts-isaac-2012-08-27.gif)
 
 TS Isaac as of August 27, 2012
 
@@ -15,7 +15,7 @@ Several news sources are saying that Isaac is cutting a path through the Gulf of
 > Isaac’s potential landfall as a Category 2 hurricane as early as Tuesday prompted evacuations along a wide area of the Gulf Coast and sent people out to stock up on staples. As of 5 p.m. EDT Monday, Isaac remained a tropical storm with top sustained winds of 70 mph. Its center was about 255 miles southeast of the mouth of the Mississippi River, and it was moving northwest at 12 mph. Source: [Fox News](http://www.foxnews.com/weather/2012/08/27/tropical-storm-isaac-aims-at-north-gulf-coast-could-hit-near-anniversary/)
 \*\*UPDATE: Hurricane Isaac\*\*
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586033748/hurricane-isaac-2012-08-28/hurricane-isaac-2012-08-28.gif?_i=AA "hurricane-isaac-2012-08-28")](http://teamsiems.com/wp-content/uploads/2012/08/hurricane-isaac-2012-08-28.gif)
+[![hurricane-isaac-2012-08-28](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586033748/hurricane-isaac-2012-08-28/hurricane-isaac-2012-08-28.gif?_i=AA "hurricane-isaac-2012-08-28")](http://teamsiems.com/wp-content/uploads/2012/08/hurricane-isaac-2012-08-28.gif)
 
 Hurricane Isaac 2012-08-28
 

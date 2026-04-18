@@ -19,7 +19,8 @@ MAX SUSTAINED WINDS 160 KT WITH GUSTS TO 195 KT.
 HURRICANE CENTER LOCATED NEAR 17.9N 62.6W AT 06/0900Z
 MAX SUSTAINED WINDS 160 KT WITH GUSTS TO 195 KT.
 \*\*\[UPDATE 09-07-2017\]\*\* Tropical Storm Jose strengthened to Hurricane Jose overnight, and Tropical Storm Katia strengthened to Hurricane Katia overnight. Hurricane Jose is following a similar path to Hurricane Irma, but it's expected to turn north sooner than Irma and not affect Florida. Florida is preparing for a strong Hurricane Irma; possibly Category 4. Hurricane Katia is still not expected to impact the U.S.
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939732/Three-Hurricanes-20170907/Three-Hurricanes-20170907.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2017/09/Three-Hurricanes-20170907.png)\*\*IRMA\*\*
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939732/Three-Hurricanes-20170907/Three-Hurricanes-20170907.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2017/09/Three-Hurricanes-20170907.png)
+\*\*IRMA\*\*
 HURRICANE IRMA FORECAST/ADVISORY NUMBER 34
 1500 UTC THU SEP 07 2017
 HURRICANE CENTER LOCATED NEAR 20.4N 69.7W AT 07/1500Z

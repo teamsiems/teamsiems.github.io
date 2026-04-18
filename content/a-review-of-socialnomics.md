@@ -6,7 +6,7 @@ Tags: facebook, twitter
 Slug: a-review-of-socialnomics
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993178/2011-04-16-22.27.48/2011-04-16-22.27.48.jpg?_i=AA)](http://www.amazon.com/Socialnomics-social-media-transforms-business/dp/0470477237/ref=sr_1_6?ie=UTF8&s=books&qid=1250193073&sr=8-6)\
+[![[Everything You Know About Web Design Is Wrong](http://teamsiems.com/2009/03/sxsw-day-one/),](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993178/2011-04-16-22.27.48/2011-04-16-22.27.48.jpg?_i=AA)](http://www.amazon.com/Socialnomics-social-media-transforms-business/dp/0470477237/ref=sr_1_6?ie=UTF8&s=books&qid=1250193073&sr=8-6)\
 
 Socialnomics
 

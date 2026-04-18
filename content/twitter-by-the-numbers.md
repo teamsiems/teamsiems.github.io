@@ -6,7 +6,7 @@ Tags: stats, twitter
 Slug: twitter-by-the-numbers
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938036/first-tweet/first-tweet.png?_i=AA "first-tweet-ever")](http://teamsiems.com/wp-content/uploads/2011/03/first-tweet.png)
+[![first-tweet-ever](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938036/first-tweet/first-tweet.png?_i=AA "first-tweet-ever")](http://teamsiems.com/wp-content/uploads/2011/03/first-tweet.png)
 
 @jack sent the first tweet
 

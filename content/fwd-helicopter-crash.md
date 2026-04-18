@@ -6,7 +6,7 @@ Tags: codemaroon, helicopter, tamu
 Slug: fwd-helicopter-crash
 Status: published
 
-[![](http://teamsiems.com/wp-content/uploads/2009/01/copter-crash-1-mcd_w300-7195761-150x150.jpg "helicopter-crash-tamu")](http://teamsiems.com/wp-content/uploads/2009/01/copter-crash-1-mcd\_w300-7195761.jpg)The original email notification from [CodeMaroon](http://codemaroon.tamu.edu):
+[![helicopter-crash-tamu](http://teamsiems.com/wp-content/uploads/2009/01/copter-crash-1-mcd_w300-7195761-150x150.jpg "helicopter-crash-tamu")](http://teamsiems.com/wp-content/uploads/2009/01/copter-crash-1-mcd\_w300-7195761.jpg)The original email notification from [CodeMaroon](http://codemaroon.tamu.edu):
 -------- Original Message --------
 Subject: Helicopter Crash
 Date: Mon, 12 Jan 2009 17:15:38 -0500

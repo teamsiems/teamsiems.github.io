@@ -6,7 +6,7 @@ Tags: Kate, royal, wedding, William
 Slug: prince-william-and-princess-kate-marry-and-kiss-twice
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586032884/Prince-William-and-Princess-Kate-Kiss/Prince-William-and-Princess-Kate-Kiss.jpg?_i=AA "Prince-William-and-Princess-Kate-Kiss")](http://teamsiems.com/wp-content/uploads/2011/04/Prince-William-and-Princess-Kate-Kiss.jpg)
+[![Prince-William-and-Princess-Kate-Kiss](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586032884/Prince-William-and-Princess-Kate-Kiss/Prince-William-and-Princess-Kate-Kiss.jpg?_i=AA "Prince-William-and-Princess-Kate-Kiss")](http://teamsiems.com/wp-content/uploads/2011/04/Prince-William-and-Princess-Kate-Kiss.jpg)
 
 William and Kate kiss...twice
 

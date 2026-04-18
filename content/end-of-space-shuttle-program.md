@@ -6,7 +6,7 @@ Tags: space shuttle
 Slug: end-of-space-shuttle-program
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938030/last-shuttle/last-shuttle.jpg?_i=AA "last-shuttle")](http://www.flickr.com/photos/scobleizer/5915301679/in/photostream)
+[![last-shuttle](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938030/last-shuttle/last-shuttle.jpg?_i=AA "last-shuttle")](http://www.flickr.com/photos/scobleizer/5915301679/in/photostream)
 
 STS-135 Last Shuttle Launch via Robert Scoble
 

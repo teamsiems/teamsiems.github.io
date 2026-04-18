@@ -6,7 +6,7 @@ Tags: CHS, facebook, reunion
 Slug: clearwater-high-school-20-year-class-reunion
 Status: published
 
-[![](http://teamsiems.com/wp-content/uploads/2010/07/pre-20year-union-2010-150x150.jpg "Pre-union get together at a bar")](http://teamsiems.com/wp-content/uploads/2010/07/pre-20year-union-2010.jpg)
+[![Pre-union get together at a bar](http://teamsiems.com/wp-content/uploads/2010/07/pre-20year-union-2010-150x150.jpg "Pre-union get together at a bar")](http://teamsiems.com/wp-content/uploads/2010/07/pre-20year-union-2010.jpg)
 
 Diana, Cathy, Joey, Sandra, me, Andy
 

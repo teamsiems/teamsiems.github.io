@@ -6,7 +6,7 @@ Tags: Florida, Gainesville, Rolling
 Slug: floridas-campus-killer-calmly-awaits-execution
 Status: published
 
-\*\*[![](http://teamsiems.com/wp-content/uploads/2010/04/danny_rolling_ap-7339001-150x150.jpg "danny_rolling_ap")](http://teamsiems.com/wp-content/uploads/2010/04/danny\_rolling\_ap-7339001.jpg)GAINESVILLE, Florida\*\* (AP) -- Danny Harold Rolling, Florida's most notorious serial killer since Ted Bundy, was "remarkably calm" as he awaited his execution for the grisly 1990 slayings of five college students in Gainesville, his attorney said Tuesday.
+\*\*[![danny_rolling_ap](http://teamsiems.com/wp-content/uploads/2010/04/danny_rolling_ap-7339001-150x150.jpg "danny_rolling_ap")](http://teamsiems.com/wp-content/uploads/2010/04/danny\_rolling\_ap-7339001.jpg)GAINESVILLE, Florida\*\* (AP) -- Danny Harold Rolling, Florida's most notorious serial killer since Ted Bundy, was "remarkably calm" as he awaited his execution for the grisly 1990 slayings of five college students in Gainesville, his attorney said Tuesday.
 Rolling's lawyers filed papers with the U.S. Supreme Court seeking a stay of execution. The Florida attorney general asked the court to reject Rolling's application.
 Rolling, 52, is scheduled to die at 6 p.m. Wednesday for a reign of terror that paralyzed Gainesville as the University of Florida's fall semester was beginning 16 years ago.
 I started my freshmen year at University of Florida in 1990. I arrived in Gainesville 3 days before the first body was found. I remember many people (especially girls) were running scared - dropping out of college and moving back home - after this happened. It's good to finally see justice being carried out.

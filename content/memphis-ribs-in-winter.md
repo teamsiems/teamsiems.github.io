@@ -28,9 +28,9 @@ Well, I'm made wet and sloppy Memphis style ribs today. I rubbed them this morni
 1/4 cup prepared mustard
 1 cup cider vinegar
 1 tsp salt
-[![](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060001-150x150.jpg "rub and mop sauce")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060001.jpg)
+[![rub and mop sauce](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060001-150x150.jpg "rub and mop sauce")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060001.jpg)
 The secret to tender ribs is to pull off the membrane on the back. Make a cut parallel with the ribs in the membrane and insert the knife under the membrane and gently pull it up. Then pull the rest of the membrane up with your fingers.
-[![](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060002-150x150.jpg "ribs on grill")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060002.jpg)Combine the rub ingredients and rub about 2/3 on the ribs. Wrap in plastic-wrap and put in the refrigerator for at least 4 hours.
+[![ribs on grill](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060002-150x150.jpg "ribs on grill")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060002.jpg)Combine the rub ingredients and rub about 2/3 on the ribs. Wrap in plastic-wrap and put in the refrigerator for at least 4 hours.
 When you wait for the grill to come to 200° F, combine the mop ingredients and set aside.
-[![](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060004-150x150.jpg "memphis ribs")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060004.jpg)Cook the ribs 1 hour meat-side up then mop the top and let cook for another 30 minutes. Flip them over and mop and let cook for 30 minutes. Continue mopping and cooking for 30 minutes until you run out of mop sauce or the ribs are done. Be sure to check the temperature. I try to keep mine at 200° F the whole time. It took my ribs about 2 1/2 hours to cook.
+[![memphis ribs](http://teamsiems.com/wp-content/uploads/2010/02/2010_02060004-150x150.jpg "memphis ribs")](http://teamsiems.com/wp-content/uploads/2010/02/2010\_02060004.jpg)Cook the ribs 1 hour meat-side up then mop the top and let cook for another 30 minutes. Flip them over and mop and let cook for 30 minutes. Continue mopping and cooking for 30 minutes until you run out of mop sauce or the ribs are done. Be sure to check the temperature. I try to keep mine at 200° F the whole time. It took my ribs about 2 1/2 hours to cook.
 I served my ribs with baked potatoes and baked beans.

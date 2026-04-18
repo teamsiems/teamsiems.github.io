@@ -22,7 +22,7 @@ I think I'm going to UPDATE this blog until I'm blue in the face. There's more b
 
 [The Tweet Race: Epic Fail for Mercedes, or Failing Like a Fox?](http://museyroom.com/post/3228984954/the-tweet-race-epic-fail-for-mercedes-or-failing-like)
 
-[![](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1-150x150.jpg "mbteams-final")](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1.jpg)
+[![mbteams-final](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1-150x150.jpg "mbteams-final")](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1.jpg)
 
 Final score on MBTweetRace.com
 

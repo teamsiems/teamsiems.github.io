@@ -6,7 +6,7 @@ Tags: gas
 Slug: a-sign-of-the-times
 Status: published
 
-[![](http://teamsiems.com/wp-content/uploads/2009/11/image011-7163931-150x150.jpg "gas-guage")](http://teamsiems.com/wp-content/uploads/2009/11/image011-7163931.jpg)This cartoon is a sign of the times. It hit me yesterday when I spent \$68 for about 17.5 gallons of gas! Then there's this story, reprinted for 1 month by permission from AP.
+[![gas-guage](http://teamsiems.com/wp-content/uploads/2009/11/image011-7163931-150x150.jpg "gas-guage")](http://teamsiems.com/wp-content/uploads/2009/11/image011-7163931.jpg)This cartoon is a sign of the times. It hit me yesterday when I spent \$68 for about 17.5 gallons of gas! Then there's this story, reprinted for 1 month by permission from AP.
 ## AP IMPACT: What makes up the price of gas?
 
 By JOHN PORRETTO and JOHN WILEN

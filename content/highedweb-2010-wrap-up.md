@@ -32,7 +32,7 @@ I know it's a month late, but here's my wrap-up of High Ed Web 2010.
 Last year I wrapped up [HighEdWeb 2009](http://teamsiems.com/2009/10/highedweb-2009-wrap-up/) with this thought:
 > We have something to think about for next year. In this age of transparency you must “know thyself” and be an expert in your area – experience and ignorance shine equally through the window of our minds. We are people in higher education with limited budgets that come together to live, laugh, learn, and we express ourselves using the technology we help to create – the web.
 
-[![](http://teamsiems.com/wp-content/uploads/2010/11/5071270431_b57872778d_b.jpg "HighEdWeb 2010 Opening")](http://www.flickr.com/photos/highedweb/5071270431/)
+[![HighEdWeb 2010 Opening](http://teamsiems.com/wp-content/uploads/2010/11/5071270431_b57872778d_b.jpg "HighEdWeb 2010 Opening")](http://www.flickr.com/photos/highedweb/5071270431/)
 
 Sea of Hands at HighEdWeb 2010 Opening Session
 
@@ -40,7 +40,7 @@ So, did we learn our lessons? Did we know ourselves? Did we become experts? The 
 There was only one keynote this year, by Steve Krug, author of "[Don't Make Me Think](http://www.sensible.com/dmmt.html)." While I think the keynote wasn't a failure, I expected more. I expected Steve to be a more engaging speaker. I'm glad he was the keynote. He did what he said he does in the book: he gave a quick accessibility test using a member of the audience.
 I think the biggest difference this year was the comfort level. Being around so many people with the same job as me was comfortable. I think that was due in part because I was returning to many of the same people, but also because we had shared our lives on Twitter throughout the past year. I felt like I knew them.
 
-[![](http://teamsiems.com/wp-content/uploads/2010/10/wordle-150x150.gif "wordle")](http://teamsiems.com/wp-content/uploads/2010/10/wordle.gif)
+[![wordle](http://teamsiems.com/wp-content/uploads/2010/10/wordle-150x150.gif "wordle")](http://teamsiems.com/wp-content/uploads/2010/10/wordle.gif)
 
 Worldle of this blog for HighEdWeb
 

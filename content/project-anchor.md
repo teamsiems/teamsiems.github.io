@@ -11,7 +11,7 @@ Status: published
 >
 >Source: [merriam-webster.com](https://www.merriam-webster.com/dictionary/eschatology)
 
-![](https://res.cloudinary.com/teamsiems/images/v1770741767/ShockingNews_9348104d7/ShockingNews_9348104d7.png?_i=AA)
+![event](https://res.cloudinary.com/teamsiems/images/v1770741767/ShockingNews_9348104d7/ShockingNews_9348104d7.png?_i=AA)
 \*\*Project Anchor\*\* is described as a NASA initiative focused on controlling gravitational waves. According to the story, two black holes collided billions of years ago, sending gravitational waves toward Earth. As these waves traveled, they supposedly passed through dark matter, which “lensed” or amplified them. Scientists are said to predict that the waves will reach Earth on \*\*August 12, 2026, at 14:33 UTC (9:33 AM CDT)\*\*, triggering a “gravitational discontinuity event” during which Earth would temporarily \*\*lose gravity for seven seconds\*\*.
 This raises the question: \*\*Is Project Anchor just another end‑of‑the‑world prediction like the Mayan calendar scare in 2012 or the Y2K panic in 2000, or is there any truth behind it?\*\*
 ## Busted

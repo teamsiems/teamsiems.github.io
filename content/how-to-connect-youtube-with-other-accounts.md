@@ -6,7 +6,7 @@ Tags: connected, facebook, sharing, twitter
 Slug: how-to-connect-youtube-with-other-accounts
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939048/youtube-account-sharing/youtube-account-sharing.png?_i=AA "youtube-account-sharing")](http://teamsiems.com/wp-content/uploads/2011/12/youtube-account-sharing.png)With the new YouTube interface, some of the screens/options have changed.
+[![youtube-account-sharing](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939048/youtube-account-sharing/youtube-account-sharing.png?_i=AA "youtube-account-sharing")](http://teamsiems.com/wp-content/uploads/2011/12/youtube-account-sharing.png)With the new YouTube interface, some of the screens/options have changed.
 This page shows you where to change the services you share videos, favorites, likes, comments, etc.
 First, log in to your YouTube account and then go to
 or click on the \*\*Settings\*\* under your account menu (top right). Then click on \*\*Sharing\*\* on the left menu. This should be the \*\*Sharing and Connected Accounts\*\* page.

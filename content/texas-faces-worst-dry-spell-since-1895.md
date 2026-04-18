@@ -6,7 +6,7 @@ Tags: drought, fires, heat, Texas
 Slug: texas-faces-worst-dry-spell-since-1895
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939401/texasdrought20110911/texasdrought20110911.jpg?_i=AA "texasdrought20110911")](http://teamsiems.com/wp-content/uploads/2011/09/texasdrought20110911.jpg)
+[![texasdrought20110911](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939401/texasdrought20110911/texasdrought20110911.jpg?_i=AA "texasdrought20110911")](http://teamsiems.com/wp-content/uploads/2011/09/texasdrought20110911.jpg)
 
 Texas drought 2011-09-11
 

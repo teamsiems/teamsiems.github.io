@@ -53,7 +53,7 @@ Cases have been "spiking" in Arizona, Texas, and Florida, after these states beg
 Meanwhile, we are still working from home (week 17), summer classes are 100% online, and we're in limbo looking at current case numbers and trying to plan for the future. The current plan is to have 50% online and 50% face-to-face classes in the fall with classes starting earlier on August 19, and ending November 24. Class days will be longer too, 8 am - 8:35 pm, and conference rooms will be used as classrooms.
 ## Update 7/18/2020
 As of today there have been 14,106,753 cases worldwide and 602,657 deaths ([JHU map](https://coronavirus.jhu.edu/map.html)); 3,647,715 cases in the United States and 139,266 deaths; 307,572 cases in Texas and 3,735 deaths ([Texas DSHS](https://www.dshs.texas.gov/coronavirus/)).
-[![](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)
+[![locust](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)
 ## Update 8/1/2020
 As of today there have been 17,614,426 cases worldwide and 679,987 deaths ([JHU map](https://coronavirus.jhu.edu/map.html)); 4,563,445 cases in the United States and 153,320 deaths; 438,293 cases in Texas and 6,576 deaths ([Texas DSHS](https://www.dshs.texas.gov/coronavirus/)).
 ## Update 8/15/2020
@@ -161,7 +161,7 @@ Also this week, the Lambda variant popped up in a Houston hospital.
 ## Update 8/6/2021
 As of today there have been 201,106,458 cases worldwide and 4,271,616 deaths and 4,339,419,428 vaccinations administered ([JHU map](https://coronavirus.jhu.edu/map.html)); 35,444,963 cases in the United States and 615,347 deaths; 3,201,586 cases in Texas and 53,538 deaths.
 Over the past 30 days, there has been a growing trend in the number of cases (blamed on the Delta variant), but deaths are not following the trend. The number of vaccinations have slowed; curve flattening.
-[![](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)
+[![very high](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)
 ## Update 8/21/2021
 On Tuesday, August 17, Governor Greg Abbott tested positive for COVID-19.
 >>

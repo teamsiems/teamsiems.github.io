@@ -6,9 +6,9 @@ Tags: Biden, McCain, Obama, Palin
 Slug: the-lots-have-been-cast-let-the-battle-begin
 Status: published
 
-![](https://res.cloudinary.com/teamsiems/images/w_110,h_150,c_scale/v1603997905/obama-biden-7048041/obama-biden-7048041.jpg?_i=AA "obama-biden")
+![obama-biden](https://res.cloudinary.com/teamsiems/images/w_110,h_150,c_scale/v1603997905/obama-biden-7048041/obama-biden-7048041.jpg?_i=AA "obama-biden")
 
-![](https://res.cloudinary.com/teamsiems/images/v1603997631/mccain-palin-7991121/mccain-palin-7991121.jpg?_i=AA "mccain-palin")
+![mccain-palin](https://res.cloudinary.com/teamsiems/images/v1603997631/mccain-palin-7991121/mccain-palin-7991121.jpg?_i=AA "mccain-palin")
 
 On the left we have history-making campaign of Barak Obama, Senator from Illinois, and Joe Biden, Senator from Maryland. Obama, the black man, is the one running for president.
 On the right we have the other history-making campaignof John McCain, Senator from Arizona, and Sarah Palin, Govenor of Alaska.

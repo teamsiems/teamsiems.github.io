@@ -6,7 +6,7 @@ Tags: earthquake, Japan, nuclear power, tidal wave
 Slug: japan-crisis-continues
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586004703/Japan-Daiichi-Nuclear-Plant/Japan-Daiichi-Nuclear-Plant.jpg?_i=AA "Japan-Daiichi-Nuclear-Plant")](http://teamsiems.com/wp-content/uploads/2011/03/Japan-Daiichi-Nuclear-Plant.jpg)
+[![Japan-Daiichi-Nuclear-Plant](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1586004703/Japan-Daiichi-Nuclear-Plant/Japan-Daiichi-Nuclear-Plant.jpg?_i=AA "Japan-Daiichi-Nuclear-Plant")](http://teamsiems.com/wp-content/uploads/2011/03/Japan-Daiichi-Nuclear-Plant.jpg)
 
 Daiichi Nuclear Plant
 

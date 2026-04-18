@@ -6,7 +6,7 @@ Tags: heweb10
 Slug: worf-the-tribble
 Status: published
 
-[![](http://farm5.static.flickr.com/4151/5034812711_655f508e1b_m.jpg)](http://www.flickr.com/photos/teamsiems/5034812711/ "photo sharing")
+[![photo sharing](http://farm5.static.flickr.com/4151/5034812711_655f508e1b_m.jpg)](http://www.flickr.com/photos/teamsiems/5034812711/ "photo sharing")
 [Worf, the Tribble](http://www.flickr.com/photos/teamsiems/5034812711/)
 Originally uploaded by [teamsiems](http://www.flickr.com/people/teamsiems/)
 

@@ -6,7 +6,7 @@ Tags: hurricanes, nhc, storms
 Slug: the-2018-hurricane-season
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930655/Fires-20180707/Fires-20180707.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/Fires-20180707.png)
+[![below normal](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930655/Fires-20180707/Fires-20180707.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/Fires-20180707.png)
 This year the story so far is wildfires in western states and high temperatures in northern states. There's several large wildfires burning in Washington, Oregon, California, Idaho, Nevada, Utah, Arizona, and Colorado. Over the July 4th holiday (it fell on Wednesday) temperatures topped 100° F as far north as Minnesota.
 It's now the second week of July, and we've only had one subtropical storm, Alberto. Another storm, [Hurricane Beryl](https://www.nhc.noaa.gov/archive/2018/BERYL.shtml), is located about 720 miles east of the Lesser Antilles. It was a category 1 hurricane, but it was downgraded this morning to a tropical storm. Last year we had 4 tropical storms by July 4th; first hurricane, Franklin, formed August 9 and hit Mexico the next day.
 [![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930654/TS-Beryl-20180707/TS-Beryl-20180707.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/TS-Beryl-20180707.png)

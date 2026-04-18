@@ -9,7 +9,7 @@ Status: published
 > It was August 6, 1991, at a CERN facility in the Swiss Alps, when 36-year-old physicist Tim Berners-Lee published the first-ever website. It was, not surprisingly, a pretty basic one... Source: [20 Years Ago Today: The First Website Is Published - Wired.com](http://www.wired.com/geekdad/2011/08/world-wide-web-20-years/).
 Wow, 20 years of the WorldWideWeb (W3)!
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939403/first-web-page/first-web-page.png?_i=AA "first-web-page")](http://teamsiems.com/wp-content/uploads/2011/08/first-web-page.png)
+[![first-web-page](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939403/first-web-page/first-web-page.png?_i=AA "first-web-page")](http://teamsiems.com/wp-content/uploads/2011/08/first-web-page.png)
 
 First Web page circa 1992
 

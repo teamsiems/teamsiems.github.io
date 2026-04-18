@@ -6,7 +6,7 @@ Tags: CHIP, cigarette, tax
 Slug: stop-funding-childrens-health-care-with-my-tobacco
 Status: published
 
-[![](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201-150x150.gif "fet-784420[1]")](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201.gif)Congress is at it again. They want to increase the FET on tobacco. Go to Stop the FET increase.com and send a letter to your representatives:
+[![fet-784420[1]](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201-150x150.gif "fet-784420[1]")](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201.gif)Congress is at it again. They want to increase the FET on tobacco. Go to Stop the FET increase.com and send a letter to your representatives:
 > I recently learned that Congress is again considering increasing the federal excise tax on cigarettes by as much as 156%.
 >
 > At a time when Congress is talking about passing a multi-billion dollar stimulus package, it doesn't make sense to raise any type of taxes. Moreover, I understand that as cigarette sales continue to decline it becomes an increasingly unreliable source of revenue for the government and that a cigarette excise tax impacts lower income households more than higher income households. That's not fair!
