@@ -6,6 +6,6 @@ Tags: prison, Texas, Wal-Mart
 Slug: prison-mart
 Status: published
 
-[<img src="http://teamsiems.com/wp-content/uploads/2010/04/205681546_58b04a77b1_o1-150x150.jpg" title="prison-mart" class="alignleft size-thumbnail wp-image-1935" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2010/04/205681546_58b04a77b1_o1.jpg)[Prison-Mart](http://www.flickr.com/photos/teamsiems/205681546/)  
-Originally uploaded by [teamsiems](http://www.flickr.com/people/teamsiems/).  
+[![](http://teamsiems.com/wp-content/uploads/2010/04/205681546_58b04a77b1_o1-150x150.jpg "prison-mart")](http://teamsiems.com/wp-content/uploads/2010/04/205681546\_58b04a77b1\_o1.jpg)[Prison-Mart](http://www.flickr.com/photos/teamsiems/205681546/)
+Originally uploaded by [teamsiems](http://www.flickr.com/people/teamsiems/).
 If it wasn't for the McDonalds sign, this Wal-Mart could be a Texas prison.

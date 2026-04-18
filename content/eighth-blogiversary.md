@@ -7,5 +7,4 @@ Slug: eighth-blogiversary
 Status: published
 
 It all started 8 years ago today with one simple blog post: [Zeitgeist Defined](http://teamsiems.com/2005/02/teamsiems-zeitgeist-defined/). Happy 8th Blogiversary!
-
-In addition to teamsiems Zeitgeist, I now write three other blogs: [teamsiems tweets](http://tweets.teamsiems.com/), <a href="http://aif.teamsiems.com/" target="_blank">Adventures in Flying</a>, and [Noms For The Win](http://nomsftw.teamsiems.com/).
+In addition to teamsiems Zeitgeist, I now write three other blogs: [teamsiems tweets](http://tweets.teamsiems.com/), [Adventures in Flying](http://aif.teamsiems.com/), and [Noms For The Win](http://nomsftw.teamsiems.com/).

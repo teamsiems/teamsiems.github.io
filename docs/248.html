@@ -36,60 +36,21 @@
 					<main><article>
 	<h2>XSLT and org.apache.xalan.xslt.Process</h2>
 	<p><small>By chris on 2009-07-08</small></p>
-	<p>I had to download and open the Xalan package from a mirror site at <a href="http://www.apache.org/dyn/closer.cgi/xml/xalan-j" id="zh7m" title="http://www.apache.org/dyn/closer.cgi/xml/xalan-j">http://www.apache.org/dyn/closer.cgi/xml/xalan-j</a>.</p>
-<p>I had to set the class path in DOS. I read <a href="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html" id="r4gz" title="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html">http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html</a> to find the command.</p>
-<div class="highlight"><pre><span></span><code><span class="nt">set</span><span class="w"> </span><span class="nt">CLASSPATH</span><span class="o">=</span><span class="nt">C</span><span class="o">:</span><span class="err">\</span><span class="nt">xalan-j_2_7_1</span><span class="err">\</span><span class="nt">xalan</span><span class="p">.</span><span class="nc">jar</span><span class="o">;</span><span class="nt">C</span><span class="o">:</span><span class="err">\</span><span class="nt">xalan-j_2_7_1</span><span class="err">\</span><span class="nt">serializer</span><span class="p">.</span><span class="nc">jar</span><span class="o">;</span><span class="nt">C</span><span class="o">:</span><span class="err">\</span><span class="nt">xalan-j_2_7_1</span><span class="err">\</span><span class="nt">xml-apis</span><span class="p">.</span><span class="nc">jar</span><span class="o">;</span><span class="nt">C</span><span class="o">:</span><span class="err">\</span><span class="nt">xalan-j_2_7_1</span><span class="err">\</span><span class="nt">xercesImpl</span><span class="p">.</span><span class="nc">jar</span>
-</code></pre></div>
-
-<p>You have to set each path you need and seperate them with semicolons (;). I read <a href="http://xml.apache.org/xalan-j/getstarted.html" id="lkg0" title="http://xml.apache.org/xalan-j/getstarted.html">http://xml.apache.org/xalan-j/getstarted.html</a> to find which .jar files I needed in the path. Then I dug through my computer to find them. Another note, the path needs to be set each time you run DOS.</p>
-<p>Finally, I was able to run the Hello World transform that I found at <a href="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm" id="ay6x" title="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm">http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm</a>.</p>
-<div>
-
-greeting.xml:
-
-    <?xml version="1.0"?>
-    <greeting>
-      Hello, World!
-    </greeting>
-
-</div>
-
+	<p>I had to download and open the Xalan package from a mirror site at <a href="http://www.apache.org/dyn/closer.cgi/xml/xalan-j" title="http://www.apache.org/dyn/closer.cgi/xml/xalan-j">http://www.apache.org/dyn/closer.cgi/xml/xalan-j</a>.
+I had to set the class path in DOS. I read <a href="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html" title="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html">http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html</a> to find the command.
+set CLASSPATH=C:\xalan-j_2_7_1\xalan.jar;C:\xalan-j_2_7_1\serializer.jar;C:\xalan-j_2_7_1\xml-apis.jar;C:\xalan-j_2_7_1\xercesImpl.jar
+You have to set each path you need and seperate them with semicolons (;). I read <a href="http://xml.apache.org/xalan-j/getstarted.html" title="http://xml.apache.org/xalan-j/getstarted.html">http://xml.apache.org/xalan-j/getstarted.html</a> to find which .jar files I needed in the path. Then I dug through my computer to find them. Another note, the path needs to be set each time you run DOS.
+Finally, I was able to run the Hello World transform that I found at <a href="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm" title="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm">http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm</a>.</p>
+<p>greeting.xml:
+xml version="1.0"?</p>
+<p>Hello, World!</p>
 <p>greeting.xsl:</p>
-<div class="highlight"><pre><span></span><code><span class="k">&lt;xsl:stylesheet</span>
-<span class="w">     </span><span class="na">xmlns:xsl=</span><span class="s">&quot;http://www.w3.org/1999/XSL/Transform&quot;</span>
-<span class="w">     </span><span class="na">version=</span><span class="s">&quot;1.0&quot;</span><span class="nt">&gt;</span>
-<span class="w">  </span><span class="k">&lt;xsl:output</span><span class="w"> </span><span class="na">method=</span><span class="s">&quot;html&quot;</span><span class="nt">/&gt;</span>
-
-<span class="w">  </span><span class="k">&lt;xsl:template</span><span class="w"> </span><span class="na">match=</span><span class="s">&quot;/&quot;</span><span class="nt">&gt;</span>
-<span class="w">    </span><span class="k">&lt;xsl:apply-templates</span><span class="w"> </span><span class="na">select=</span><span class="s">&quot;greeting&quot;</span><span class="nt">/&gt;</span>
-<span class="w">  </span><span class="k">&lt;/xsl:template&gt;</span>
-
-<span class="w">  </span><span class="k">&lt;xsl:template</span><span class="w"> </span><span class="na">match=</span><span class="s">&quot;greeting&quot;</span><span class="nt">&gt;</span>
-<span class="w">    </span><span class="nt">&lt;html&gt;</span>
-<span class="w">      </span><span class="nt">&lt;body&gt;</span>
-<span class="w">        </span><span class="nt">&lt;h1&gt;</span>
-<span class="w">          </span><span class="k">&lt;xsl:value-of</span><span class="w"> </span><span class="na">select=</span><span class="s">&quot;.&quot;</span><span class="nt">/&gt;</span>
-<span class="w">        </span><span class="nt">&lt;/h1&gt;</span>
-<span class="w">      </span><span class="nt">&lt;/body&gt;</span>
-<span class="w">    </span><span class="nt">&lt;/html&gt;</span>
-<span class="w">  </span><span class="k">&lt;/xsl:template&gt;</span>
-<span class="k">&lt;/xsl:stylesheet&gt;</span>
-</code></pre></div>
-
-<p>Use the command</p>
-<div class="highlight"><pre><span></span><code><span class="n">java org.apache.xalan.xslt.Process -in greeting.xml -xsl greeting.xsl -out greeting.html</span>
-</code></pre></div>
-
-<p>And it worked!<br>
+<h1></h1>
+<p>Use the command
+java org.apache.xalan.xslt.Process -in greeting.xml -xsl greeting.xsl -out greeting.html
+And it worked!
 greeting.html:</p>
-<div class="highlight"><pre><span></span><code><span class="nt">&lt;html&gt;</span>
-<span class="nt">&lt;body&gt;</span>
-<span class="nt">&lt;h1&gt;</span>
-<span class="w">  </span>Hello,<span class="w"> </span>World!
-<span class="nt">&lt;/h1&gt;</span>
-<span class="nt">&lt;/body&gt;</span>
-<span class="nt">&lt;/html&gt;</span>
-</code></pre></div>
+<h1>Hello, World!</h1>
 </article>
 
 <nav>

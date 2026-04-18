@@ -6,4 +6,4 @@ Tags: application, artist, Pollock
 Slug: jackson-pollock-birthday
 Status: published
 
-[<img src="http://teamsiems.com/wp-content/uploads/2009/01/mypollick-7741331-150x150.gif" title="mypollick-774133[1]" class="alignleft size-thumbnail wp-image-2031" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2009/01/mypollick-7741331.gif)[jacksonpollock.org](http://jacksonpollock.org/) is featuring a "make your own Pollick print" on this website - at least for today - Jackson Pollock's birthday.
+[![](http://teamsiems.com/wp-content/uploads/2009/01/mypollick-7741331-150x150.gif "mypollick-774133[1]")](http://teamsiems.com/wp-content/uploads/2009/01/mypollick-7741331.gif)[jacksonpollock.org](http://jacksonpollock.org/) is featuring a "make your own Pollick print" on this website - at least for today - Jackson Pollock's birthday.

@@ -6,288 +6,56 @@ Tags: facebook, twitter
 Slug: a-review-of-socialnomics
 Status: published
 
-<!-- wp:image {"align":"left","id":2970} -->
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993178/2011-04-16-22.27.48/2011-04-16-22.27.48.jpg?_i=AA)](http://www.amazon.com/Socialnomics-social-media-transforms-business/dp/0470477237/ref=sr_1_6?ie=UTF8&s=books&qid=1250193073&sr=8-6)\
 
-<figure class="wp-block-image alignleft">
-<a href="http://www.amazon.com/Socialnomics-social-media-transforms-business/dp/0470477237/ref=sr_1_6?ie=UTF8&amp;s=books&amp;qid=1250193073&amp;sr=8-6" target="_blank" rel="noreferrer noopener"><img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993178/2011-04-16-22.27.48/2011-04-16-22.27.48.jpg?_i=AA" class="wp-image-2970" /></a><br />
+Socialnomics
 
-<figcaption>Socialnomics</figcaption>
-</figure>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-Reading [*Socialnomics*](http://socialnomics.net/) by Erik Qualman (Twitter: [@equalman](http://twitter.com/equalman)) made me think - both pro and con - about his examples and anecdotes. I'm writing this review to share some of my anecdotes and thoughts that I remembered while reading this book. I hope my thoughts can enlighten someone about social media the same way *Socialnomics* enlightened me. Qualman wrote a good book. He has a lot of ideas on the economics behind social media and how it will affect us in the future.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-As this review grew I began thinking of patterns. What were the categories for what I was reading? I came up with 3 basic categories: **Trust**, **Influence** and **Economics**. I also remembered ideas about a new web grammar from a conference I attended in March 2009. I preface my review with an outline of the possible new web grammar.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
-## **Preface**
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
-After reading *Socialnomics* I starting seeing patterns I remembered from a talk given at [SXSW 2009](http://2009.sxsw.com/interactive/talks/panels/?action=show&id=IAP0900141). Dan Willis' presentation, "[Everything You Know About Web Design Is Wrong](http://teamsiems.com/2009/03/sxsw-day-one/)," outlined a possible new web grammar:
-
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-- *ambient awareness* - a collection of works by someone defines them like "thousands of dots make a pointillist painting"
-- *user-created context* - "Web experiences come down to a single user and the context they create as they find their own way to the satisfaction of their goals."
-- *random voyeurism* - "Humans have a proclivity for watching other humans, especially at their most private moments."
-- *self aware (but uncontrollable) content* - mashups are a natural reaction to increasingly available content which causes a "shift in power from author to reader and from authority to popularity"
-- *experiential content* - content becomes experience. The page, image, audio, video or posting the review are part of the interaction of experience and that is the content
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-
+Reading [\*Socialnomics\*](http://socialnomics.net/) by Erik Qualman (Twitter: [@equalman](http://twitter.com/equalman)) made me think - both pro and con - about his examples and anecdotes. I'm writing this review to share some of my anecdotes and thoughts that I remembered while reading this book. I hope my thoughts can enlighten someone about social media the same way \*Socialnomics\* enlightened me. Qualman wrote a good book. He has a lot of ideas on the economics behind social media and how it will affect us in the future.
+As this review grew I began thinking of patterns. What were the categories for what I was reading? I came up with 3 basic categories: \*\*Trust\*\*, \*\*Influence\*\* and \*\*Economics\*\*. I also remembered ideas about a new web grammar from a conference I attended in March 2009. I preface my review with an outline of the possible new web grammar.
+## \*\*Preface\*\*
+After reading \*Socialnomics\* I starting seeing patterns I remembered from a talk given at [SXSW 2009](http://2009.sxsw.com/interactive/talks/panels/?action=show&id=IAP0900141). Dan Willis' presentation, "[Everything You Know About Web Design Is Wrong](http://teamsiems.com/2009/03/sxsw-day-one/)," outlined a possible new web grammar:
+- \*ambient awareness\* - a collection of works by someone defines them like "thousands of dots make a pointillist painting"
+- \*user-created context\* - "Web experiences come down to a single user and the context they create as they find their own way to the satisfaction of their goals."
+- \*random voyeurism\* - "Humans have a proclivity for watching other humans, especially at their most private moments."
+- \*self aware (but uncontrollable) content\* - mashups are a natural reaction to increasingly available content which causes a "shift in power from author to reader and from authority to popularity"
+- \*experiential content\* - content becomes experience. The page, image, audio, video or posting the review are part of the interaction of experience and that is the content
 I can see how these apply to all web communication especially social media. After I started writing this review I realized that socialnomics - the economics of social media - was indirectly an outline of how social media can capitalize on this new grammar. So, as you read, I challenge you to make the connections between the new web grammar and the economics of social media.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
-## **Trust**
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
+## \*\*Trust\*\*
 In an example in chapter 1, "Idaho Bloggers Are Better than New York Reporters," a blogger from Idaho has inside knowledge of a senator who is involved in a drunken car-accident. A reporter from New York, writing this story for a large newspaper's web-site, does some research on the Internet and finds history about the senator in of all places - the blogger's web site. The reporter goes to Idaho to do more research, interviews, etc., and write the story. Qualman says this example, "demonstrates the availability of free, great content on the Web and the fact that some of the most qualified people to write a story are bloggers." (p. 17)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 In my experience, most amateur bloggers write opinions and/or myths. They might have a few verifiable facts, but for the most part they fill their blogs with what they think and what they want to write about. So, if I read a blog about a senator charged with drunk driving, I would probably try to corroborate it with a source I trust, like the New York Times or CNN. One cannot deny that major newspapers and television news networks still hold influence when it comes to reporting "important" news. On the other hand, if CNN learned about the story from a local blogger, then my theory - and trust - goes out the window. As a point of fact, CNN has recently started getting "news" from "[iReporters](http://ireport.cnn.com/)" or unpaid people that witness a story first hand. That is a clever way of capitalizing on all of the new web grammar points, and I tend to trust the reports (CNN marks them vetted on their web site).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Another example, when Michael Jackson died unexpectedly, I read about it first on [Twitter](http://twitter.com/) followed immediately by verifying it on [CNN.com](http://cnn.com/). Call me "old school" or "Gen X", but I think social media makes it too easy for anyone to spread rumors. Important information needs corroboration and verification. In this context "important" is a relative term. To me important information is information that will affect my life or something I might hear at the proverbial water cooler. In either case I wont be caught with a dumb look on my face when someone informs me of the "facts."
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 As yet another example, a rumor was started on Twitter with the hash tag, "RIP Kayne West", after something happened to singer Kayne West. It trended to the top of Twitter's top ten and stayed there even after it was proven false.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 These examples tell me something I already knew. Readers build trust with their information sources. If they can't trust a source then they will distrust that source.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 These examples also show us that there is power in group-think or mob mentality when it comes to social media - more than traditional media - and that memes will find ways to sustain their braggadocian behavior by any means necessary. (Memes and braggadocians are terms I learned from this book.) It comes down to the speed of social media to spread information or disinformation. Both spread equally fast in any media, but social media is faster than traditional (news) media.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
-## **Influence**
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
+## \*\*Influence\*\*
 Once we trust an information source we're more likely to be influenced by it, or more accurately, influenced by the information we get from it. At some point in this relationship we may loose sight of how much influence media has on us.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-I  blogged before I bought *Socialnomics* that [Twitter is influencing writing style](../2009/09/twitters-influence-on-writing-style/). Actually, not just Twitter but most social media has - I would argue - adversely affected the way people write and think. In particular I noted:
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
+I  blogged before I bought \*Socialnomics\* that [Twitter is influencing writing style](../2009/09/twitters-influence-on-writing-style/). Actually, not just Twitter but most social media has - I would argue - adversely affected the way people write and think. In particular I noted:
 > The whole social media paradigm is based on terse, quick-to-publish bits of information. As a result we write in "[leetspeak](http://en.wikipedia.org/wiki/Leet)", use shorter words, use micro-URL services (e.g. [bit.ly](http://bit.ly/)), use "hash tags", and write incomplete sentences.
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
 I think the book confirms my theory. Qualman quoted a study done by the National Commission on Writing at the College Board: "38 percent \[of students\] have carried over IM or e-mail shortcuts such as LOL." (p. 54)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-In chapter 4, Qualman writes that President Obama's success was largely due to [YouTube](http://www.youtube.com/) and other social media outlets. One cannot deny that social media has influence with its users; however, I think it is important to keep this example in context. As of August 2009, [Obama was 48](http://wiki.answers.com/Q/How_old_is_Barack_Obama) years old and [McCain was 73](http://www.answers.com/topic/john-mccain) years old. Similarly, Bill Clinton was younger than G. H. W. Bush when he won the presidency. History shows us that younger voters vote for younger candidates. I believe Clinton and Obama used the media popular with young voters to speak to them. If YouTube was around in 1992, I'm sure Clinton would have used it to his advantage.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
+In chapter 4, Qualman writes that President Obama's success was largely due to [YouTube](http://www.youtube.com/) and other social media outlets. One cannot deny that social media has influence with its users; however, I think it is important to keep this example in context. As of August 2009, [Obama was 48](http://wiki.answers.com/Q/How\_old\_is\_Barack\_Obama) years old and [McCain was 73](http://www.answers.com/topic/john-mccain) years old. Similarly, Bill Clinton was younger than G. H. W. Bush when he won the presidency. History shows us that younger voters vote for younger candidates. I believe Clinton and Obama used the media popular with young voters to speak to them. If YouTube was around in 1992, I'm sure Clinton would have used it to his advantage.
 Social media is playing a part in the decline of traditional media. I wrote about an article on Yahoo news, [Newspaper circulation drop accelerates](http://teamsiems.com/2009/10/newspaper-circulation-drop-accelerates/), that talks about the decline in ad revenue because more companies are going to cheaper, faster ROI, Internet ads:
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
 > As more (young) people turn to the Internet for news and information, they are more involved, more engaged in the news; users are making the news. This is a sign of times to come – newspapers and news media are an endangered species – the Internet is the new news source and social media is the new printing press.
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
 So, we've traded newspapers for computer screens, and now we're the reporters. Social media may not be the only cause, but it certainly has been influential in moving us along. It's compelling.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Another example of using star power and social media was the story about actor [Ashton Kutcher](http://teamsiems.com/2009/04/ashton-kutcher-challenges-cnn-to-twitter-popularity-contest/) challenging CNN to a Twitter popularity contest; first one to 1 million followers. His premise was that Twitter - and social media in general - is the new news source.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Lest we forget about the Twitter back channel. During [SXSW 2008](http://2008.sxsw.com/) the back channel took over a session and [the host lost control](http://teamsiems.com/2009/10/zappos-tony-hsieh-keynote-visual-thought/). At [HighEdWeb 2009](http://2009.highedweb.org/) the back channel comments were so harsh and prolific during one particularly bad keynote presentation, the conference hash tag, \#heweb09, trended into Twitter's top ten. The term "harshtag" was being used to describe [what was happening](http://teamsiems.com/2009/10/highedweb-2009-wrap-up/).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Needless to say social media influences us because we trust in it. We trust in the people using it. We trust the information that is made available through it. As part of a larger example, Qualman introduces the economic/marketing concepts of inside-out versus outside-in paradigms.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 The inside-out approach is the old way where the company asks "How can we grow our database" of leads and send them mail (p. 172). The outside-in is the new way where the company asks "What do we have to offer" that customers want (p. 172). A smart company, in today's social media driven world, uses the outside-in approach.  I think this relates trust to influence for the company's economic gain: if the consumer trusts the message and thinks what the company is offering is valuable will they give up personal information.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
-## **Economics**
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
+## \*\*Economics\*\*
 Through trust and influence anything, including social media, can control our spending.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-In chapter 6, "Death of Social Schizophrenia", Qualman writes how we "Gen-Xers" have multiple faces that we put forth depending on the situation and how social media forces everyone to be more singular. The buzz word in social media is transparency, and *Socialnomics* talks about the impact transparency has on being honest with customers. It's about having a conversation with them and building trust. It talks about having a singular message, being succinct, and being yourself or true to your company's message.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
+In chapter 6, "Death of Social Schizophrenia", Qualman writes how we "Gen-Xers" have multiple faces that we put forth depending on the situation and how social media forces everyone to be more singular. The buzz word in social media is transparency, and \*Socialnomics\* talks about the impact transparency has on being honest with customers. It's about having a conversation with them and building trust. It talks about having a singular message, being succinct, and being yourself or true to your company's message.
 One quote in particular is quite profound: "once you have determined your initial messaging strategy you have the ability to reevaluate and tweak it for relevancy based on feedback from the marketplace." (p. 128)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 I read this after I said something similar to the people at my job. We we're in the midst of a campaign to launch a website and it had a survey visitors could submit. To paraphrase myself, I said we should evaluate the first wave of surveys and adjust our target audience accordingly. I think it is interesting that I said it before I read about it.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 The idea of lightning-fast turn around time on changing strategy hasn't quite made it to my job. We use Twitter to deliver news and listen to what people are saying about us, but we aren't really engaged in conversation and our products/services aren't getting tweaked as a result of these communications - yet. We take surveys and people's opinions seriously though. The new site launch survey wasn't our first and we looked at the results for making improvements. Survey data is more precious than gold for marketers and web developers alike.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Qualman brings up an apparent contradiction. He said in the begining of chapter 6 that social media is causing us to abandon our multiple social personalities and focus on one persona, but on page 131 he says, "The circle that you trust for recommending movies may be entirely different from the circle you trust for restaurant recommendations." In other words we seek input and recommendation from different people or groups for different purposes. I had to read this a couple times to realize that consumers are becoming singularly faceted, but their networks, groups, cliches, whatever you call them, are diverging along specialties or interests. You may be saying, "duh", but this is near revolutionary when you consider the way marketing used to work.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Early in chapter 6 he nailed it when he wrote that advertisers would spend millions of dollars on finding the next memorable catch phrase - especially during the Super Bowl. They were blasting out a message and hoping 1% stuck with consumers. Not only that but they might blast out multiple ads targeted at different people. In short they were being schizophrenic and trying to appeal to everyone.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 We consumers were bathed in wave after wave of advertising campaigns. We became mass consumers. We might buy 2 of the same basic product from 2 different manufacturers (e.g. liquid soap at the bathroom sink and bar soap in the shower). We were  being schizophrenic because we bought into what ads sold us.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Today, you might still have 2 different soaps in your bathroom, but metaphorically speaking social media is changing *why* you have them. It isn't because companies A and B drowned  you in ads so all you knew was soaps A and B. Now it's more likely you read/hear a targeted ad on [Facebook](http://facebook.com/) and maybe discuss the pros and cons with your friends that use that brand of soap. "Consumers today, in particular Millennials and Generation Zers don't want to be shouted at \[like in the 1980's\], they'd rather have conversations and steady ongoing relationships with companies." (p.141)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
+Today, you might still have 2 different soaps in your bathroom, but metaphorically speaking social media is changing \*why\* you have them. It isn't because companies A and B drowned  you in ads so all you knew was soaps A and B. Now it's more likely you read/hear a targeted ad on [Facebook](http://facebook.com/) and maybe discuss the pros and cons with your friends that use that brand of soap. "Consumers today, in particular Millennials and Generation Zers don't want to be shouted at \[like in the 1980's\], they'd rather have conversations and steady ongoing relationships with companies." (p.141)
 Meanwhile, the soap company is keeping its ads simple and spending pennies for placement. They are also on Facebook to answer some questions, but mainly to provide space for customers and potential customers to talk about the soap or other products.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Here we see evidence of the new web grammar. Information such as reviews, comments and questions will grow on the Facebook wall of the soap company. Consumers can post videos of them using the product in a mock advertisement. This is the experiential content which is also self aware, uncontrollable content which gives consumers the power (information) to decide to buy or not. They can choose to "become a fan" of the page or leave. Other, potential customers, could be random voyeurs of the soap company's Facebook wall. They read what others post or view the pictures. The fact that the soap company opens up space for anyone to contribute to the conversation enables ambient awareness and user-created context. Consumers and potential consumers alike read the posts and place the information in their own context. Once a sufficient amount of "content" (remember experience is content now)  is on the soap company's Facebook wall, a pattern will emerge that makes consumers aware of the benefits (or risks) of the company's products.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 In chapter 7, "Winners and Losers in a 140-Character World," Qualman gives examples of companies that have successfully (and unsuccessfully) used social media.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-The first example is a success story about ESPN and their podcast, *Fantasy Football Today*. The hosts successfully leveraged sponsors by making them part of the content, and allowing listeners to help produce content (p.136). By doing this they didn't run the risk of letting consumers strip out the advertising, and they keep the content fresh. That sounds like a chapter from the new web grammar - content is experience.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
+The first example is a success story about ESPN and their podcast, \*Fantasy Football Today\*. The hosts successfully leveraged sponsors by making them part of the content, and allowing listeners to help produce content (p.136). By doing this they didn't run the risk of letting consumers strip out the advertising, and they keep the content fresh. That sounds like a chapter from the new web grammar - content is experience.
 This example also showed a basic principle in the economics of social media. One sponsor was the movie Eagle Eye. The hosts would slip in references about the movie during the podcast. They were given free range to say what they wanted about the movie. This shows that if you allow consumers, or suppliers of your content, the freedom to give honest feedback, they will respect the message more than if you don't listen or always claim to be right. "By pointing out your flaws, people will give more credence when you point out your strengths."(p.138)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Qualman also points out another economic reality for sponsors in the social-media world, "The world around us is shifting from a model where marketers historically have supported content to one in which marketers and companies need to create their own content or seamlessly integrate with existing content." (p.142)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 On page 143, Qualman introduces the "Tom Sawyer approach" to getting content from readers/consumers. This is usually the opposite of a sweepstakes or prizes. Basically the Tom Sawyer approach is when you can make your content (or content container) so appealing that readers want to contribute content; doing the work for you. This approach also has the added bonus of fan loyalty: if they give you content they are less likely to produce content somewhere else. This eliminates competition for readers or consumers.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:separator {"opacity":"css"} -->
-
 ------------------------------------------------------------------------
-
-<!-- /wp:separator -->
-
-</p>
-
-<!-- wp:paragraph -->
-
 This is a review of the book written by Erik Qualman, Socialnomics: how social media transforms the way we live and do business (Hoboken,NJ: John Wiley & Sons, Inc., 2009)
-
-<!-- /wp:paragraph -->

@@ -6,4 +6,4 @@ Tags: standards, web
 Slug: blue-beanie-day
 Status: published
 
-November 30 is [Blue Beanie Day](http://vvn.net/wp/2009/11/10/3rd-annual-blue-beanie-day/). <span style="background-color: #ffffff;">Fight bad code. Use [Web Standards](http://www.webstandards.org/).</span>
+November 30 is [Blue Beanie Day](http://vvn.net/wp/2009/11/10/3rd-annual-blue-beanie-day/). Fight bad code. Use [Web Standards](http://www.webstandards.org/).

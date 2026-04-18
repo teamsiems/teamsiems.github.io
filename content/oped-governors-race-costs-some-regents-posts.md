@@ -6,8 +6,7 @@ Tags: Hutchison, Perry, Politics
 Slug: oped-governors-race-costs-some-regents-posts
 Status: published
 
-Here is more mud from one of Kay's sites: <http://texans.forkay.com/news/9-10-09_ICYMI_Chron_Decries_Perry_Power_Grab>
-
+Here is more mud from one of Kay's sites:
 > Perry is hardly unique among Texas governors in using appointments to further his ambitions. However, in the current campaign the incumbent is subordinating competent governance of public university systems to his own re-election efforts.
 >
 > In doing so he only strengthens the argument of Hutchison that a decade-plus tenure as governor fosters cronyism and misuse of official powers.

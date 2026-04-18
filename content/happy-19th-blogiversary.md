@@ -6,8 +6,4 @@ Tags: blogiversary, Zeitgeist
 Slug: happy-19th-blogiversary
 Status: published
 
-<!-- wp:paragraph -->
-
 I began teamsiems zeitgeist on 2/16/2005 with a simple post, [teamsiems zeitgeist defined](https://teamsiems.com/2005/02/teamsiems-zeitgeist-defined/).
-
-<!-- /wp:paragraph -->

@@ -36,255 +36,185 @@
 					<main><article>
 	<h2>WordPress University</h2>
 	<p><small>By chris on 2009-10-08</small></p>
-	<p>Stephanie Leary<br>
-Website Administrator, Texas A&amp;M University</p>
-<p>October 7</p>
-<div id="__ss_2200988" style="width: 425px; text-align: left;">
-
-<a href="http://www.slideshare.net/stephanieleary/wordpress-as-a-cms-2200988" style="font: 14px Helvetica,Arial,Sans-serif; display: block; margin: 12px 0 3px 0; text-decoration: underline;" title="WordPress as a CMS">WordPress as a CMS</a>
-<object style="margin: 0px;" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-
-<param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=wp-u-key-091012144502-phpapp02&amp;rel=0&amp;stripped_title=wordpress-as-a-cms-2200988"></param><param name="allowfullscreen" value="true"></param>
-<embed style="margin: 0px;" type="application/x-shockwave-flash" width="425" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=wp-u-key-091012144502-phpapp02&amp;rel=0&amp;stripped_title=wordpress-as-a-cms-2200988" allowscriptaccess="always" allowfullscreen="true">
-
-</embed>
-
-</object>
-
-</p>
-
-<div style="font-size: 11px; font-family: tahoma,arial; height: 26px; padding-top: 2px;">
-
-View more <a href="http://www.slideshare.net/" style="text-decoration: underline;">presentations</a> from <a href="http://www.slideshare.net/stephanieleary" style="text-decoration: underline;">Stephanie Leary</a>.
-
-</div>
-
-</div>
-
-<p><strong>CMS Capabilities</strong></p>
-<ul>
-<li>posts and pages</li>
-<li>scheduled publishing</li>
-<li>basic workflow</li>
-<li>easy media embedding</li>
-<li>excellent seo</li>
-<li>ubiquitous feeds</li>
-</ul>
-<p>Killer Feature is the User Interface. (made by <a href="http://www.happycog.com/">happycog</a>)</p>
-<p><strong>Post vs. Page</strong></p>
-<p>Posts have...</p>
-<ul>
-<li>included in feeds</li>
-<li>categories</li>
-<li>tags</li>
-<li>excerpts</li>
-<li>comments and trackbacks</li>
-<li>custom fields</li>
-</ul>
-<p>Pages have...</p>
-<ul>
-<li>not included in feeds</li>
-<li>page parent (not categories)</li>
-<li>template</li>
-<li>menu order</li>
-<li>comments and trackbacks</li>
-<li>custom fields</li>
-</ul>
-<p>Pages can...with plugins</p>
-<ul>
-<li>included in feeds</li>
-<li>categories</li>
-<li>tags</li>
-</ul>
-<p>The dirty little secret because pages are posts and posts are pages.</p>
-<p>Things that are posts</p>
-<ul>
-<li>blogs</li>
-<li>news archives</li>
-<li>press releases</li>
-<li>podcasts</li>
-<li>newsletters</li>
-<li>magazines</li>
-<li>journals</li>
-<li>â€¦</li>
-</ul>
-<p>Things that are posts</p>
-<ul>
-<li>anything you want in a feed</li>
-<li>anything organized by date</li>
-</ul>
-<p>Things that are pages</p>
-<ul>
-<li>anything that does not change often</li>
-<li>anything that is not organized by date</li>
-</ul>
-<p>Other things</p>
-<ul>
-<li>media uploads</li>
-<li>users</li>
-<li>links</li>
-</ul>
-<p>Demo</p>
-<ul>
-<li>installation</li>
-<li>file import</li>
-<li>basic options</li>
-<li>reading settings</li>
-<li>permalinks</li>
-</ul>
-<p>Less blog, more CMS</p>
-<ul>
-<li>magazine-style home pages</li>
-<li>great url structure</li>
-<li>no category or archives</li>
-<li>contextual navigation</li>
-<li>breadcrumbs</li>
-<li>subpage listings</li>
-</ul>
-<p>Magazine Layout</p>
-<ul>
-<li>multiple content areas</li>
-<li>category sections</li>
-<li>list of subpages</li>
-<li>widgets</li>
-</ul>
-<p>Required theme files</p>
-<ul>
-<li>index.php</li>
-<li>style.css</li>
-</ul>
-<p>Other recommendations</p>
-<ul>
-<li>functions.php - this is where you define widgets</li>
-<li>screenshot.png</li>
-</ul>
-<p>More files</p>
-<p>category.php = global category theme</p>
-<p>category-6.php = category theme for catid=6</p>
-<p>How a theme file works</p>
-<ul>
-<li>get_header</li>
-<li>The Loop</li>
-<li>get_sidebar</li>
-<li>get_footer</li>
-</ul>
-<p>sandbox, hybrid, thematic themes to start looking at</p>
-<p>Inside The Loop</p>
-<ul>
-<li>title</li>
-<li>content/excerpt</li>
-<li>date</li>
-<li>categories</li>
-<li>tags</li>
-<li>author</li>
-<li>custom fields</li>
-</ul>
-<p>Complicating matters</p>
-<ul>
-<li>custom loops</li>
-<li>multiple loops</li>
-</ul>
-<p>Modify the query (query_posts)</p>
-<ul>
-<li>limit</li>
-<li>offset</li>
-<li>parent</li>
-<li>categories &amp; tags (include/exclude)</li>
-<li>sort order</li>
-<li>type</li>
-<li>author</li>
-<li>status</li>
-</ul>
-<p><strong>Sidebars</strong></p>
-<p>one included by default - get_sidebar()</p>
-<p>can use more than one with php file include syntax</p>
-<p><strong>Widgets</strong></p>
-<p>theme/plugin hybrid</p>
-<p>can be defined in functions.php or installed as part of a plugin</p>
-<p><strong>Built-in Widgets</strong></p>
-<ul>
-<li>archives</li>
-<li>categories</li>
-<li>calendar</li>
-<li>links</li>
-<li>RSS</li>
-<li>pages</li>
-<li>meta (log in/out, feed)</li>
-<li>recent posts</li>
-<li>tag cloud</li>
-<li>text</li>
-</ul>
-<p>Plugins</p>
-<p>6735 plugins and growing</p>
-<p>Plugins can...</p>
-<ul>
-<li>add widgets</li>
-<li>create template tags</li>
-<li>modify loops</li>
-<li>create shortcodes</li>
-<li>alter user roles</li>
-<li>provide custom fields</li>
-<li>alter write screens</li>
-<li>add JS libraries</li>
-</ul>
-<p>Putting it all together</p>
-<p>We want...</p>
-<ul>
-<li>pages</li>
-<li>a blog</li>
-<li>subscribe to comments</li>
-<li>a podcast</li>
-<li>a contact form w/spam guard</li>
-<li>a private area</li>
-<li>users to be redirected on login</li>
-</ul>
-<p>Sidbar login plugin</p>
-<p>Peter's login redirect</p>
-<p>Problems with private</p>
-<p>visibility: menus</p>
-<p>granularity: groups</p>
-<p>privileges: roles</p>
-<p>Plugin to fix this - Role manager (for now)</p>
-<p>[PressThis podcast talks about world press]</p>
-<p>Hiding the admin area</p>
-<ul>
-<li>sidebar login</li>
-<li>front-end editor</li>
-<li>P2</li>
-<li>posthaste</li>
-</ul>
-<p>Moving servers</p>
-<ul>
-<li>changing domains</li>
-<li>edit database fields</li>
-<li>use config file constants</li>
-<li>changing directories</li>
-<li>maintaining permalinks</li>
-</ul>
-<p>Caching Plugins</p>
-<ul>
-<li>WP Cache</li>
-<li>Super Cache</li>
-<li>W3 Total Cache</li>
-</ul>
-<p>What's New in 2.9</p>
-<ul>
-<li>image editor</li>
-<li>trash (posts, pages, comments)</li>
-<li>new excerpt filters</li>
-<li>easy changes to contact profile fields</li>
-<li>included handbook (printable)</li>
-<li>category-slug.php</li>
-</ul>
-<p>What's different in MU</p>
-<ul>
-<li>each user gets a blog</li>
-<li>each blog gets a set of db tables</li>
-<li>users can't upload themes or plugins</li>
-<li>site-wide plugins installed for all</li>
-<li>site admin screen (and role)</li>
-</ul>
-<p>Calendar plugin: AMR ICAL Event</p>
+	<p>Stephanie Leary
+Website Administrator, Texas A&amp;M University
+October 7</p>
+<p><a href="http://www.slideshare.net/stephanieleary/wordpress-as-a-cms-2200988" title="WordPress as a CMS">WordPress as a CMS</a></p>
+<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/stephanieleary">Stephanie Leary</a>.</p>
+<p>**CMS Capabilities**
+- posts and pages
+- scheduled publishing
+- basic workflow
+- easy media embedding
+- excellent seo
+- ubiquitous feeds
+Killer Feature is the User Interface. (made by <a href="http://www.happycog.com/">happycog</a>)
+**Post vs. Page**
+Posts have...
+- included in feeds
+- categories
+- tags
+- excerpts
+- comments and trackbacks
+- custom fields
+Pages have...
+- not included in feeds
+- page parent (not categories)
+- template
+- menu order
+- comments and trackbacks
+- custom fields
+Pages can...with plugins
+- included in feeds
+- categories
+- tags
+The dirty little secret because pages are posts and posts are pages.
+Things that are posts
+- blogs
+- news archives
+- press releases
+- podcasts
+- newsletters
+- magazines
+- journals
+- â€¦
+Things that are posts
+- anything you want in a feed
+- anything organized by date
+Things that are pages
+- anything that does not change often
+- anything that is not organized by date
+Other things
+- media uploads
+- users
+- links
+Demo
+- installation
+- file import
+- basic options
+- reading settings
+- permalinks
+Less blog, more CMS
+- magazine-style home pages
+- great url structure
+- no category or archives
+- contextual navigation
+- breadcrumbs
+- subpage listings
+Magazine Layout
+- multiple content areas
+- category sections
+- list of subpages
+- widgets
+Required theme files
+- index.php
+- style.css
+Other recommendations
+- functions.php - this is where you define widgets
+- screenshot.png
+More files
+category.php = global category theme
+category-6.php = category theme for catid=6
+How a theme file works
+- get_header
+- The Loop
+- get_sidebar
+- get_footer
+sandbox, hybrid, thematic themes to start looking at
+Inside The Loop
+- title
+- content/excerpt
+- date
+- categories
+- tags
+- author
+- custom fields
+Complicating matters
+- custom loops
+- multiple loops
+Modify the query (query_posts)
+- limit
+- offset
+- parent
+- categories &amp; tags (include/exclude)
+- sort order
+- type
+- author
+- status
+**Sidebars**
+one included by default - get_sidebar()
+can use more than one with php file include syntax
+**Widgets**
+theme/plugin hybrid
+can be defined in functions.php or installed as part of a plugin
+**Built-in Widgets**
+- archives
+- categories
+- calendar
+- links
+- RSS
+- pages
+- meta (log in/out, feed)
+- recent posts
+- tag cloud
+- text
+Plugins
+6735 plugins and growing
+Plugins can...
+- add widgets
+- create template tags
+- modify loops
+- create shortcodes
+- alter user roles
+- provide custom fields
+- alter write screens
+- add JS libraries
+Putting it all together
+We want...
+- pages
+- a blog
+- subscribe to comments
+- a podcast
+- a contact form w/spam guard
+- a private area
+- users to be redirected on login
+Sidbar login plugin
+Peter's login redirect
+Problems with private
+visibility: menus
+granularity: groups
+privileges: roles
+Plugin to fix this - Role manager (for now)
+[PressThis podcast talks about world press]
+Hiding the admin area
+- sidebar login
+- front-end editor
+- P2
+- posthaste
+Moving servers
+- changing domains
+- edit database fields
+- use config file constants
+- changing directories
+- maintaining permalinks
+Caching Plugins
+- WP Cache
+- Super Cache
+- W3 Total Cache
+What's New in 2.9
+- image editor
+- trash (posts, pages, comments)
+- new excerpt filters
+- easy changes to contact profile fields
+- included handbook (printable)
+- category-slug.php
+What's different in MU
+- each user gets a blog
+- each blog gets a set of db tables
+- users can't upload themes or plugins
+- site-wide plugins installed for all
+- site admin screen (and role)
+Calendar plugin: AMR ICAL Event</p>
 </article>
 
 <nav>

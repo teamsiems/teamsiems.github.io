@@ -7,39 +7,20 @@ Slug: meet-robert-m-gates-iran-contra-crook-and-bush-41-cia-chief
 Status: published
 
 [Meet Robert M. Gates, Iran-Contra Crook and Bush 41 CIA Chief - Wonkette](http://www.wonkette.com/politics/iran-contra/meet-robert-m-gates-irancontra-crook-and-bush-41-cia-chief-213384.php)
-
 Then there's this from the man himself.
 
-<div style="font-style: italic;">
-
-From: "Dr. Robert M. Gates"  
-To: undisclosed-recipients  
-Date: Wed, 08 Nov 2006 12:24:25 -0600  
+From: "Dr. Robert M. Gates"
+To: undisclosed-recipients
+Date: Wed, 08 Nov 2006 12:24:25 -0600
 Subject: To the Aggie Family
-
-</div>
-
-<div style="font-style: italic;">
 
 By the time you read this, the President of the United States will have announced that he will nominate me to be the next Secretary of Defense. I am deeply honored, but also deeply saddened.
 
-</div>
-
-<div style="font-style: italic;">
-
 As most of you know, almost two years ago I declined an opportunity to become the first Director of National Intelligence. I did so principally because of my love for Texas A&M and because much of the program we had initiated to take A&M to a new level of excellence had only just started.
-
 Today, two years later, all of the initiatives of greatest importance are well underway and on an assured path to completion. The faculty reinvestment program is on track and all 447 new positions should be funded by next September. Work is underway or in planning for more than \$500 million in construction, some 90% of it on new academic facilities. We have made significant progress in increasing the diversity of our faculty and student body, and both the programs and funding are in place to continue that important and on-going effort. And many new initiatives are now underway or are already complete to enhance both graduate and undergraduate education, including, above all, the new University Studies degree program. The Corps is on the right track in terms of growth and grades, and the Capital Campaign will end next month having far exceeded our billion dollar goal.
-
 Some of you may worry whether one or another of these efforts will continue with my departure. You need to know that the progress we have made has been a team endeavor, and the team will remain. A remarkable faculty and a group of gifted administrators and staff who truly deserve the credit for all that has been accomplished over the past four-plus years will still be here -- above all, my strong right arm for nearly four and a half years, the Executive Vice President and Provost, Dr. David Prior.
-
 I apologize for surprising you with this momentous decision and announcement, and for leaving as president before fulfilling my commitment to serve Texas A&M for at least five years. I hope you will understand the circumstances that made this necessary and that this appointment comes nearly as much a surprise to me as to you.
-
 I will have more to say to you before I leave (if I am confirmed by the Senate). But I must tell you that while I chose Texas A&M over returning to government almost two years ago, much has happened both here and around the world since then. I love Texas A&M deeply, but I love our country more and, like the many Aggies in uniform, I am obligated to do my duty. And so I must go. I hope you have some idea of how painful that is for me and how much I will miss you and this unique American institution.
-
 At this point, I expect to remain as President of Texas A&M until completion of the confirmation process and a Senate vote. I assure you, you will hear more from me before my departure.
-
-Robert M. Gates  
+Robert M. Gates
 President Texas A&M University
-
-</div>

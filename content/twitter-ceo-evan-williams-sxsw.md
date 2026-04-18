@@ -6,25 +6,8 @@ Tags: sxsw10, twitter
 Slug: twitter-ceo-evan-williams-sxsw
 Status: published
 
-This is old news, but Evan Williams announced @anywhere - a new Twitter service - at [SXSW keynote on Monday](http://sxsw.com/interactive/talks/keynotes). From what the KXAN reporter said it sounds like people weren't thrilled with what Williams had to say. We all knew about @anywhere before today and an announcement at SXSW is like retelling a news story a day later.
-
-<div style="text-align: center;">
-
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-
-<param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/--g2qjoZw98&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowfullscreen" value="true"></param>
-<embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/--g2qjoZw98&amp;hl=en_US&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true">
-
-</embed>
-
-</object>
-
-</div>
-
-> Williams debuted Twitter's new @anywhere service, which boasts better user integration with Twitter on 13 various Web sites like The New York Times and Yahoo.
+This is old news, but Evan Williams announced @anywhere - a new Twitter service - at [SXSW keynote on Monday](http://sxsw.com/interactive/talks/keynotes). From what the KXAN reporter said it sounds like people weren't thrilled with what Williams had to say. We all knew about @anywhere before today and an announcement at SXSW is like retelling a news story a day later.> Williams debuted Twitter's new @anywhere service, which boasts better user integration with Twitter on 13 various Web sites like The New York Times and Yahoo.
 >
 > ...But many people went back into the world leaving the presentation not caring much for what Twitter's CEO had to say. Twitter was [buzzing with disappointment](#gawker) Monday after the talk. Source: [Twitter co-founder speaks at SXSW\|KXAN.com](http://www.kxan.com/dpp/entertainment/twitter-co-founder-to-speak-at-sxsw)
-
 What the reporter failed to note was the mob-style backchannel SXSW has become know for. From Gawker.com it sounds like people were more than disappointed, they were ready to throw things.
-
-> <span id="gawker"></span>This year's victim: Umair Haque, the Harvard wonk whose interview with Twitter's CEO just turned into a virtual stoning. Source: [Vicious Techies Devour Another Victim\|gawker.com](http://gawker.com/5493881/vicious-techies-devour-another-victim)
+> This year's victim: Umair Haque, the Harvard wonk whose interview with Twitter's CEO just turned into a virtual stoning. Source: [Vicious Techies Devour Another Victim\|gawker.com](http://gawker.com/5493881/vicious-techies-devour-another-victim)

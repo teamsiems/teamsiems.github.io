@@ -6,682 +6,92 @@ Tags: election
 Slug: the-2024-general-election-in-texas
 Status: published
 
-<!-- wp:paragraph -->
-
-The general election is on Tuesday, November 5 this year with early voting starting October 21 and ending November 1. The Texas Tribune has published their <a href="https://apps.texastribune.org/features/2024/texas-ballot-2024-presidential-election-nov-5/" target="_blank" rel="noreferrer noopener">ballot guide</a>.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
+The general election is on Tuesday, November 5 this year with early voting starting October 21 and ending November 1. The Texas Tribune has published their [ballot guide](https://apps.texastribune.org/features/2024/texas-ballot-2024-presidential-election-nov-5/).
 This is a pivitol, blockbuster race. Former President Donald Trump is still facing several indictments. He's been shot in the ear. He had two more assassination attempts planned against him. President Joe Biden dropped out of the race in July, and Vice President Kamala Harris emerged as the Democratic nominee.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
 ## Read More
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-<a href="https://apps.texastribune.org/features/2024/texas-ballot-2024-presidential-election-nov-5/" target="_blank" rel="noreferrer noopener">The Texas Tribune 2024 ballot: Voting in the November elections</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="https://www.txdemocrats.org/" target="_blank" rel="noreferrer noopener">Texas Democratic Party</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="https://www.texasgop.org/" target="_blank" rel="noreferrer noopener">Republican Party of Texas</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.brazosdems.org/" target="_blank" rel="noreferrer noopener">Brazos County Democratic Party</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.brazosgop.org/" target="_blank" rel="noreferrer noopener">Brazos County Republican Party</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-[BrazosVotes.org](http://www.brazosvotes.org/)
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="https://www.bryantx.gov/city-secretarys-office/elections/" target="_blank" rel="noreferrer noopener">City of Bryan Secretary – Elections</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.senate.gov/" target="_blank" rel="noreferrer noopener">U.S. Senate</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.house.gov/" target="_blank" rel="noreferrer noopener">U.S. House of Representatives</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.senate.state.tx.us/" target="_blank" rel="noreferrer noopener">Texas Senate</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-<a href="http://www.house.state.tx.us/" target="_blank" rel="noreferrer noopener">Texas House of Representatives</a>
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:more -->  
-<!--more-->  
-<!-- /wp:more -->
-
-<!-- wp:heading -->
+- [The Texas Tribune 2024 ballot: Voting in the November elections](https://apps.texastribune.org/features/2024/texas-ballot-2024-presidential-election-nov-5/)
+- [Texas Democratic Party](https://www.txdemocrats.org/)
+- [Republican Party of Texas](https://www.texasgop.org/)
+- [Brazos County Democratic Party](http://www.brazosdems.org/)
+- [Brazos County Republican Party](http://www.brazosgop.org/)
+- [BrazosVotes.org](http://www.brazosvotes.org/)
+- [City of Bryan Secretary – Elections](https://www.bryantx.gov/city-secretarys-office/elections/)
+- [U.S. Senate](http://www.senate.gov/)
+- [U.S. House of Representatives](http://www.house.gov/)
+- [Texas Senate](http://www.senate.state.tx.us/)
+- [Texas House of Representatives](http://www.house.state.tx.us/)
 
 ## President
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Kamala Harris
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Donald Trump
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Libertarian: Chase Oliver
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Green: Jill Stein
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Kamala Harris
+- Republican: Donald Trump
+- Libertarian: Chase Oliver
+- Green: Jill Stein
 
 ## U. S. Senate
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Colin Allred
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Ted Cruz (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Libertarian: Ted Brown
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: Colin Allred
+- Republican: Ted Cruz (Incumbent)
+- Libertarian: Ted Brown
 
 Republican: John Cornyn (Incumbent) - Next election 2026
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
 ## U. S. House of Representatives District 10
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Theresa Boisseau
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Michael T. McCaul (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Libertarian: Jeff Miller
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Theresa Boisseau
+- Republican: Michael T. McCaul (Incumbent)
+- Libertarian: Jeff Miller
 
 ## Railroad Commissioner
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Katherine Culbert
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Christi Craddick (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Libertarian: Hawk Dunlap
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Green: Eddie Espinoza
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Katherine Culbert
+- Republican: Christi Craddick (Incumbent)
+- Libertarian: Hawk Dunlap
+- Green: Eddie Espinoza
 
 ## Texas Supreme Court
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Supreme Court Place 2
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: DaSean Jones
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Jimmy Blacklock (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: DaSean Jones
+- Republican: Jimmy Blacklock (Incumbent)
 
 Supreme Court Place 4
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Christine Vinh Weems
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: John Devine (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: Christine Vinh Weems
+- Republican: John Devine (Incumbent)
 
 Supreme Court Place 6
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Bonnie Lee Goldstein
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Jane Bland (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Libertarian: David Roberson
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Bonnie Lee Goldstein
+- Republican: Jane Bland (Incumbent)
+- Libertarian: David Roberson
 
 ## Texas Court of Criminal Appeals
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Criminal Appeals Chief Justice
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Holly Taylor
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: David J. Schenck
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: Holly Taylor
+- Republican: David J. Schenck
 
 Criminal Appeals Place 7
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Nancy Mulder
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Gina Parker
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: Nancy Mulder
+- Republican: Gina Parker
 
 Criminal Appeals Place 8
 
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Chika Anyiam
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Lee Finley
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Chika Anyiam
+- Republican: Lee Finley
 
 ## State Board of Education District 10
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Raquel Saenz Ortiz
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Tom Maynard (Incumbent)
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:heading -->
+- Democrat: Raquel Saenz Ortiz
+- Republican: Tom Maynard (Incumbent)
 
 ## Texas Senate District 5
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Republican: Charles Schwertner (Incumbent) - Next election 2026
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
 ## Texas House District 14
 
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-
-<ul class="wp-block-list">
-
-<!-- wp:list-item -->
-
-</p>
-
-<li>
-
-Democrat: Fred Medina
-
-</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>
-
-Republican: Paul Dyson
-
-</li>
-
-<!-- /wp:list-item -->
-
-</ul>
-
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
+- Democrat: Fred Medina
+- Republican: Paul Dyson
 
 Republican: John Raney - Retiring
-
-<!-- /wp:paragraph -->

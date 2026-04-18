@@ -6,4 +6,4 @@ Tags: hurricanes, storms
 Slug: round-two-spite-of-hurricane-ike
 Status: published
 
-[<img src="http://teamsiems.com/wp-content/uploads/2010/04/hurricane-ike-20080908-7163121-150x150.gif" title="hurricane-ike" class="alignleft size-thumbnail wp-image-1561" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2010/04/hurricane-ike-20080908-7163121.gif)The funny thing is that the predicted landfall gets shorter by 8 hours every day. Today is Wednesday, September 10, and it's now predicted to land early Saturday morning near Corpus Christi.
+[![](http://teamsiems.com/wp-content/uploads/2010/04/hurricane-ike-20080908-7163121-150x150.gif "hurricane-ike")](http://teamsiems.com/wp-content/uploads/2010/04/hurricane-ike-20080908-7163121.gif)The funny thing is that the predicted landfall gets shorter by 8 hours every day. Today is Wednesday, September 10, and it's now predicted to land early Saturday morning near Corpus Christi.

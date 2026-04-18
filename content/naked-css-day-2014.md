@@ -6,8 +6,5 @@ Tags: CSS, naked
 Slug: naked-css-day-2014
 Status: published
 
-April 9 is designated Naked CSS Day! Show off your \<body\>
-
-So I stripped off the CSS on this site today in support. If you want to read more about it go to <http://naked.threepixeldrift.com/>
-
- 
+April 9 is designated Naked CSS Day! Show off your \
+So I stripped off the CSS on this site today in support. If you want to read more about it go to

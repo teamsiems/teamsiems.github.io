@@ -6,24 +6,20 @@ Tags: CHIP, cigarette, tax
 Slug: stop-funding-childrens-health-care-with-my-tobacco
 Status: published
 
-[<img src="http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201-150x150.gif" title="fet-784420[1]" class="alignleft size-thumbnail wp-image-2038" width="150" height="150" />](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201.gif)Congress is at it again. They want to increase the <span id="SPELLING_ERROR_0" class="blsp-spelling-error">FET</span> on tobacco. Go to Stop the <span id="SPELLING_ERROR_1" class="blsp-spelling-error">FET</span> increase.com and send a letter to your representatives:
-
-> <span class="style3" style="text-align: left;">I recently learned that Congress is again considering increasing the federal excise tax on cigarettes by as much as 156%.</span>
+[![](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201-150x150.gif "fet-784420[1]")](http://teamsiems.com/wp-content/uploads/2009/01/fet-7844201.gif)Congress is at it again. They want to increase the FET on tobacco. Go to Stop the FET increase.com and send a letter to your representatives:
+> I recently learned that Congress is again considering increasing the federal excise tax on cigarettes by as much as 156%.
 >
-> At a time when Congress is talking about passing a multi-billion dollar stimulus package, it <span id="SPELLING_ERROR_2" class="blsp-spelling-corrected">doesn</span>'t make sense to raise any type of taxes. Moreover, I understand that as cigarette sales continue to decline it becomes an increasingly unreliable source of revenue for the government and that a cigarette excise tax impacts lower income households more than higher income households. That's not fair!
+> At a time when Congress is talking about passing a multi-billion dollar stimulus package, it doesn't make sense to raise any type of taxes. Moreover, I understand that as cigarette sales continue to decline it becomes an increasingly unreliable source of revenue for the government and that a cigarette excise tax impacts lower income households more than higher income households. That's not fair!
 >
 > I urge you to vote against any legislation to raise the federal excise tax on tobacco products.
 >
 > This is an issue of great importance to me and I will remember how you vote on it.
 >
-> <span class="style3">Sincerely,</span>
+> Sincerely,
 >
-> <span class="style3">YOUR NAME and ADDRESS</span>
-
-<span style="font-weight: bold;">Just say NO! to taxes on smokers to fund children's </span><span id="SPELLING_ERROR_3" class="blsp-spelling-corrected" style="font-weight: bold;">health care</span><span style="font-weight: bold;">.</span>
-
+> YOUR NAME and ADDRESS
+Just say NO! to taxes on smokers to fund children's health care.
 Here is Senator Kay Bailey Hutchison's (form) reply:
-
 > Dear Mr. Siems:
 >
 > Thank you for contacting me regarding tobacco taxes. I welcome your thoughts and comments on this issue.
@@ -38,14 +34,14 @@ Here is Senator Kay Bailey Hutchison's (form) reply:
 >
 > I appreciate hearing from you and hope you will not hesitate to keep in touch on any issue of concern to you.
 >
-> Sincerely,  
-> Kay Bailey Hutchison  
+> Sincerely,
+> Kay Bailey Hutchison
 > United States Senator
 >
-> 284 Russell Senate Office Building  
-> Washington, DC 20510  
-> 202-224-5922 (tel)  
-> 202-224-0776 (fax)  
+> 284 Russell Senate Office Building
+> Washington, DC 20510
+> 202-224-5922 (tel)
+> 202-224-0776 (fax)
 > http://hutchison.senate.gov
 >
 > PLEASE DO NOT REPLY to this message as it is not a valid e-mail address. Due to the tremendous volume of mail Senator Hutchison receives, she requests that all email messages be sent through the contact form found on her website at http://hutchison.senate.gov/contact.cfm .

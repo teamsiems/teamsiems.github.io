@@ -6,864 +6,164 @@ Tags: hurricanes, nhc, storms, weather
 Slug: the-2019-hurricane-season
 Status: published
 
-<!-- wp:paragraph -->
-
 According to [predictions](https://teamsiems.com/2019/04/predictions-for-2019-hurricane-season/), this year’s forecast calls for a slightly below average season with at least 13 named storms, five hurricanes and two major hurricanes. The reason for the weaker season is the continuation of a weak El Niño.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 This year's Atlantic [tropical cyclone names](https://www.nhc.noaa.gov/aboutnames.shtml) are: Andrea, Barry, Chantal, Dorian, Erin, Fernand, Gabrielle, Humberto, Imelda, Jerry, Karen, Lorenzo, Melissa, Nestor, Olga, Pablo, Rebekah, Sebastien, Tanya, Van, Wendy.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
 ## Andrea
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 On Monday, May 20, 2019, we had the first named storm of 2019. [Andrea](https://www.nhc.noaa.gov/archive/2019/ANDREA.shtml?) was born on Monday (5/20/2019 at 2230 UTC) and died on Tuesday (5/21/2019 at 2100 UTC).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
 > Andrea Is 1st Named Storm Of Atlantic Hurricane Season.
 >
-> <cite> Source: [NPR](https://www.npr.org/2019/05/20/725039576/first-named-storm-of-atlantic-hurricane-season-could-develop-monday-night).</cite>
-
-<!-- /wp:quote -->
-
-<!-- wp:heading -->
-
+>  Source: [NPR](https://www.npr.org/2019/05/20/725039576/first-named-storm-of-atlantic-hurricane-season-could-develop-monday-night).
 ## Barry
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
-One year and four days after I wrote about the [first storm of 2018](https://teamsiems.com/2018/07/the-2018-hurricane-season/), we have the second storm for 2019. Tropical Storm [Barry](https://www.nhc.noaa.gov/archive/2019/BARRY.shtml?) formed this morning (7/11/2019 at 1500 UTC) and is expected to strengthen to category 1 (see [Saffir-Simpson scale](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale)) hurricane before it makes landfall early Saturday along mid-Louisiana Gulf Coast.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 7/12/2019 at 2100 UTC:** Tropical Storm Barry is located about 70 miles south-southeast of Morgan City, Louisiana, with winds of 65 miles per hour moving west-northwest at 6 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 7/13/ at 1800 UTC:** Hurricane Barry made landfall near [Intracoastal City, LA](https://www.google.com/maps/place/Intracoastal+City,+9,+LA+70510/@29.8026559,-92.1795194,12.83z/data=!4m5!3m4!1s0x862340103f74355b:0xb163349610082305!8m2!3d29.7843773!4d-92.1562386), as category 1 hurricane Saturday afternoon and quickly weakened to a tropical storm.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
+One year and four days after I wrote about the [first storm of 2018](https://teamsiems.com/2018/07/the-2018-hurricane-season/), we have the second storm for 2019. Tropical Storm [Barry](https://www.nhc.noaa.gov/archive/2019/BARRY.shtml?) formed this morning (7/11/2019 at 1500 UTC) and is expected to strengthen to category 1 (see [Saffir-Simpson scale](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson\_scale)) hurricane before it makes landfall early Saturday along mid-Louisiana Gulf Coast.
+\*\*UPDATE 7/12/2019 at 2100 UTC:\*\* Tropical Storm Barry is located about 70 miles south-southeast of Morgan City, Louisiana, with winds of 65 miles per hour moving west-northwest at 6 miles per hour.
+\*\*UPDATE 7/13/ at 1800 UTC:\*\* Hurricane Barry made landfall near [Intracoastal City, LA](https://www.google.com/maps/place/Intracoastal+City,+9,+LA+70510/@29.8026559,-92.1795194,12.83z/data=!4m5!3m4!1s0x862340103f74355b:0xb163349610082305!8m2!3d29.7843773!4d-92.1562386), as category 1 hurricane Saturday afternoon and quickly weakened to a tropical storm.
 > Wind speed is not what is troubling much of the region. Experts predict possible rains of up to 25 inches in parts of southern Louisiana and coastal Mississippi, and the slow-moving storm could create big flooding risks in inland areas like greater Baton Rouge. Officials issued mandatory evacuation orders in communities along the coast, including parts of Plaquemines, Jefferson and Lafourche Parishes.
 >
-> <cite> Source: [NYTimes](https://www.nytimes.com/2019/07/13/us/hurricane-barry-updates.html)</cite>
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 7/14/2019 at 2100 UTC:** Tropical Depression Barry is located about 20 miles north-northeast of Shreveport, Louisiana, with winds of 35 miles per hour moving north at 9 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+>  Source: [NYTimes](https://www.nytimes.com/2019/07/13/us/hurricane-barry-updates.html)
+\*\*UPDATE 7/14/2019 at 2100 UTC:\*\* Tropical Depression Barry is located about 20 miles north-northeast of Shreveport, Louisiana, with winds of 35 miles per hour moving north at 9 miles per hour.
 ## Chantal
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Chantal](https://www.nhc.noaa.gov/archive/2019/CHANTAL.shtml?) formed on Tuesday, August 20, about 485 miles southeast of Halifax, Nova Scotia. It is moving eastward, and it is not expected to strengthen or make landfall.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
 ## Dorian
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Dorian](https://www.nhc.noaa.gov/archive/2019/DORIAN.shtml?) formed on Saturday, August 24, about 725 miles southeast of Barbados, and moving northwest at 12 miles per hour. It is expected to strengthen to hurricane strength over the next few days.
+\*\*UPDATE 8/26/2019 at 2100 UTC:\*\* Tropical Storm Dorian is about 60 southeast of Barbados with max winds of 60 miles per hour. It is moving west-northwest at 14 miles per hour. A Tropical Storm watch has been issued for Puerto Rico.
+\*\*UPDATE 8/27/2019 at 2100 UTC:\*\* Tropical Storm Dorian continues moving west-northwest at 13 miles per hour. Tropical storm warnings are issued for Puerto Rico and Dominican Republic. Hurricane watches are issued for Puerto Rico and Dominican Republic; [P.R. Governor Vazquez declares a state of emergency](https://www.google.com/search?q=Vazquez+state+of+emergency+Dorian+2019).
 
-<!-- /wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929951/HurricaneDorian20190828/HurricaneDorian20190828.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929951/HurricaneDorian20190828/HurricaneDorian20190828.png?_i=AA)
 
-<!-- wp:paragraph -->
-
-**UPDATE 8/26/2019 at 2100 UTC:** Tropical Storm Dorian is about 60 southeast of Barbados with max winds of 60 miles per hour. It is moving west-northwest at 14 miles per hour. A Tropical Storm watch has been issued for Puerto Rico.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/27/2019 at 2100 UTC:** Tropical Storm Dorian continues moving west-northwest at 13 miles per hour. Tropical storm warnings are issued for Puerto Rico and Dominican Republic. Hurricane watches are issued for Puerto Rico and Dominican Republic; [P.R. Governor Vazquez declares a state of emergency](https://www.google.com/search?q=Vazquez+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":5189,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929951/HurricaneDorian20190828/HurricaneDorian20190828.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929951/HurricaneDorian20190828/HurricaneDorian20190828.png?_i=AA" class="wp-image-5189" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/28/2019 at 2100 UTC:** Dorian strengthened into a hurricane over the British and US Virgin Islands - east of Puerto Rico - Wednesday afternoon with maximum winds of 75 miles per hour (Category 1) . Hurricane Dorian is expected to strengthen as it approaches Florida's southeast coast this Labor Day weekend. Florida Governor Ron [DeSantis declares a state of emergency](https://www.google.com/search?q=DeSantis+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/29/2019 at 1500 UTC:** Hurricane Dorian is 220 north-northwest of Puerto Rico, 370 miles east of Bahamas, and is expected to strengthen to major hurricane over the next few days as it moves toward Florida's east coast. Dorian's maximum winds are 85 miles per hour, and it's moving northwest at 13 miles per hour. Georgia Governor Brian [Kemp declares a state of emergency](https://www.google.com/search?q=Kemp+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
+\*\*UPDATE 8/28/2019 at 2100 UTC:\*\* Dorian strengthened into a hurricane over the British and US Virgin Islands - east of Puerto Rico - Wednesday afternoon with maximum winds of 75 miles per hour (Category 1) . Hurricane Dorian is expected to strengthen as it approaches Florida's southeast coast this Labor Day weekend. Florida Governor Ron [DeSantis declares a state of emergency](https://www.google.com/search?q=DeSantis+state+of+emergency+Dorian+2019).
+\*\*UPDATE 8/29/2019 at 1500 UTC:\*\* Hurricane Dorian is 220 north-northwest of Puerto Rico, 370 miles east of Bahamas, and is expected to strengthen to major hurricane over the next few days as it moves toward Florida's east coast. Dorian's maximum winds are 85 miles per hour, and it's moving northwest at 13 miles per hour. Georgia Governor Brian [Kemp declares a state of emergency](https://www.google.com/search?q=Kemp+state+of+emergency+Dorian+2019).
 > Hurricane Dorian is predicted to hit Florida and the northern Bahamas this weekend as an extremely dangerous Category 4 storm, bringing intense rains and sustained winds of 130 mph, the National Hurricane Center says.
 >
-> <cite>Source: [NPR](https://www.npr.org/2019/08/29/755359235/hurricane-dorian-heads-toward-florida-coast-expected-to-bring-125-mph-winds)</cite>
+> Source: [NPR](https://www.npr.org/2019/08/29/755359235/hurricane-dorian-heads-toward-florida-coast-expected-to-bring-125-mph-winds)
+\*\*UPDATE 8/30/2019 at 2100 UTC:\*\* Hurricane Dorian, located about 595 miles east of West Palm Beach, FL., has maximum winds of 115 miles per hour (Category 3) and moving 300 degrees at 9 miles per hour. Hurricane Warnings were issued for northwestern Bahamas. North Carolina Governor Roy [Cooper declares a state of emergency](https://www.google.com/search?q=Northam+state+of+emergency+Dorian+2019).
+\*\*UPDATE 8/31/2019 at 2100 UTC:\*\* Hurricane Dorian has strengthened to 150 miles per hour (Category 4), and turn slightly northward. It is expected to hit northern Bahamas on Sunday, then curve northwards skimming the east coast from Florida to Virginia. South Carolina Governor Henry [McMaster declared a state of emergency](https://www.google.com/search?q=McMaster+state+of+emergency+Dorian+2019).
+\*\*UPDATE 9/1/2019 at 2100 UTC:\*\* Hurricane Dorian has strengthened to 185 miles per hour (Category 5) as it crawls across Abacos Islands, Bahamas. Movement is west at 5 miles per hour.
+\*\*UPDATE 9/2/2019 at 2100 UTC:\*\* Hurricane Dorian is 25 miles northeast of Freeport Grand Bahama Island or 105 miles east of West Palm Beach Florida. Earlier, the 10-15 foot storm surge destroyed virtually everything on Great Abaco and Grand Bahama Islands. The worst part is that the storm has been moving west at 1 mph for hours. Dorian's maximum winds are at 145 miles per hour. Virginia Governor Ralph [Northam declares a state of emergency](https://www.google.com/search?q=Northam+state+of+emergency+Dorian+2019).
 
-<!-- /wp:quote -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929952/HurricaneDorian20190903/HurricaneDorian20190903.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929952/HurricaneDorian20190903/HurricaneDorian20190903.png?_i=AA)
 
-<!-- wp:paragraph -->
-
-**UPDATE 8/30/2019 at 2100 UTC:** Hurricane Dorian, located about 595 miles east of West Palm Beach, FL., has maximum winds of 115 miles per hour (Category 3) and moving 300 degrees at 9 miles per hour. Hurricane Warnings were issued for northwestern Bahamas. North Carolina Governor Roy [Cooper declares a state of emergency](https://www.google.com/search?q=Northam+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/31/2019 at 2100 UTC:** Hurricane Dorian has strengthened to 150 miles per hour (Category 4), and turn slightly northward. It is expected to hit northern Bahamas on Sunday, then curve northwards skimming the east coast from Florida to Virginia. South Carolina Governor Henry [McMaster declared a state of emergency](https://www.google.com/search?q=McMaster+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/1/2019 at 2100 UTC:** Hurricane Dorian has strengthened to 185 miles per hour (Category 5) as it crawls across Abacos Islands, Bahamas. Movement is west at 5 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/2/2019 at 2100 UTC:** Hurricane Dorian is 25 miles northeast of Freeport Grand Bahama Island or 105 miles east of West Palm Beach Florida. Earlier, the 10-15 foot storm surge destroyed virtually everything on Great Abaco and Grand Bahama Islands. The worst part is that the storm has been moving west at 1 mph for hours. Dorian's maximum winds are at 145 miles per hour. Virginia Governor Ralph [Northam declares a state of emergency](https://www.google.com/search?q=Northam+state+of+emergency+Dorian+2019).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":5227,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929952/HurricaneDorian20190903/HurricaneDorian20190903.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929952/HurricaneDorian20190903/HurricaneDorian20190903.png?_i=AA" class="wp-image-5227" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/3/2019 at 1500 UTC:** Hurricane Dorian is located 45 miles north of Freeport Grand Bahama Island or 105 east of Fort Pierce Florida, and moving northwest at 2 miles per hour. Dorian's maximum winds are 110 miles per hour. Dorian is still predicted to move northward along the east coast.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/4/2019 at 2100 UTC:** Hurricane Dorian is located 150 miles south of Charleston South Carolina ([30.6N, 79.8W](https://www.google.com/maps/place/30%C2%B036'00.0%22N+79%C2%B048'00.0%22W/@31.2618083,-80.7717876,7z/data=!4m5!3m4!1s0x0:0x0!8m2!3d30.6!4d-79.81)) with winds of 110 miles per hour and moving north-northwest at 8 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/5/2019 at 2100 UTC:** Hurricane Dorian is located about 45 miles south-southeast of Myrtle Beach South Carolina with winds of 105 miles per hour and moving northeast at 10 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/6/2019 at 0900 UTC:** Eye of Hurricane Dorian passed just east of Cape Lookout. Hurricane Dorian is located about 25 miles east of Cape Lookout, North Carolina, with winds of 90 miles per hour moving northeast at 14 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
+\*\*UPDATE 9/3/2019 at 1500 UTC:\*\* Hurricane Dorian is located 45 miles north of Freeport Grand Bahama Island or 105 east of Fort Pierce Florida, and moving northwest at 2 miles per hour. Dorian's maximum winds are 110 miles per hour. Dorian is still predicted to move northward along the east coast.
+\*\*UPDATE 9/4/2019 at 2100 UTC:\*\* Hurricane Dorian is located 150 miles south of Charleston South Carolina ([30.6N, 79.8W](https://www.google.com/maps/place/30%C2%B036'00.0%22N+79%C2%B048'00.0%22W/@31.2618083,-80.7717876,7z/data=!4m5!3m4!1s0x0:0x0!8m2!3d30.6!4d-79.81)) with winds of 110 miles per hour and moving north-northwest at 8 miles per hour.
+\*\*UPDATE 9/5/2019 at 2100 UTC:\*\* Hurricane Dorian is located about 45 miles south-southeast of Myrtle Beach South Carolina with winds of 105 miles per hour and moving northeast at 10 miles per hour.
+\*\*UPDATE 9/6/2019 at 0900 UTC:\*\* Eye of Hurricane Dorian passed just east of Cape Lookout. Hurricane Dorian is located about 25 miles east of Cape Lookout, North Carolina, with winds of 90 miles per hour moving northeast at 14 miles per hour.
 > Hurricane Dorian made landfall on the Outer Banks of North Carolina on Friday...
 >
-> <cite>Source: [Reuters](https://www.reuters.com/article/us-storm-dorian-usa-idUSKCN1VR0OK)</cite>
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/6/2019 2100 UTC:** Hurricane Dorian is located about 330 miles south-southwest of Nantucket, Massachusetts, with winds of 90 miles per hour moving northeast at 24 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/7/2019 at 2100 UTC:** Dorian becomes Post-Tropical Cyclone Dorian. Post-Tropical Cyclone Dorian is located about 50 miles south-southwest of Halifax, Nova Scotia, with winds of 100 miles per hour moving northeast at 30 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/8/2019 at 2100 UTC:** Post-Tropical Cyclone Dorian is located about 65 miles west-southwest of St. Anthony, Newfoundland, with winds of 65 miles per hour moving northeast at 23 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+> Source: [Reuters](https://www.reuters.com/article/us-storm-dorian-usa-idUSKCN1VR0OK)
+\*\*UPDATE 9/6/2019 2100 UTC:\*\* Hurricane Dorian is located about 330 miles south-southwest of Nantucket, Massachusetts, with winds of 90 miles per hour moving northeast at 24 miles per hour.
+\*\*UPDATE 9/7/2019 at 2100 UTC:\*\* Dorian becomes Post-Tropical Cyclone Dorian. Post-Tropical Cyclone Dorian is located about 50 miles south-southwest of Halifax, Nova Scotia, with winds of 100 miles per hour moving northeast at 30 miles per hour.
+\*\*UPDATE 9/8/2019 at 2100 UTC:\*\* Post-Tropical Cyclone Dorian is located about 65 miles west-southwest of St. Anthony, Newfoundland, with winds of 65 miles per hour moving northeast at 23 miles per hour.
 ## Erin
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 While we were not looking, Tropical Storm [Erin](https://www.nhc.noaa.gov/archive/2019/ERIN.shtml?) formed (8/27/2019 at 0300 UTC) and is located about 430 miles west of Bermuda with maximum winds of 40 miles per hour moving west at 2 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/28/2019 at 1500 UTC:** Erin was downgraded to a Tropical Depression located about 470 west-northwest of Bermuda with winds of 35 miles per hour moving north-northwest at 13 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 8/292019 at 0900 UTC:** Erin was downgraded to Post-Tropical Cyclone located about 225 miles east-northeast of Cape Hatteras, North Carolina with winds of 35 miles per hour moving north-northeast at 15 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 8/28/2019 at 1500 UTC:\*\* Erin was downgraded to a Tropical Depression located about 470 west-northwest of Bermuda with winds of 35 miles per hour moving north-northwest at 13 miles per hour.
+\*\*UPDATE 8/292019 at 0900 UTC:\*\* Erin was downgraded to Post-Tropical Cyclone located about 225 miles east-northeast of Cape Hatteras, North Carolina with winds of 35 miles per hour moving north-northeast at 15 miles per hour.
 ## Fernand
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Fernand](https://www.nhc.noaa.gov/archive/2019/FERNAND.shtml?) formed Tuesday afternoon (9/3/2019 at 1800 UTC) about 160 miles east of La Pesca Mexico with winds of 40 miles per hour and moving west at 7 miles per hour. Fernand is expected to continue moving west. Fernand is not expected to strengthen much as it will likely make landfall within 24 hours.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/4/2019 at 1500 UTC:** Tropical Storm Fernand is located 40 miles northeast of La Pesca Mexico with winds of 45 miles per hour and moving west-northwest at 8 miles per hour. Heavy rain and gusty winds continue spreading inland over northeastern Mexico and deep south Texas. A Tropical Storm Warning is in effect for Puerto Altamira Mexico to the mouth of the Rio Grande River.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/4/2019 at 2100 UTC:** Fernand is no longer a tropical storm. The depression is breaking up as it moves into the mountains of northern Mexico.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/4/2019 at 1500 UTC:\*\* Tropical Storm Fernand is located 40 miles northeast of La Pesca Mexico with winds of 45 miles per hour and moving west-northwest at 8 miles per hour. Heavy rain and gusty winds continue spreading inland over northeastern Mexico and deep south Texas. A Tropical Storm Warning is in effect for Puerto Altamira Mexico to the mouth of the Rio Grande River.
+\*\*UPDATE 9/4/2019 at 2100 UTC:\*\* Fernand is no longer a tropical storm. The depression is breaking up as it moves into the mountains of northern Mexico.
 ## Gabrielle
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Topical Storm [Gabrielle](https://www.nhc.noaa.gov/archive/2019/GABRIELLE.shtml?) formed 9/4/2019 at 0900 UTC over the open Atlantic Ocean, about 680 miles west-northwest of Cabo Verde Islands ([19.6 N, 33.6 W](https://www.google.com/maps/place/19%C2%B036'00.0%22N+33%C2%B036'00.0%22W/@19.6646301,-42.5827408,5z/data=!4m5!3m4!1s0x0:0x0!8m2!3d19.6!4d-33.6)) with winds of 40 miles per hour and moving north west at 10 miles per hour. Gabrielle is expected to strengthen slightly over the next 2 days.
+\*\*UPDATE 9/4/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle is 740 west-northwest of Cabo Verde Islands ([21.0N, 34.0W](https://www.google.com/maps/place/21%C2%B000'00.0%22N+34%C2%B000'00.0%22W/@20.8222843,-42.8562862,5z/data=!4m5!3m4!1s0x0:0x0!8m2!3d21!4d-34)) with winds of 50 miles per hour and moving north west at 9 miles per hour.
+\*\*UPDATE 9/5/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle is struggling to maintain thunderstorms near its center with winds of 45 miles per hour moving northwest at 10 miles per hour. Gabrielle is located 925 miles northwest of Cabo Verde Islands ([23.4N, 35.9W](https://www.google.com/maps/place/23%C2%B024'00.0%22N+35%C2%B054'00.0%22W/@21.6290434,-32.7325272,5.9z/data=!4m5!3m4!1s0x0:0x0!8m2!3d23.4!4d-35.9)).
 
-<!-- /wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929961/TSGabrielle20190906/TSGabrielle20190906.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929961/TSGabrielle20190906/TSGabrielle20190906.png?_i=AA)
 
-<!-- wp:paragraph -->
-
-**UPDATE 9/4/2019 at 2100 UTC:** Tropical Storm Gabrielle is 740 west-northwest of Cabo Verde Islands ([21.0N, 34.0W](https://www.google.com/maps/place/21%C2%B000'00.0%22N+34%C2%B000'00.0%22W/@20.8222843,-42.8562862,5z/data=!4m5!3m4!1s0x0:0x0!8m2!3d21!4d-34)) with winds of 50 miles per hour and moving north west at 9 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/5/2019 at 2100 UTC:** Tropical Storm Gabrielle is struggling to maintain thunderstorms near its center with winds of 45 miles per hour moving northwest at 10 miles per hour. Gabrielle is located 925 miles northwest of Cabo Verde Islands ([23.4N, 35.9W](https://www.google.com/maps/place/23%C2%B024'00.0%22N+35%C2%B054'00.0%22W/@21.6290434,-32.7325272,5.9z/data=!4m5!3m4!1s0x0:0x0!8m2!3d23.4!4d-35.9)).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":5335,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929961/TSGabrielle20190906/TSGabrielle20190906.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929961/TSGabrielle20190906/TSGabrielle20190906.png?_i=AA" class="wp-image-5335" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/6/2019 at 2100 UTC:** Tropical Storm Gabrielle quickly regenerated overnight and is expected to strengthen to hurricane by early next week. Gabrielle is located about 1010 miles southwest of the Azores with winds of 45 miles per hour moving northwest at 17 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/7/2019 at 2100 UTC:** Tropical Storm Gabrielle is located about 1180 west-southwest of the Azores with winds of 50 miles per hour moving west-northwest at 18 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/8/2019 at 2100 UTC:** Tropical Storm Gabrielle is located about 1250 miles west of the Azores with winds of 65 miles per hour moving north at 16 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/9/2019 at 2100 UTC:** Tropical Storm Gabrielle is located about 1000 miles west-northwest of the Azores with winds of 50 miles per hour with winds of 40 miles per hour moving northeast at 21 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/10/2019 at 1500 UTC:** Gabrielle weakened to Post-Tropical Cyclone Gabrielle early this morning. Gabrielle is located about 695 northwest of the Azores with winds of 50 miles per hour moving northeast at 29 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/6/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle quickly regenerated overnight and is expected to strengthen to hurricane by early next week. Gabrielle is located about 1010 miles southwest of the Azores with winds of 45 miles per hour moving northwest at 17 miles per hour.
+\*\*UPDATE 9/7/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle is located about 1180 west-southwest of the Azores with winds of 50 miles per hour moving west-northwest at 18 miles per hour.
+\*\*UPDATE 9/8/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle is located about 1250 miles west of the Azores with winds of 65 miles per hour moving north at 16 miles per hour.
+\*\*UPDATE 9/9/2019 at 2100 UTC:\*\* Tropical Storm Gabrielle is located about 1000 miles west-northwest of the Azores with winds of 50 miles per hour with winds of 40 miles per hour moving northeast at 21 miles per hour.
+\*\*UPDATE 9/10/2019 at 1500 UTC:\*\* Gabrielle weakened to Post-Tropical Cyclone Gabrielle early this morning. Gabrielle is located about 695 northwest of the Azores with winds of 50 miles per hour moving northeast at 29 miles per hour.
 ## Humberto
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Humberto](https://www.nhc.noaa.gov/archive/2019/HUMBERTO.shtml?) formed late last night (9/14/2019 0300 UTC) - about 130 miles east-southeast of Great Abaco Island, Bahamas, with winds of 40 miles per hour, and moving northwest at 6 miles per hour. On the forecast track, the system is anticipated to move very near the northwestern Bahamas on Saturday, and offshore of the east coast of Florida this weekend and early next week. Gradual strengthening is forecast, and Humberto is expected to become a hurricane in two or three days.
 
-<!-- /wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929963/TSHumerto20190914/TSHumerto20190914.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929963/TSHumerto20190914/TSHumerto20190914.png?_i=AA)
 
-<!-- wp:image {"align":"right","id":5337,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929963/TSHumerto20190914/TSHumerto20190914.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929963/TSHumerto20190914/TSHumerto20190914.png?_i=AA" class="wp-image-5337" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/14/2019 at 2100 UTC:** Tropical Storm Humberto is located about 70 miles north of Great Abaco Island, Bahamas, with winds of 50 miles per hour and moving northwest at 7 miles per hour. Humberto is still expected to strengthen into hurricane by Monday as it continues to move north then turning to northeast. There are no coastal watches or warnings in effect.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/15/2019 at 2100 UTC:** Tropical Storm Humberto is located about 170 east-northeast of Cape Canaveral, Florida, with winds of 70 miles per hour and moving north at 6 miles per hour. Humberto is expected to strengthen into a hurricane (74 miles per hour) in the next few hours.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/16/2019 at 2100 UTC:** Humberto strengthened to a hurricane late last night. Hurricane Humberto is located about 670 miles west of Bermuda with winds of 90 miles per hour (Category 1) and moving east-northeast at 7 miles per hour. Additional strengthening is expected during the next 48 hours, and Humberto is forecast to become a major hurricane by Tuesday night or Wednesday morning.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/17/2019 at 2100 UTC:** Hurricane Humberto is located about 450 miles west of Bermuda with winds of 105 miles per hour and moving east-northeast at 12 miles per hour. A Hurricane Warning is in effect for Bermuda.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/18/2019 at 2100 UTC:** Hurricane Humberto is located about 100 miles west-northwest of Bermuda with winds of 120 miles per hour and moving east-northeast at 20 miles per hour. Hurricane-force winds expected to persist across Bermuda into early Thursday morning.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/19/2019 at 2100 UTC:** Hurricane Humberto is located about 550 northeast of Bermuda with winds of 105 miles per hour and moving northeast at 24 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/14/2019 at 2100 UTC:\*\* Tropical Storm Humberto is located about 70 miles north of Great Abaco Island, Bahamas, with winds of 50 miles per hour and moving northwest at 7 miles per hour. Humberto is still expected to strengthen into hurricane by Monday as it continues to move north then turning to northeast. There are no coastal watches or warnings in effect.
+\*\*UPDATE 9/15/2019 at 2100 UTC:\*\* Tropical Storm Humberto is located about 170 east-northeast of Cape Canaveral, Florida, with winds of 70 miles per hour and moving north at 6 miles per hour. Humberto is expected to strengthen into a hurricane (74 miles per hour) in the next few hours.
+\*\*UPDATE 9/16/2019 at 2100 UTC:\*\* Humberto strengthened to a hurricane late last night. Hurricane Humberto is located about 670 miles west of Bermuda with winds of 90 miles per hour (Category 1) and moving east-northeast at 7 miles per hour. Additional strengthening is expected during the next 48 hours, and Humberto is forecast to become a major hurricane by Tuesday night or Wednesday morning.
+\*\*UPDATE 9/17/2019 at 2100 UTC:\*\* Hurricane Humberto is located about 450 miles west of Bermuda with winds of 105 miles per hour and moving east-northeast at 12 miles per hour. A Hurricane Warning is in effect for Bermuda.
+\*\*UPDATE 9/18/2019 at 2100 UTC:\*\* Hurricane Humberto is located about 100 miles west-northwest of Bermuda with winds of 120 miles per hour and moving east-northeast at 20 miles per hour. Hurricane-force winds expected to persist across Bermuda into early Thursday morning.
+\*\*UPDATE 9/19/2019 at 2100 UTC:\*\* Hurricane Humberto is located about 550 northeast of Bermuda with winds of 105 miles per hour and moving northeast at 24 miles per hour.
 ## Imelda
 
-<!-- /wp:heading -->
-
-<!-- wp:image {"align":"right","id":5275,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929963/TSImelda20190917/TSImelda20190917.gif?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929963/TSImelda20190917/TSImelda20190917.gif?_i=AA" class="wp-image-5275" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929963/TSImelda20190917/TSImelda20190917.gif?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929963/TSImelda20190917/TSImelda20190917.gif?_i=AA)
 
 About 12:45 PM today (9/17/2019 1745 UTC) Tropical Storm [Imelda](https://www.nhc.noaa.gov/archive/2019/IMELDA.shtml?) formed on top of Freeport, Texas, with winds of 40 miles per hour, and moving north at 7 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/17/2019 at 2100 UTC:** Tropical Storm Imelda is located 30 miles south-southeast of Houston with winds of 40 miles per hour moving north at 7 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Imelda is expected to produce total rainfall accumulations of 6 to 12 inches with isolated maximum amounts of **18 inches** across the upper coastal region of Texas, including the Houston and Galveston areas. Rainfall amounts of 4 to 6 inches with isolated totals of 10 inches are possible across portions of southeast Texas and southwest Louisiana through Thursday. This rainfall may produce significant to life-threatening flash floods.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/18/2019 at 0900 UTC:** Imelda downgraded to a depression is located 65 miles southeast of College Station, Texas, with winds of 30 miles per hour and moving north at 5 miles per hour. Flash flood watches are in effect for southeast Texas and extreme southwest Louisiana. Accumulations of 6 to 12 inches are possible over the next 48 hours.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/19/2019 at 0900 UTC:** Tropical Depression Imelda is located about 70 miles northeast of College Station, Texas, with winds of 30 miles per hour and moving north-northwest at 5 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Imelda is expected to produce the following rainfall amounts through Friday: Across the Upper Texas Coast into far southeast Texas…additional 5 to 10 inches with isolated **storm totals of 25 to 35 inches**. Across portions of southwest Louisiana…Additional 3 to 5 inches with isolated totals of 10 inches. Rest of east Texas…2 to 4 inches with isolated totals around 8 inches. These rainfall totals may produce significant to life threatening flash floods.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-
+\*\*UPDATE 9/17/2019 at 2100 UTC:\*\* Tropical Storm Imelda is located 30 miles south-southeast of Houston with winds of 40 miles per hour moving north at 7 miles per hour.
+Imelda is expected to produce total rainfall accumulations of 6 to 12 inches with isolated maximum amounts of \*\*18 inches\*\* across the upper coastal region of Texas, including the Houston and Galveston areas. Rainfall amounts of 4 to 6 inches with isolated totals of 10 inches are possible across portions of southeast Texas and southwest Louisiana through Thursday. This rainfall may produce significant to life-threatening flash floods.
+\*\*UPDATE 9/18/2019 at 0900 UTC:\*\* Imelda downgraded to a depression is located 65 miles southeast of College Station, Texas, with winds of 30 miles per hour and moving north at 5 miles per hour. Flash flood watches are in effect for southeast Texas and extreme southwest Louisiana. Accumulations of 6 to 12 inches are possible over the next 48 hours.
+\*\*UPDATE 9/19/2019 at 0900 UTC:\*\* Tropical Depression Imelda is located about 70 miles northeast of College Station, Texas, with winds of 30 miles per hour and moving north-northwest at 5 miles per hour.
+Imelda is expected to produce the following rainfall amounts through Friday: Across the Upper Texas Coast into far southeast Texas…additional 5 to 10 inches with isolated \*\*storm totals of 25 to 35 inches\*\*. Across portions of southwest Louisiana…Additional 3 to 5 inches with isolated totals of 10 inches. Rest of east Texas…2 to 4 inches with isolated totals around 8 inches. These rainfall totals may produce significant to life threatening flash floods.
 > Interstate 10 is closed in both directions between [Winnie](https://www.google.com/maps/place/Winnie,+TX+77665/@29.9309793,-94.3146466,11.25z/data=!4m5!3m4!1s0x863ed8325a120b37:0xb0a703aea991e800!8m2!3d29.8202205!4d-94.3840777) and Beaumont due to flooding.
 >
-> <cite>Source: [KHOU](https://www.khou.com/article/traffic/i-10-closed-between-winnie-and-beaumont-due-to-flooding/285-d8bfff7a-8990-4439-b3f4-e8b97b778d1c)</cite>
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/19/2019 at 2100 UTC:** Remnants of Imelda are moving toward the west-northwest near 3 miles per hour with winds of 15 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Imelda is expected to produce the following rainfall amounts through Friday: Across the Upper Texas Coast into far southeast Texas…additional 3 to 5 inches with isolated **storm totals of 35 to 45 inches**. Across portions of southwest Louisiana…An additional 1 inch with isolated totals of 3 inches. Rest of east Texas…2 to 4 inches with isolated totals around 8 inches.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+> Source: [KHOU](https://www.khou.com/article/traffic/i-10-closed-between-winnie-and-beaumont-due-to-flooding/285-d8bfff7a-8990-4439-b3f4-e8b97b778d1c)
+\*\*UPDATE 9/19/2019 at 2100 UTC:\*\* Remnants of Imelda are moving toward the west-northwest near 3 miles per hour with winds of 15 miles per hour.
+Imelda is expected to produce the following rainfall amounts through Friday: Across the Upper Texas Coast into far southeast Texas…additional 3 to 5 inches with isolated \*\*storm totals of 35 to 45 inches\*\*. Across portions of southwest Louisiana…An additional 1 inch with isolated totals of 3 inches. Rest of east Texas…2 to 4 inches with isolated totals around 8 inches.
 ## Jerry
 
-<!-- /wp:heading -->
-
-<!-- wp:image {"align":"right","id":5278,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929964/TSJerry20190918/TSJerry20190918.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929964/TSJerry20190918/TSJerry20190918.png?_i=AA" class="wp-image-5278" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929964/TSJerry20190918/TSJerry20190918.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929964/TSJerry20190918/TSJerry20190918.png?_i=AA)
 
 Tropical Storm [Jerry](https://www.nhc.noaa.gov/archive/2019/JERRY.shtml?) formed this morning (9/18/2019 at 0900 UTC) about 960 miles east of the Leeward Islands with winds of 45 miles per hour and moving west-northwest at 13 miles per hour. Further strengthening is forecast during the next couple of days, and Jerry is expected to become a hurricane by the time it moves near the northern Leeward Islands. Jerry is the tenth named storm this year
+\*\*UPDATE 9/19/2019 at 1500 UTC:\*\* Jerry has strengthened into a hurricane. Hurricane Jerry is located about 490 miles east of the Leeward Islands with winds of 75 miles per hour (Category 1) moving west-northwest at 16 miles per hour.
+\*\*UPDATE 9/19/2019 at 2100 UTC:\*\* Hurricane Jerry is located 395 east of the Leeward Islands with winds of 90 miles per hour moving west-northwest at 17 miles per hour.
+\*\*UPDATE 9/20/2019 at 2100 UTC:\*\* Hurricane Jerry is located about 140 miles north of Barbuda with winds of 80 miles per hour moving west-northwest at 18 miles per hour.
 
-<!-- /wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929965/TSJerry20190922/TSJerry20190922.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929965/TSJerry20190922/TSJerry20190922.png?_i=AA)
 
-<!-- wp:paragraph -->
-
-**UPDATE 9/19/2019 at 1500 UTC:** Jerry has strengthened into a hurricane. Hurricane Jerry is located about 490 miles east of the Leeward Islands with winds of 75 miles per hour (Category 1) moving west-northwest at 16 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/19/2019 at 2100 UTC:** Hurricane Jerry is located 395 east of the Leeward Islands with winds of 90 miles per hour moving west-northwest at 17 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/20/2019 at 2100 UTC:** Hurricane Jerry is located about 140 miles north of Barbuda with winds of 80 miles per hour moving west-northwest at 18 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":5326,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929965/TSJerry20190922/TSJerry20190922.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929965/TSJerry20190922/TSJerry20190922.png?_i=AA" class="wp-image-5326" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/21/2019 at 2100 UTC:** Jerry weakened to Tropical Storm Jerry at 0600 UTC this morning. Tropical Storm Jerry is located about 645 miles south of Bermuda with winds of 65 miles per hour moving northwest at 14 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/22/2019 at 2100 UTC:** Tropical Storm Jerry is located about 405 miles south-southwest of Bermuda with winds of 65 miles per hour moving north-northwest at 9 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/23/2019 at 2100 UTC:** Tropical Storm Jerry is located about 340 miles southwest of Bermuda with winds of 65 miles per hour moving north-northwest at 6 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/24/2019 AT 2100 UTC:** Tropical Storm Jerry is located about 260 miles west-southwest of Bermuda with winds of 50 miles per hour moving north at 6 miles per hour. On the forecast track, the center of Jerry is expected to pass near Bermuda on Wednesday. Gradual weakening is forecast during the next few days.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/25/2019 at 2100 UTC:** Jerry has weakened to Post-Tropical Cyclone Jerry located about 45 west of Bermuda with winds of 35 miles per hour moving east-northeast at 12 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/21/2019 at 2100 UTC:\*\* Jerry weakened to Tropical Storm Jerry at 0600 UTC this morning. Tropical Storm Jerry is located about 645 miles south of Bermuda with winds of 65 miles per hour moving northwest at 14 miles per hour.
+\*\*UPDATE 9/22/2019 at 2100 UTC:\*\* Tropical Storm Jerry is located about 405 miles south-southwest of Bermuda with winds of 65 miles per hour moving north-northwest at 9 miles per hour.
+\*\*UPDATE 9/23/2019 at 2100 UTC:\*\* Tropical Storm Jerry is located about 340 miles southwest of Bermuda with winds of 65 miles per hour moving north-northwest at 6 miles per hour.
+\*\*UPDATE 9/24/2019 AT 2100 UTC:\*\* Tropical Storm Jerry is located about 260 miles west-southwest of Bermuda with winds of 50 miles per hour moving north at 6 miles per hour. On the forecast track, the center of Jerry is expected to pass near Bermuda on Wednesday. Gradual weakening is forecast during the next few days.
+\*\*UPDATE 9/25/2019 at 2100 UTC:\*\* Jerry has weakened to Post-Tropical Cyclone Jerry located about 45 west of Bermuda with winds of 35 miles per hour moving east-northeast at 12 miles per hour.
 ## Karen
 
-<!-- /wp:heading -->
-
-<!-- wp:image {"align":"right","id":5328,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929966/TSKaren20190922/TSKaren20190922.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929966/TSKaren20190922/TSKaren20190922.png?_i=AA" class="wp-image-5328" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929966/TSKaren20190922/TSKaren20190922.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929966/TSKaren20190922/TSKaren20190922.png?_i=AA)
 
 Tropical Storm [Karen](https://www.nhc.noaa.gov/archive/2019/KAREN.shtml?) formed this morning (9/22/2019 at 0900 UTC) located about 100 miles east of Grenada with winds of 40 miles per hour moving west-northwest at 9 miles per hour. Little change in strength is forecast during the next 48 hours; however, the forecast track takes Karen over Puerto Rico Tuesday or Wednesday. (Puerto Rico is still recovering from [Hurricane Maria](https://teamsiems.com/2017/09/hurricane-maria/) two years ago.)
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/22/2019 at 2100 UTC:** Tropical Storm Karen is located about 85 miles northwest of Grenada with winds of 40 miles per hour moving west-northwest at 13 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/23/2019 at 2100 UTC:** Tropical Storm Karen is located about 135 miles south-southwest of St. Croix with winds of 35 miles per hour moving north-northwest at 13 miles per hour. On the forecast track, the center of Karen will move across the eastern Caribbean Sea this evening, and pass near or over Puerto Rico and the Virgin Islands late tonight or Tuesday morning. Little change in strength is forecast during the next 48 hours.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/24/2019 AT 2100 UTC:** Tropical Storm Karen is located about 35 miles southeast of San Juan Puerto Rico with winds of 45 miles per hour moving north at 8 miles per hour. The center of Karen will pass near or over Puerto Rico and the Virgin Islands during the next few hours. Slow strengthening is forecast during the next couple of days.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/25/2019 AT 2100 UTC:** Tropical Storm Karen is located about 330 miles north-northeast of San Juan Puerto Rico with winds of 40 miles per hour moving north-northeast at 14 miles per hour. Karen is expected to slow down and make a clockwise loop over the southwestern Atlantic into the weekend.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/26/2019 AT 2100 UTC:** Tropical Storm Karen is located about 370 miles south-southeast of Bermuda with winds of 45 miles per hour moving north-northeast at 12 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/27/2019 at 2100 UTC:** Karen weakened to a surface trough located about 425 mile east-southeast of Bermuda with winds of 35 miles per hour and moving northeast at 6 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/22/2019 at 2100 UTC:\*\* Tropical Storm Karen is located about 85 miles northwest of Grenada with winds of 40 miles per hour moving west-northwest at 13 miles per hour.
+\*\*UPDATE 9/23/2019 at 2100 UTC:\*\* Tropical Storm Karen is located about 135 miles south-southwest of St. Croix with winds of 35 miles per hour moving north-northwest at 13 miles per hour. On the forecast track, the center of Karen will move across the eastern Caribbean Sea this evening, and pass near or over Puerto Rico and the Virgin Islands late tonight or Tuesday morning. Little change in strength is forecast during the next 48 hours.
+\*\*UPDATE 9/24/2019 AT 2100 UTC:\*\* Tropical Storm Karen is located about 35 miles southeast of San Juan Puerto Rico with winds of 45 miles per hour moving north at 8 miles per hour. The center of Karen will pass near or over Puerto Rico and the Virgin Islands during the next few hours. Slow strengthening is forecast during the next couple of days.
+\*\*UPDATE 9/25/2019 AT 2100 UTC:\*\* Tropical Storm Karen is located about 330 miles north-northeast of San Juan Puerto Rico with winds of 40 miles per hour moving north-northeast at 14 miles per hour. Karen is expected to slow down and make a clockwise loop over the southwestern Atlantic into the weekend.
+\*\*UPDATE 9/26/2019 AT 2100 UTC:\*\* Tropical Storm Karen is located about 370 miles south-southeast of Bermuda with winds of 45 miles per hour moving north-northeast at 12 miles per hour.
+\*\*UPDATE 9/27/2019 at 2100 UTC:\*\* Karen weakened to a surface trough located about 425 mile east-southeast of Bermuda with winds of 35 miles per hour and moving northeast at 6 miles per hour.
 ## Lorenzo
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Lorenzo](https://www.nhc.noaa.gov/archive/2019/LORENZO.shtml?) formed this morning (9/23/2019 at 1500 UTC) about 255 miles south of Cabo Verde Islands with winds of 40 miles per hour moving west at 18 miles per hour. Additional strengthening is forecast, and Lorenzo is expected to become a hurricane by Wednesday.
+\*\*UPDATE 9/23/2019 at 2100 UTC:\*\* Tropical Storm Lorenzo is located about 255 miles south-southwest of Cabo Verde Islands with winds of 45 miles per hour moving west at 16 miles per hour.
+\*\*UPDATE 9/24/2019 AT 2100 UTC:\*\* Tropical Storm Lorenzo is located about 465 miles west-southwest of Cabo Verde Islands with winds of 65 miles per hour moving west-northwest at 17 miles per hour.
 
-<!-- /wp:paragraph -->
+[![](https://res.cloudinary.com/teamsiems/images/v1585929966/HurricaneLorenzo20190926/HurricaneLorenzo20190926.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585929966/HurricaneLorenzo20190926/HurricaneLorenzo20190926.png?_i=AA)
 
-<!-- wp:paragraph -->
-
-**UPDATE 9/23/2019 at 2100 UTC:** Tropical Storm Lorenzo is located about 255 miles south-southwest of Cabo Verde Islands with winds of 45 miles per hour moving west at 16 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/24/2019 AT 2100 UTC:** Tropical Storm Lorenzo is located about 465 miles west-southwest of Cabo Verde Islands with winds of 65 miles per hour moving west-northwest at 17 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":5362,"linkDestination":"media"} -->
-
-<div class="wp-block-image">
-
-<figure class="alignright">
-<a href="https://res.cloudinary.com/teamsiems/images/v1585929966/HurricaneLorenzo20190926/HurricaneLorenzo20190926.png?_i=AA"><img src="https://res.cloudinary.com/teamsiems/images/v1585929966/HurricaneLorenzo20190926/HurricaneLorenzo20190926.png?_i=AA" class="wp-image-5362" /></a>
-</figure>
-
-</div>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/25/2019 at 2100 UTC:** This morning Lorenzo strengthened into the 5th Atlantic Hurricane. Hurricane Lorenzo is located about 835 miles west of Cabo Verde Islands with winds of 90 miles per hour (Category 1) moving west-northwest at 18 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/26/2019 at 2100 UTC:** Hurricane Lorenzo is located about 1095 miles west of Cabo Verde Islands with winds of 140 miles per hour (Category 4) moving northwest at 12 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/27/2019 at 2100 UTC:** Hurricane Lorenzo is located about 1575 miles southwest of the Azores with winds of 125 miles per hour (Category 3) moving north-northwest at 12 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/28/2019 at 2100 UTC:** Hurricane Lorenzo is located about 1470 miles southwest of the Azores with winds of 130 miles per hour (Category 4) moving north at 10 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/29/2019 at 2100 UTC:** Hurricane Lorenzo is located about 1260 miles southwest of the Azores with winds of 115 miles per hour (Category 3) moving north-northeast at 15 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 9/30/2019 at 2100 UTC:** Hurricane Lorenzo is located about 990 miles west-southwest of the Azores with winds of 105 miles per hour (Category 2) moving north-northeast at 15 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/01/2019 at 2100 UTC:** Hurricane Lorenzo is located about 285 miles southwest of Flores Island, Western Azores with winds of 100 miles per hour (Category 2) moving northeast at 29 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/02/2019 at 1500 UTC**: Lorenzo is now a post-tropical cyclone. Post-Tropical Cyclone Lorenzo is located about 945 miles west-southwest of Cork Ireland with winds of 80 miles per hour moving northeast at 43 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 9/25/2019 at 2100 UTC:\*\* This morning Lorenzo strengthened into the 5th Atlantic Hurricane. Hurricane Lorenzo is located about 835 miles west of Cabo Verde Islands with winds of 90 miles per hour (Category 1) moving west-northwest at 18 miles per hour.
+\*\*UPDATE 9/26/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 1095 miles west of Cabo Verde Islands with winds of 140 miles per hour (Category 4) moving northwest at 12 miles per hour.
+\*\*UPDATE 9/27/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 1575 miles southwest of the Azores with winds of 125 miles per hour (Category 3) moving north-northwest at 12 miles per hour.
+\*\*UPDATE 9/28/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 1470 miles southwest of the Azores with winds of 130 miles per hour (Category 4) moving north at 10 miles per hour.
+\*\*UPDATE 9/29/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 1260 miles southwest of the Azores with winds of 115 miles per hour (Category 3) moving north-northeast at 15 miles per hour.
+\*\*UPDATE 9/30/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 990 miles west-southwest of the Azores with winds of 105 miles per hour (Category 2) moving north-northeast at 15 miles per hour.
+\*\*UPDATE 10/01/2019 at 2100 UTC:\*\* Hurricane Lorenzo is located about 285 miles southwest of Flores Island, Western Azores with winds of 100 miles per hour (Category 2) moving northeast at 29 miles per hour.
+\*\*UPDATE 10/02/2019 at 1500 UTC\*\*: Lorenzo is now a post-tropical cyclone. Post-Tropical Cyclone Lorenzo is located about 945 miles west-southwest of Cork Ireland with winds of 80 miles per hour moving northeast at 43 miles per hour.
 ## Melissa
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Subtropical Storm [Melissa](https://www.nhc.noaa.gov/archive/2019/MELISSA.shtml?) formed this morning (10/11/2019 at 1500 UTC) off the coast of New England. The storm is located about 190 miles south of Nantucket Massachusetts with winds of 65 miles per hour moving south-southwest at 3 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/11/2019 at 2100 UTC:** Subtropical Storm Melissa is located about 210 miles south of Nantucket Massachusetts with winds of 60 miles per hour moving south-southeast at 3 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/12/2019 at 2100 UTC:** Melissa transitioned to Tropical Storm. Tropical Storm Melissa is located about 305 miles southeast of Nantucket Massachusetts with winds of 50 miles per hour moving east-northeast at 12 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/13/2019 at 2100 UTC:** Tropical Storm Melissa is located about 405 miles southeast of Halifax Nova Scotia with winds of 40 miles per hour moving east-northeast at 18 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/14/2019 at 1500 UTC:** Melissa weakened to Post-Tropical Storm. Melissa is located about 405 miles south-southeast of Cape Race Newfoundland with winds of 40 miles per hour moving east at 23 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 10/11/2019 at 2100 UTC:\*\* Subtropical Storm Melissa is located about 210 miles south of Nantucket Massachusetts with winds of 60 miles per hour moving south-southeast at 3 miles per hour.
+\*\*UPDATE 10/12/2019 at 2100 UTC:\*\* Melissa transitioned to Tropical Storm. Tropical Storm Melissa is located about 305 miles southeast of Nantucket Massachusetts with winds of 50 miles per hour moving east-northeast at 12 miles per hour.
+\*\*UPDATE 10/13/2019 at 2100 UTC:\*\* Tropical Storm Melissa is located about 405 miles southeast of Halifax Nova Scotia with winds of 40 miles per hour moving east-northeast at 18 miles per hour.
+\*\*UPDATE 10/14/2019 at 1500 UTC:\*\* Melissa weakened to Post-Tropical Storm. Melissa is located about 405 miles south-southeast of Cape Race Newfoundland with winds of 40 miles per hour moving east at 23 miles per hour.
 ## Nestor
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Nestor](https://www.nhc.noaa.gov/archive/2019/NESTOR.shtml?) formed in the Gulf of Mexico this afternoon (10/18/2019 at 2100 UTC). Nestor is located about 150 miles south-southeast of the mouth of the Mississippi River, or 280 miles southwest of Panama City, Florida, with winds of 60 miles per hour and moving northeast at 22 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/19/2019 at 2100 UTC:** Post-Tropical Cyclone Nestor is located about 70 miles northeast of Apalachicola Florida with winds of 40 miles per hour moving northeast at 23 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 10/19/2019 at 2100 UTC:\*\* Post-Tropical Cyclone Nestor is located about 70 miles northeast of Apalachicola Florida with winds of 40 miles per hour moving northeast at 23 miles per hour.
 ## Olga
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Olga](https://www.nhc.noaa.gov/archive/2019/OLGA.shtml?) formed (10/25/2019 at 2100 UTC) about 260 miles south of Lake Charles Louisiana with winds of 40 miles per hour moving north-northeast at 18 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/25/2019 at 0300 UTC:** Post-Tropical Cyclone Olga is located about 170 miles south-southeast of Lake Charles Louisiana with winds of 50 miles per hour moving northeast at 17 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 10/25/2019 at 0300 UTC:\*\* Post-Tropical Cyclone Olga is located about 170 miles south-southeast of Lake Charles Louisiana with winds of 50 miles per hour moving northeast at 17 miles per hour.
 ## Pablo
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Pablo](https://www.nhc.noaa.gov/archive/2019/PABLO.shtml?) formed (10/25/2019 at 2100 UTC) about 325 miles west-southwest of the Azores with winds of 115 miles per hour moving east-southeast at 10 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/26/2019 at 2100 UTC:** Tropical Storm Pablo is located about 55 miles south-southwest of Santa Maria Island in the Azores with winds of 60 miles per hour moving northeast at 25 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 10/26/2019 at 2100 UTC:\*\* Tropical Storm Pablo is located about 55 miles south-southwest of Santa Maria Island in the Azores with winds of 60 miles per hour moving northeast at 25 miles per hour.
 ## Rebekah
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Subtropical Storm Rebekah formed (10/30/2019 at 2100 UTC) about 745 miles of west of the Azores with winds of 45 miles per hour moving east at 13 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 10/31/2019 at 2100 UTC:** Subtropical Storm Rebekah is located 405 miles northwest of the Azores with winds of 45 miles per hour moving east at 20 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**UPDATE 11/1/2019 at 0900 UTC:** Post-Tropical Storm Rebekah becomes a remnant. Rebekah is located about 140 miles north of Faial Island in the central Azores with winds of 35 miles per hour moving east at 20 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-
+\*\*UPDATE 10/31/2019 at 2100 UTC:\*\* Subtropical Storm Rebekah is located 405 miles northwest of the Azores with winds of 45 miles per hour moving east at 20 miles per hour.
+\*\*UPDATE 11/1/2019 at 0900 UTC:\*\* Post-Tropical Storm Rebekah becomes a remnant. Rebekah is located about 140 miles north of Faial Island in the central Azores with winds of 35 miles per hour moving east at 20 miles per hour.
 ## Sebastien
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Tropical Storm [Sebastien](https://www.nhc.noaa.gov/archive/2019/SEBASTIEN.shtml?) formed November 19 about 275 miles northeast of the Leeward Islands with winds of 45 miles per hour and moving north-northwest at 8 miles per hour. Sebastien is expected to remain over open water.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/20/2019 at 2100 UTC**: Tropical Storm Sebastien is located about 265 miles north-northeast of the northern Leeward Islands with winds of 50 miles per hour moving north at 6 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/21/2019 at 2100 UTC**: Tropical Storm Sebastien is located about 445 miles north-northeast of the northern Leeward Islands with winds of 60 miles per hour moving northeast at 9 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/22/2019 at 2100 UTC**: Tropical Storm Sebastien is located about 815 miles northeast of the northern Leeward Islands with winds of 60 miles per hour moving east-northeast at 16 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/23/2019 at 2100 UTC**: Tropical Storm Sebastien is located about 1105 miles west-southwest of the Azores with winds of 65 miles per hour moving northeast at 28 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/24/2019 at 2100 UTC**: Tropical Storm Sebastien is located about 310 miles west-northwest of the Azores with winds of 65 miles per hour moving east-northeast at 39 miles per hour.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Update 11/25/2019 at 0300 UTC**: Post-Tropical Cyclone Sebastien is no longer a Tropical Storm. Last location about 230 miles north-northwest of the Azores with winds of 60 miles per hour moving northeast at 40 miles per hour.
-
-<!-- /wp:paragraph -->
+\*\*Update 11/20/2019 at 2100 UTC\*\*: Tropical Storm Sebastien is located about 265 miles north-northeast of the northern Leeward Islands with winds of 50 miles per hour moving north at 6 miles per hour.
+\*\*Update 11/21/2019 at 2100 UTC\*\*: Tropical Storm Sebastien is located about 445 miles north-northeast of the northern Leeward Islands with winds of 60 miles per hour moving northeast at 9 miles per hour.
+\*\*Update 11/22/2019 at 2100 UTC\*\*: Tropical Storm Sebastien is located about 815 miles northeast of the northern Leeward Islands with winds of 60 miles per hour moving east-northeast at 16 miles per hour.
+\*\*Update 11/23/2019 at 2100 UTC\*\*: Tropical Storm Sebastien is located about 1105 miles west-southwest of the Azores with winds of 65 miles per hour moving northeast at 28 miles per hour.
+\*\*Update 11/24/2019 at 2100 UTC\*\*: Tropical Storm Sebastien is located about 310 miles west-northwest of the Azores with winds of 65 miles per hour moving east-northeast at 39 miles per hour.
+\*\*Update 11/25/2019 at 0300 UTC\*\*: Post-Tropical Cyclone Sebastien is no longer a Tropical Storm. Last location about 230 miles north-northwest of the Azores with winds of 60 miles per hour moving northeast at 40 miles per hour.

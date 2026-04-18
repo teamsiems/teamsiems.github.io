@@ -36,39 +36,37 @@
 					<main><article>
 	<h2>Cross-site Scripting: What Is It, and How Can You Protect Your Site from Becoming a Victim?</h2>
 	<p><small>By chris on 2009-10-08</small></p>
-	<p>Paul Gilzow<br>
-Programmer/Analyst-Expert, University of Missouri</p>
-<p>twitter: <a href="http://twitter.com/gilzow">gilzow</a></p>
-<p>October 7</p>
-<p>(This was Winner of Best of Track TPR)</p>
-<p>Presentation <a href="http://2009.highedweb.org/presentations/TPR5.zip">http://2009.highedweb.org/presentations/TPR5.zip</a></p>
-<p>or local copy <a href="http://teamsiems.com/wp-content/uploads/2009/10/TPR5.zip">Cross-site Scripting: What Is It, and How Can You Protect Your Site from Becoming a Victim?</a></p>
-<p>Same Origin policy: 1 page in 1 tab can't interact with other page in another tab.</p>
-<p>Injection attack: accept exploits the trust for a site</p>
-<p>Education sites are the worst for xss.</p>
-<p>URL Shorteners are bad: need to be locked down in edu</p>
-<p>Three main types:</p>
-<ol>
-<li>non-presistent/reflective - most common, relies on social engineering (GET data)</li>
-<li>persistent/stored - web forums, social media sites (POST data)</li>
-<li>local - less likely but dangerous (html files on your desktop)</li>
-</ol>
-<p>Try</p>
-<p>" ' \&lt; abx &gt;</p>
-<p>The People directory "search" is not google and thus another company (in house) makes the search - more vulnerable.</p>
-<p>How to protect:</p>
-<p>Be paranoid. Trust no one. Layers, layers, layers.</p>
-<p>Input filtering</p>
-<p>Input validation</p>
-<p>Output encoding</p>
-<p>Intrusion detection system</p>
-<p>PHPIDS</p>
-<p>Tidy the output</p>
-<p>HTML Purifier</p>
-<p>AntiSamy</p>
-<p><a href="http://www.xssed.com/">www.xssed.com</a></p>
-<p>No Script plugin for Firefox.</p>
-<p>Look at phped for php editing.</p>
+	<p>Paul Gilzow
+Programmer/Analyst-Expert, University of Missouri
+twitter: <a href="http://twitter.com/gilzow">gilzow</a>
+October 7
+(This was Winner of Best of Track TPR)
+Presentation
+or local copy <a href="http://teamsiems.com/wp-content/uploads/2009/10/TPR5.zip">Cross-site Scripting: What Is It, and How Can You Protect Your Site from Becoming a Victim?</a>
+Same Origin policy: 1 page in 1 tab can't interact with other page in another tab.
+Injection attack: accept exploits the trust for a site
+Education sites are the worst for xss.
+URL Shorteners are bad: need to be locked down in edu
+Three main types:
+1. non-presistent/reflective - most common, relies on social engineering (GET data)
+2. persistent/stored - web forums, social media sites (POST data)
+3. local - less likely but dangerous (html files on your desktop)
+Try
+" ' \&lt; abx &gt;
+The People directory "search" is not google and thus another company (in house) makes the search - more vulnerable.
+How to protect:
+Be paranoid. Trust no one. Layers, layers, layers.
+Input filtering
+Input validation
+Output encoding
+Intrusion detection system
+PHPIDS
+Tidy the output
+HTML Purifier
+AntiSamy
+<a href="http://www.xssed.com/">www.xssed.com</a>
+No Script plugin for Firefox.
+Look at phped for php editing.</p>
 </article>
 
 <nav>
