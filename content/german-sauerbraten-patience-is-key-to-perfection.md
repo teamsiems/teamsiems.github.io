@@ -6,7 +6,7 @@ Tags: beef, cooking, German, Kartoffelkloesse, potato dumpling, recipe, red cabb
 Slug: german-sauerbraten-patience-is-key-to-perfection
 Status: published
 
-[![Sauerbraten](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603997874/2009_12190001/2009_12190001.jpg?_i=AA "sauerbraten")](https://res.cloudinary.com/teamsiems/images/v1603997874/2009_12190001/2009_12190001.jpg)
+[![Sauerbraten](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603997874/2009_12190001/2009_12190001.jpg?_i=AA "sauerbraten"){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603997874/2009_12190001/2009_12190001.jpg)
 
 [Sauerbraten](http://en.wikipedia.org/wiki/Sauerbraten) or "sour roast meat" is a dish that is marinated in a vinegar and herb solution for several days to break down the toughness of the meat. After marinating, the meat is cooked for several hours like a traditional roast. Traditionally, sauerbraten is served with potato dumplings ([Kartoffelklöße](https://de.wikipedia.org/wiki/Kartoffelklo%C3%9F) or Kartoffelkloesse) and red cabbage ([Rotkohl](https://de.wikipedia.org/wiki/Rotkohl)).
 I love sauerbraten and I wanted to share it with my new family. Because it takes 3 days to marinate and 3 hours to cook it requires patience, but I think it is worth it.

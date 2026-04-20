@@ -24,7 +24,7 @@ After conference links
 - [HighEdWeb 2009 Wrap Up](http://wcs.wayne.edu/blog/2009/10/09/highedweb-2009-wrap-up/)
 - [Twitter-heckled Key Note Speaker - Know your Audience!](http://www.siliconbeachtraining.co.uk/blog/twitter-heckled-know-your-audience/)
 
-[![The first-timers raise their hands at orientation.](http://teamsiems.com/wp-content/uploads/2009/10/flickr-heweb09-150x150.jpg "HighEdWeb 2009 Orientation")](http://www.flickr.com/photos/highedweb/3983294037/)
+[![The first-timers raise their hands at orientation.](http://teamsiems.com/wp-content/uploads/2009/10/flickr-heweb09-150x150.jpg "HighEdWeb 2009 Orientation"){: .img-fluid }](http://www.flickr.com/photos/highedweb/3983294037/)
 
 The first-timers raise their hands at orientation.
 
@@ -32,7 +32,7 @@ If you read the posts in this blog tagged with [heweb09](http://teamsiems.com/ta
 Was it worth approximately \$2000 to attend? When I was in school 78% was a "C". It was passing, but you couldn't get into graduate school with a C average, and you couldn't get a good paying job with a C average. Now, you should know that I grade rather conservatively. No one got a 7 on my evaluations; no one got a 1. If I like it and I thought I learned something they got 6. The first keynote, with [Jared Spool](http://2009.highedweb.org/jaredspool.aspx), would have received a 7, the best of track winners I attended would have received a 7, but these were not graded. So overall, I will come back if it is in the budget, but I wont fight for it if it is not. (It cost me a lot of money that cannot/wont be reported on the expense report.)
 I met a lot of people, and followed several tweeple. I learned a few things and was entertained. Those were [part of my goals](http://teamsiems.com/2009/10/better-or-worse-getting-to-highedweb-2009/) so I can say that part was met. I don't have H1N1 and I don't think I gained 10 lbs and I got some swag, so check on those goals too. However, I was a little surprised at the skim-the-surface approach of the sessions. I know there is a lot of material for the board to choose from and they did a good job of touching on major aspects of higher education web. I felt like I was back in college: class for 90 minutes then 15 minutes to get across campus, and a lack of detailed information about lecturers' materials before getting to the session. (Kudos to Daniel Frommelt for putting his session, "[Augmented Reality](http://www.uwplatt.edu/web/presentations/)", online before coming to the conference.)
 
-[![heweb09shirt](http://teamsiems.com/wp-content/uploads/2009/10/heweb09shirt-300x300.jpg "Twitter Disaster")](http://www.cafepress.ca/TwitterDisaster.410935477)
+[![heweb09shirt](http://teamsiems.com/wp-content/uploads/2009/10/heweb09shirt-300x300.jpg "Twitter Disaster"){: .img-fluid }](http://www.cafepress.ca/TwitterDisaster.410935477)
 
 The back channel t-shirt.
 

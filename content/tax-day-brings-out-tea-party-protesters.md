@@ -8,7 +8,7 @@ Status: published
 
 [](http://www.cbsnews.com/stories/2009/04/15/politics/main4946264.shtml)
 
-[![Photo: AP Photo/George Ruhe](http://teamsiems.com/wp-content/uploads/2009/08/tax-day-protesters.jpg "Tea Party Protesters")](http://teamsiems.com/wp-content/uploads/2009/08/tax-day-protesters.jpg)
+[![Photo: AP Photo/George Ruhe](http://teamsiems.com/wp-content/uploads/2009/08/tax-day-protesters.jpg "Tea Party Protesters"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/08/tax-day-protesters.jpg)
 
 Photo: AP Photo/George Ruhe
 

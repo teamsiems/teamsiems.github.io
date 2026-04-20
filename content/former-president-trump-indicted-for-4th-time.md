@@ -25,5 +25,5 @@ As for self-pardoning, well it's never been tried before.
 If you're keeping score, that's 91 charges across four indictments.
 \*\*Update 8/25/2023\*\*
 Trump and other co-defendants were arraigned yesterday at the Fulton County jail in Atlanta. Trump's inmate number is P01135809.
-[![Donald Trump's mugshot 2023-08-24](https://res.cloudinary.com/teamsiems/images/w_300,h_300,c_fill,g_auto/v1692971972/Trump-mugshot-2023-08-24/Trump-mugshot-2023-08-24.webp?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1692971972/Trump-mugshot-2023-08-24/Trump-mugshot-2023-08-24.webp?_i=AA)
+[![Donald Trump's mugshot 2023-08-24](https://res.cloudinary.com/teamsiems/images/w_300,h_300,c_fill,g_auto/v1692971972/Trump-mugshot-2023-08-24/Trump-mugshot-2023-08-24.webp?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1692971972/Trump-mugshot-2023-08-24/Trump-mugshot-2023-08-24.webp?_i=AA)
 Shortly after getting his mugshot taken, [he posted it](https://twitter.com/realDonaldTrump/status/1694886846050771321) on his old X (formerly Twitter) account.

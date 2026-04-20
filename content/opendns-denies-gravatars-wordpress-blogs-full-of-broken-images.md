@@ -17,7 +17,7 @@ My personal experience with OpenDNS is not a good one. They've basically hijacke
 I did a check of forums, and OpenDNS doesn't have a clear cut or openly viewable documentation on it's practices. It appears as though they deny domains at random on a daily basis. In that way - read the above message - it appears they are extorting domain owners to contact them (and possibly pay) to get removed from their blacklist. If that's the case, that's bad. How could one company hold that much control of the Internet?
 \*\*UPDATE:\*\*
 
-[![opendns-tweet](https://res.cloudinary.com/teamsiems/images/w_300,h_110,c_scale/v1586020940/opendns-tweet/opendns-tweet.gif?_i=AA "opendns-tweet")](http://teamsiems.com/wp-content/uploads/2011/03/opendns-tweet.gif)
+[![opendns-tweet](https://res.cloudinary.com/teamsiems/images/w_300,h_110,c_scale/v1586020940/opendns-tweet/opendns-tweet.gif?_i=AA "opendns-tweet"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/03/opendns-tweet.gif)
 
 OpenDNS Twitter reply
 

@@ -117,7 +117,7 @@ Fiona is located about 10 miles west of [Mayaguez, Puerto Rico](https://goo.gl/m
 ...FIONA MAKES LANDFALL IN THE DOMINICAN REPUBLIC...
 ```
 Fiona is located about 15 miles south-southwest of Punta Cana, Dominican Republic with winds of 90 miles per hour moving northwest at 8 miles per hour.
-[![](https://res.cloudinary.com/teamsiems/images/v1663618293/Hurricane-Fiona-20220919/Hurricane-Fiona-20220919.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1663618293/Hurricane-Fiona-20220919/Hurricane-Fiona-20220919.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1663618293/Hurricane-Fiona-20220919/Hurricane-Fiona-20220919.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1663618293/Hurricane-Fiona-20220919/Hurricane-Fiona-20220919.png?_i=AA)
 \*\*Update 9/19/2022 at 2100 UTC\*\*
 Fiona is located about 130 miles southeast of Grand Turk Island with winds of 100 miles per hour moving northwest at 10 miles per hour.
 \*\*Update 9/20/2022 at 0900 UTC\*\*
@@ -221,7 +221,7 @@ Hermine is located about 460 miles north-northeast of the Cabo Verde Islands wit
 MONDAY...
 ```
 \*\*Update 9/24/2022 at 2100 UTC\*\*
-[![](https://res.cloudinary.com/teamsiems/images/v1664121395/Tropical-Storm-Ian-20220924/Tropical-Storm-Ian-20220924.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1664121395/Tropical-Storm-Ian-20220924/Tropical-Storm-Ian-20220924.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1664121395/Tropical-Storm-Ian-20220924/Tropical-Storm-Ian-20220924.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1664121395/Tropical-Storm-Ian-20220924/Tropical-Storm-Ian-20220924.png?_i=AA)
 Ian is located about 255 miles south of Kingston, Jamaica with winds of 45 miles per hour moving west at 16 miles per hour.
 \*\*Update 9/25/2022 at 2100 UTC\*\*
 Ian is located about 220 miles south-southeast of Grand Cayman with winds of 45 miles per hour moving west-northwest of 12 miles per hour.
@@ -232,7 +232,7 @@ EXPECTED TODAY…
 IN WESTERN CUBA…
 Ian strengthens to Hurricane Ian (fourth) about 90 miles southwest of Grand Cayman with winds of 75 miles per hour moving northwest at 14 miles per hour.
 \*\*Update 9/26/2022 at 2100 UTC\*\*
-[![](https://res.cloudinary.com/teamsiems/images/v1664245378/Hurricane-Ian-20220926/Hurricane-Ian-20220926.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1664245378/Hurricane-Ian-20220926/Hurricane-Ian-20220926.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1664245378/Hurricane-Ian-20220926/Hurricane-Ian-20220926.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1664245378/Hurricane-Ian-20220926/Hurricane-Ian-20220926.png?_i=AA)
 Ian is located about 155 miles southeast of the Western tip of Cuba with winds of 100 miles per hour moving north-northwest at 13 miles per hour.
 \*\*Update 9/27/2022 at 0900 UTC\*\*
 ``` wp-block-preformatted
@@ -247,7 +247,7 @@ Ian is located about 5 miles south of the city of Pinar Del Rio, Cuba with winds
 ...LIFE-THREATENING STORM SURGE, CATASTROPHIC WINDS AND FLOODING
 EXPECTED WITH IAN IN THE FLORIDA PENINSULA...
 ```
-[![](https://res.cloudinary.com/teamsiems/images/v1664315861/Hurricane-Ian-20220927_7854bd01c/Hurricane-Ian-20220927_7854bd01c.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1664315861/Hurricane-Ian-20220927_7854bd01c/Hurricane-Ian-20220927_7854bd01c.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1664315861/Hurricane-Ian-20220927_7854bd01c/Hurricane-Ian-20220927_7854bd01c.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1664315861/Hurricane-Ian-20220927_7854bd01c/Hurricane-Ian-20220927_7854bd01c.png?_i=AA)
 Ian is located about 230 miles south of Sarasota, Florida with winds of 120 miles per hour moving north at 10 miles per hour.
 \*\*Update 9/28/2022 at 0900 UTC\*\*
 ``` wp-block-preformatted
@@ -258,7 +258,7 @@ WINDS AND FLOODING IN THE FLORIDA PENINSULA...
 ```
 Ian is located about 75 miles west-southwest of Naples, Florida with winds of 140 miles per hour moving north-northeast at 10 miles per hour.
 \*\*Update 9/28/2022 at 1910 UTC\*\*
-[![](https://res.cloudinary.com/teamsiems/images/v1664409490/Hurricane-Ian-20220928_786545d34/Hurricane-Ian-20220928_786545d34.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1664409490/Hurricane-Ian-20220928_786545d34/Hurricane-Ian-20220928_786545d34.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1664409490/Hurricane-Ian-20220928_786545d34/Hurricane-Ian-20220928_786545d34.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1664409490/Hurricane-Ian-20220928_786545d34/Hurricane-Ian-20220928_786545d34.png?_i=AA)
 ``` wp-block-preformatted
 ...EXTREMELY DANGEROUS CATEGORY 4 HURRICANE IAN MAKES LANDFALL IN
 SOUTHWESTERN FLORIDA...

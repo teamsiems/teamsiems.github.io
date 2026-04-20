@@ -135,7 +135,7 @@ MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 \*\*Update 7/2/2021 at 1145 UTC\*\*
 Elsa strengthens to a hurricane about 20 miles west-southwest of Barbados.
 
-[![](https://res.cloudinary.com/teamsiems/images/v1625242840/HurricaneElsa20210702/HurricaneElsa20210702.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1625242840/HurricaneElsa20210702/HurricaneElsa20210702.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1625242840/HurricaneElsa20210702/HurricaneElsa20210702.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1625242840/HurricaneElsa20210702/HurricaneElsa20210702.png?_i=AA)
 
 ``` wp-block-preformatted
 Hurricane Elsa Tropical Cyclone Update
@@ -237,7 +237,7 @@ MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
 \*\*Update 7/6/2021 at 0000 UTC\*\*
 At 0000 UTC Elsa strengthens to hurricane with 75 miles per hour winds.
 
-[![](https://res.cloudinary.com/teamsiems/images/v1625616613/HurricaneElsa20210706/HurricaneElsa20210706.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1625616613/HurricaneElsa20210706/HurricaneElsa20210706.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1625616613/HurricaneElsa20210706/HurricaneElsa20210706.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1625616613/HurricaneElsa20210706/HurricaneElsa20210706.png?_i=AA)
 
 \*\*Update 7/7/2021 at 2100 UTC\*\*
 Elsa weakened to a Tropical Storm about 0600 UTC this morning, and then it moved north, parallel to Florida's west coast shoreline. Elsa made landfall about 1500 UTC about 65 miles north-northwest of Cedar Key, Florida, moving north at 14 miles per hour.
@@ -605,7 +605,7 @@ PRESENT MOVEMENT...W OR 265 DEGREES AT 10 MPH...17 KM/H
 MINIMUM CENTRAL PRESSURE...962 MB...28.41 INCHES
 ```
 
-[![](https://res.cloudinary.com/teamsiems/images/v1629553468/HurricaneGrace-20210821/HurricaneGrace-20210821.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1629553468/HurricaneGrace-20210821/HurricaneGrace-20210821.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1629553468/HurricaneGrace-20210821/HurricaneGrace-20210821.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1629553468/HurricaneGrace-20210821/HurricaneGrace-20210821.png?_i=AA)
 
 \*\*Update 8/21/2021 at 2100 UTC\*\*
 Grace dissipated.
@@ -806,7 +806,7 @@ PRESENT MOVEMENT...NW OR 320 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...930 MB...27.46 INCHES
 ```
 
-[![](https://res.cloudinary.com/teamsiems/images/v1630247410/Hurricane-Ida-20210829/Hurricane-Ida-20210829.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1630247410/Hurricane-Ida-20210829/Hurricane-Ida-20210829.jpg?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1630247410/Hurricane-Ida-20210829/Hurricane-Ida-20210829.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1630247410/Hurricane-Ida-20210829/Hurricane-Ida-20210829.jpg?_i=AA)
 
 \*\*Update 8/29/2021 at 1655 UTC\*\*
 Ida makes landfall about 15 miles southwest of Grand Isle (near Port Fourchon) Louisiana with winds of 150 miles per hour moving northwest at 13 miles per hour.
@@ -1163,7 +1163,7 @@ PRESENT MOVEMENT...NNW OR 340 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
 ```
 
-[![](https://res.cloudinary.com/teamsiems/images/v1631486699/TSNicholas-20210912/TSNicholas-20210912.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1631486699/TSNicholas-20210912/TSNicholas-20210912.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1631486699/TSNicholas-20210912/TSNicholas-20210912.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1631486699/TSNicholas-20210912/TSNicholas-20210912.png?_i=AA)
 
 \*\*Update 9/13/2021 at 2100 UTC\*\*
 Nicholas getting stronger and moving north along the Texas shoreline.

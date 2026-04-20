@@ -6,10 +6,10 @@ Tags: hurricanes, nhc, storms
 Slug: the-2018-hurricane-season
 Status: published
 
-[![below normal](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930655/Fires-20180707/Fires-20180707.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/Fires-20180707.png)
+[![below normal](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930655/Fires-20180707/Fires-20180707.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/Fires-20180707.png)
 This year the story so far is wildfires in western states and high temperatures in northern states. There's several large wildfires burning in Washington, Oregon, California, Idaho, Nevada, Utah, Arizona, and Colorado. Over the July 4th holiday (it fell on Wednesday) temperatures topped 100° F as far north as Minnesota.
 It's now the second week of July, and we've only had one subtropical storm, Alberto. Another storm, [Hurricane Beryl](https://www.nhc.noaa.gov/archive/2018/BERYL.shtml), is located about 720 miles east of the Lesser Antilles. It was a category 1 hurricane, but it was downgraded this morning to a tropical storm. Last year we had 4 tropical storms by July 4th; first hurricane, Franklin, formed August 9 and hit Mexico the next day.
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930654/TS-Beryl-20180707/TS-Beryl-20180707.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/TS-Beryl-20180707.png)
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930654/TS-Beryl-20180707/TS-Beryl-20180707.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/TS-Beryl-20180707.png)
 On Monday another storm formed, Tropical Storm Chris (it's that circle east of the Carolina's). It's expected to make hurricane 1 strength by Tuesday but it is not expected to last long or make problems for people.
 I'm sure there's more storms coming, but for now it's all quiet - and hot.
 \*\*UPDATE 07-10-2018:\*\*
@@ -27,7 +27,7 @@ Today, the [Nation Hurricane Center](https://www.nhc.noaa.gov/) said that Hurri
 Two days ago, [TS Ernesto](https://www.nhc.noaa.gov/archive/2018/ERNESTO.shtml?) formed in the middle of the Atlantic. Today the storm is nearing Ireland.
 [Hurricane Lane](https://www.nhc.noaa.gov/archive/2018/LANE.shtml?), another Pacific hurricane, continues to strengthen and may come close to Hawaii like Hector did.
 \*\*UPDATE 08-22-2018:\*\*
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930656/HurricaneLane20180822/HurricaneLane20180822.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/HurricaneLane20180822.png)Reports from the [Central Pacific Hurricane Center](http://www.prh.noaa.gov/cphc/) say Hurricane Lane is a strong category 4 (wind speeds of 145 MPH) and could pass dangerously close to the Hawaiian Islands. It appears to be strong and slow moving - the worst combination for populated areas.
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930656/HurricaneLane20180822/HurricaneLane20180822.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/HurricaneLane20180822.png)Reports from the [Central Pacific Hurricane Center](http://www.prh.noaa.gov/cphc/) say Hurricane Lane is a strong category 4 (wind speeds of 145 MPH) and could pass dangerously close to the Hawaiian Islands. It appears to be strong and slow moving - the worst combination for populated areas.
 A Hurricane Warning is in effect for...
 \\* Oahu
 \\* Maui County...including the islands of Maui, Lanai, Molokai and Kahoolawe
@@ -35,12 +35,12 @@ A Hurricane Warning is in effect for...
 \*\*UPDATE 08-25-2018:\*\*
 After dumping up to 40 inches of rain on parts of Hawaii, Hurricane Lane was downgraded to a tropical storm today.
 \*\*UPDATE 09-03-2019:\*\*
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930657/TS-Gordon/TS-Gordon.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/TS-Gordon.png)Today, [Tropical Storm Gordon](https://www.nhc.noaa.gov/archive/2018/GORDON.shtml?) formed off of the southwest coast of Florida - about 10 miles west of Key Largo. Gordon is predicted to strengthen to a hurricane and make landfall along the Mississippi coast Wednesday (9/5).
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930657/TS-Gordon/TS-Gordon.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/TS-Gordon.png)Today, [Tropical Storm Gordon](https://www.nhc.noaa.gov/archive/2018/GORDON.shtml?) formed off of the southwest coast of Florida - about 10 miles west of Key Largo. Gordon is predicted to strengthen to a hurricane and make landfall along the Mississippi coast Wednesday (9/5).
 \*\*UPDATE 09-05-2018:\*\*
 National Weather Service Doppler radar indicates that Gordon made landfall around 1015 PM CDT (0315 UTC) just west of the Alabama-Mississippi border with estimated maximum sustained winds of 70 mph (110 km/h).
 Meanwhile, yesterday about 4:00 AM CDT, Tropical Storm Florence strengthened to a [Hurricane Florence](https://www.nhc.noaa.gov/archive/2018/FLORENCE.shtml?) in the middle of the Atlantic.
 \*\*UPDATE 09-09-2018:\*\*
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930658/Florence-Isaac-Helene/Florence-Isaac-Helene.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/Florence-Isaac-Helene.png)Two new storms formed after Gordon blew through and after Florence started cranking it up - [Tropical Storm Helene](https://www.nhc.noaa.gov/archive/2018/HELENE.shtml?) and [Tropical Storm Isaac](https://www.nhc.noaa.gov/archive/2018/ISAAC.shtml?) formed off the coast of Africa. Helene is expected to turn north into the Atlantic, but Isaac is headed toward the Lesser Antilles.
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930658/Florence-Isaac-Helene/Florence-Isaac-Helene.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/Florence-Isaac-Helene.png)Two new storms formed after Gordon blew through and after Florence started cranking it up - [Tropical Storm Helene](https://www.nhc.noaa.gov/archive/2018/HELENE.shtml?) and [Tropical Storm Isaac](https://www.nhc.noaa.gov/archive/2018/ISAAC.shtml?) formed off the coast of Africa. Helene is expected to turn north into the Atlantic, but Isaac is headed toward the Lesser Antilles.
 Since Wednesday, Florence weakened and then strengthened back into a hurricane. It is now predicted to make landfall on the coast of North Carolina as a category 3 storm.
 \*\*UPDATE 09-12-2018:\*\*
 A new potential storm, Invest 95-L, has developed off of the Yucatan Peninsula. The NHC gives the system a 60% chance to develop into a tropical depression between now and Friday (9/14) evening.
@@ -56,7 +56,7 @@ Helene weakened to a Tropical Storm yesterday. Isaac is a depression south of Pu
 \*\*UPDATE 10-03-2018:\*\*
 [Hurricane Leslie](https://www.nhc.noaa.gov/archive/2018/LESLIE.shtml?) formed in the middle of the Atlantic this morning. It is not expected to make landfall.
 \*\*UPDATE 10-08-2018:\*\*
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930659/HurricaneMICHAEL/HurricaneMICHAEL.png?_i=AA)](http://teamsiems.com/wp-content/uploads/2018/07/HurricaneMICHAEL.png)[Hurricane Michael](https://www.nhc.noaa.gov/archive/2018/MICHAEL.shtml?) formed off of the western tip of Cuba today. It is expected to move north and make landfall near Panama City, Florida, sometime on Wednesday (10/10).
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585930659/HurricaneMICHAEL/HurricaneMICHAEL.png?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2018/07/HurricaneMICHAEL.png)[Hurricane Michael](https://www.nhc.noaa.gov/archive/2018/MICHAEL.shtml?) formed off of the western tip of Cuba today. It is expected to move north and make landfall near Panama City, Florida, sometime on Wednesday (10/10).
 \*\*UPDATE 10-10-2018:\*\*
 Hurricane Michael strengthened to a category 4 storm with maximum sustained winds of 155 m.p.h (157 is category 5) before it slammed into the Florida Panhandle near Panama City Beach.
 \*\*UPDATE 10-14-2018:\*\*

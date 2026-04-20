@@ -27,6 +27,6 @@ Barbie made the potato salad and pinto beans. I made the ribs and sausage. The s
 Cooking ribs requires patience, but they were easy enough: thaw for 2 hours, cook rubbed ribs 2 hours, cook foil covered for 2 hours, finish naked w/ sauce for 30 minutes.
 ## Results
 As always, Barbie’s potato salad was delicious. The beans were very good. The ribs were tender, but I think they dried out (over cooked) a little bit.
-![beans and potato salad](https://res.cloudinary.com/teamsiems/images/v1585939550/20190526_174739/20190526_174739.jpg?_i=AA)
+![beans and potato salad](https://res.cloudinary.com/teamsiems/images/v1585939550/20190526_174739/20190526_174739.jpg?_i=AA){: .img-fluid }
 
-![ribs and sausage](https://res.cloudinary.com/teamsiems/images/v1585939552/20190526_174714/20190526_174714.jpg?_i=AA)
+![ribs and sausage](https://res.cloudinary.com/teamsiems/images/v1585939552/20190526_174714/20190526_174714.jpg?_i=AA){: .img-fluid }

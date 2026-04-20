@@ -6,7 +6,7 @@ Tags: election, presidents, Trump
 Slug: our-next-president-donald-j-trump
 Status: published
 
-[![President Elect Donald Trump](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585944989/TrumpPresElect20161109/TrumpPresElect20161109.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2016/11/TrumpPresElect20161109.jpg)
+[![President Elect Donald Trump](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585944989/TrumpPresElect20161109/TrumpPresElect20161109.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2016/11/TrumpPresElect20161109.jpg)
 
 Today's New York Times front page headline: "TRUMP TRIUMPHS Shocking Upset as Outsider Harnesses Voters’ Discontent." The story's headline echos the anti-establishment: Donald Trump Is Elected President in Stunning Repudiation of the Establishment. Source: [New York Times](http://nyti.ms/2ek6kCG)
 So there it is. I really don't know what to say. Some headlines talk about "election hangover" or "now what" so let's review and see what just happened. (Full disclosure, I didn't vote for Trump or Clinton.)

@@ -6,7 +6,7 @@ Tags: heweb14
 Slug: looking-forward-to-highedweb-2014-heweb14
 Status: published
 
-[![heweb-2014-badge](https://res.cloudinary.com/teamsiems/images/v1585940947/heweb-badge-175x175/heweb-badge-175x175.jpg?_i=AA)](http://2014.highedweb.org/)I almost forgot this blog post. It's a tradition of mine to write a pre-conference blog about what I expect to see, and a post-conference blog about what I took away.
+[![heweb-2014-badge](https://res.cloudinary.com/teamsiems/images/v1585940947/heweb-badge-175x175/heweb-badge-175x175.jpg?_i=AA){: .img-fluid }](http://2014.highedweb.org/)I almost forgot this blog post. It's a tradition of mine to write a pre-conference blog about what I expect to see, and a post-conference blog about what I took away.
 This year's conference is in Portland, Oregon, which is one of my favorite cities. I couldn't miss an opportunity to visit her again. After I went to OSCON in 2008, I was hooked.
 First off, I put a lot of time into planning a few months ago - [lessons learned from conferences past](http://teamsiems.com/2009/09/dont-let-down-during-the-build-up-to-a-conference/) - and I made a mobile friendly site to take with me when I go. It has the sessions I want to attend. I also made a Google map of spots I want to see while I'm in Oregon.
 The HighEdWeb conference committee sent out links to an "improved" interactive schedule - choose your own sessions. The email also had a link to a Google map they started. Hmmm, seems we think alike. I think mine are better.

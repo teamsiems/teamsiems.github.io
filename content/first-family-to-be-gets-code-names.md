@@ -6,7 +6,7 @@ Tags: Bush, Obama
 Slug: first-family-to-be-gets-code-names
 Status: published
 
-[![President George W. Bush and president-elect Barack Obama meet in the Oval Office](http://teamsiems.com/wp-content/uploads/2010/04/old-new-7854351-150x150.jpg "old-new-presidents")](http://teamsiems.com/wp-content/uploads/2010/04/old-new-7854351.jpg)In the Oval Office
+[![President George W. Bush and president-elect Barack Obama meet in the Oval Office](http://teamsiems.com/wp-content/uploads/2010/04/old-new-7854351-150x150.jpg "old-new-presidents"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2010/04/old-new-7854351.jpg)In the Oval Office
 White House photo by Eric Draper, November 10, 2008
 [President George W. Bush](http://www.chicagotribune.com/topic/politics/government/presidents-of-the-united-states/george-bush-PEPLT000857.topic "President Bush") and president-elect Barack Obama meet in the Oval Office of the [White House](http://www.chicagotribune.com/topic/politics/government/executive-branch/the-white-house-PLCUL000110.topic "The White House") on Monday. Obama, gearing up for his historic January 20 swearing-in, held his first face-to-face talk with Bush.
 First-family-to-be gets code names

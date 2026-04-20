@@ -6,7 +6,7 @@ Tags: Google, new york
 Slug: google-rainbow
 Status: published
 
-[![Google Rainbow](http://teamsiems.com/wp-content/uploads/2009/07/48-E-14th-St-NY-NY-300x240.jpg "48-E-14th-St-NY-NY")](http://teamsiems.com/wp-content/uploads/2009/07/48-E-14th-St-NY-NY.jpg)
+[![Google Rainbow](http://teamsiems.com/wp-content/uploads/2009/07/48-E-14th-St-NY-NY-300x240.jpg "48-E-14th-St-NY-NY"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/07/48-E-14th-St-NY-NY.jpg)
 
 Google Rainbow
 

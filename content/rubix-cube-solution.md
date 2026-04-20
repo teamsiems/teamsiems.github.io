@@ -23,7 +23,7 @@ Down face (D)
 Twists are normally clockwise. Twists counter clockwise are noted with an apostrophe (').
 ## Solve Green Cross
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942207/2011-04-16-21.25.10/2011-04-16-21.25.10.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.25.10.jpg)\
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942207/2011-04-16-21.25.10/2011-04-16-21.25.10.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.25.10.jpg)\
 
 Green cross
 
@@ -35,7 +35,7 @@ Then make the other color the front face.
 F' U L' U' : If the edge piece is in right spot, but oriented incorrectly. Start with the flipped edge piece at the top center (next to green center).
 ## Solve Green Corners
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942208/2011-04-16-21.31.36/2011-04-16-21.31.36.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.31.36.jpg)\
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942208/2011-04-16-21.31.36/2011-04-16-21.31.36.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.31.36.jpg)\
 
 Green corners
 
@@ -46,7 +46,7 @@ This could take 5 times.
 Top should be green and top row colors should be solved: top row complete
 ## Solve Second Layer
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942209/2011-04-16-21.48.44/2011-04-16-21.48.44.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.48.44.jpg)\
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942209/2011-04-16-21.48.44/2011-04-16-21.48.44.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-21.48.44.jpg)\
 
 Second layer
 
@@ -67,7 +67,7 @@ F R U R' U' F' : With blue L in back left corner. This makes a blue line through
 F R U R' U' F' : With blue line going left to right.
 ## Finish Blue Cross
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942209/2011-04-16-22.09.04/2011-04-16-22.09.04.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-22.09.04.jpg)\
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585942209/2011-04-16-22.09.04/2011-04-16-22.09.04.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-22.09.04.jpg)\
 
 Finish blue cross
 
@@ -89,7 +89,7 @@ U R U' L'   U R' U' L : With correct corner in top right front (near you)
 This will get corners in correct spots, but not oriented correctly.
 ## Orient Blue Corners
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585936436/2011-04-16-22.18.33/2011-04-16-22.18.33.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-22.18.33.jpg)\
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585936436/2011-04-16-22.18.33/2011-04-16-22.18.33.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/04/2011-04-16-22.18.33.jpg)\
 
 Orient blue corners
 

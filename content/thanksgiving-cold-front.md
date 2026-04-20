@@ -9,7 +9,7 @@ Status: published
 Is this global warming? This is wacked "this mornings low 67°, which is 20° warmer than the norm and only 2° cooler than the normal daytime high."
 Our local news station weather blog [Tracking a Thanksgiving Cold Front](http://www.kbtx.com/blogs/shelwinkley/Tracking\_a\_Thanksgiving\_Cold\_Front\_109931854.html):
 
-[![National Weather Forecast Map November 23, 2010](http://i51.tinypic.com/2q8ahja.jpg "weather map")](http://i51.tinypic.com/2q8ahja.jpg)
+[![National Weather Forecast Map November 23, 2010](http://i51.tinypic.com/2q8ahja.jpg "weather map"){: .img-fluid }](http://i51.tinypic.com/2q8ahja.jpg)
 
 National Weather Forecast Map November 23, 2010
 

@@ -32,7 +32,7 @@ I know it's a month late, but here's my wrap-up of High Ed Web 2010.
 Last year I wrapped up [HighEdWeb 2009](http://teamsiems.com/2009/10/highedweb-2009-wrap-up/) with this thought:
 > We have something to think about for next year. In this age of transparency you must “know thyself” and be an expert in your area – experience and ignorance shine equally through the window of our minds. We are people in higher education with limited budgets that come together to live, laugh, learn, and we express ourselves using the technology we help to create – the web.
 
-[![HighEdWeb 2010 Opening](http://teamsiems.com/wp-content/uploads/2010/11/5071270431_b57872778d_b.jpg "HighEdWeb 2010 Opening")](http://www.flickr.com/photos/highedweb/5071270431/)
+[![HighEdWeb 2010 Opening](http://teamsiems.com/wp-content/uploads/2010/11/5071270431_b57872778d_b.jpg "HighEdWeb 2010 Opening"){: .img-fluid }](http://www.flickr.com/photos/highedweb/5071270431/)
 
 Sea of Hands at HighEdWeb 2010 Opening Session
 
@@ -40,7 +40,7 @@ So, did we learn our lessons? Did we know ourselves? Did we become experts? The 
 There was only one keynote this year, by Steve Krug, author of "[Don't Make Me Think](http://www.sensible.com/dmmt.html)." While I think the keynote wasn't a failure, I expected more. I expected Steve to be a more engaging speaker. I'm glad he was the keynote. He did what he said he does in the book: he gave a quick accessibility test using a member of the audience.
 I think the biggest difference this year was the comfort level. Being around so many people with the same job as me was comfortable. I think that was due in part because I was returning to many of the same people, but also because we had shared our lives on Twitter throughout the past year. I felt like I knew them.
 
-[![wordle](http://teamsiems.com/wp-content/uploads/2010/10/wordle-150x150.gif "wordle")](http://teamsiems.com/wp-content/uploads/2010/10/wordle.gif)
+[![wordle](http://teamsiems.com/wp-content/uploads/2010/10/wordle-150x150.gif "wordle"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2010/10/wordle.gif)
 
 Worldle of this blog for HighEdWeb
 
@@ -53,7 +53,7 @@ Saturday night was dinner with the guys from A&M at [O'Maley's in the Alley](htt
 Sunday night was the "Welcome Reception" at the [Contemporary Arts Center](http://contemporaryartscenter.org/), followed by "Party Like It's 10-10-10" back at the Hilton, followed by the Hilton bar.
 Monday night was sushi at [Benihana](http://www.benihana.com/locations/cincinnati-oh-cn) (sponsored in part by [nuCloud](http://www.nucloud.com/)) with about 30 people. That was followed by the HighEdWeb After Dark mini pub crawl with stops at Madonna's, [Nicholson's Gastropub](http://cincinnati.metromix.com/restaurants/american/nicholsons-tavern-and-pub-downtown/605410/content), [Bartini's](http://cincinnati.metromix.com/bars-and-clubs/martini\_bar/bartinis-premier-martini-lounge-downtown/2098182/content), and the [Cadillac Ranch](http://cadillacranchgroup.com/cincinnati.html).
 
-[![Karaoke Plane](http://teamsiems.com/wp-content/uploads/2010/10/karaokeplane-150x150.jpg "karaokeplane")](http://twitpic.com/2x2dff)
+[![Karaoke Plane](http://teamsiems.com/wp-content/uploads/2010/10/karaokeplane-150x150.jpg "karaokeplane"){: .img-fluid }](http://twitpic.com/2x2dff)
 
 "I can not wait to ride the #karaokeplane tonight." @mikepetroff
 

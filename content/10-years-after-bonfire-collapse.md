@@ -15,7 +15,7 @@ Posted by: Chris Location: Bryan \*on Nov 18, 2009 at 09:37 AM\*
 
 I was with my ex-wife in the St. Joesph emergency room. She was waiting for a shot for a migraine when the nurse came in and said we had to leave. She said that Bonfire collapsed, and they were receiving several injured.
 
-[![Collapse of Bonfire 1994](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994-300x225.jpg "Bonfire1994")](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994.jpg)
+[![Collapse of Bonfire 1994](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994-300x225.jpg "Bonfire1994"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994.jpg)
 
 Collapse of Bonfire 1994
 

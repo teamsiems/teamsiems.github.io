@@ -8,7 +8,7 @@ Status: published
 
 Keynote by Jared Spool, founder of User Interface Engineering, the largest usability research organization of its kind in the world. [Learn more about the speaker.](http://2009.highedweb.org/jaredspool.aspx)
 October 5, 2009
-![lunchsession1005heweb09](http://teamsiems.com/wp-content/uploads/2009/10/lunchsession1005heweb09-300x175.png "lunchsession1005heweb09")
+![lunchsession1005heweb09](http://teamsiems.com/wp-content/uploads/2009/10/lunchsession1005heweb09-300x175.png "lunchsession1005heweb09"){: .img-fluid }
 On a scale there are varying degrees of ...
 - Tricks
 - Techniques

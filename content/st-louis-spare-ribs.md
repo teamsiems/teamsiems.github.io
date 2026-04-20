@@ -6,7 +6,7 @@ Tags: bbq, ribs, St. Louis, su_youtube
 Slug: st-louis-spare-ribs
 Status: published
 
-[![2011_05290002](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939564/2011_05290002/2011_05290002.jpg?_i=AA "2011_05290002")](http://teamsiems.com/wp-content/uploads/2011/05/2011_05290002.jpg)
+[![2011_05290002](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939564/2011_05290002/2011_05290002.jpg?_i=AA "2011_05290002"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/05/2011_05290002.jpg)
 
 Ribs on the grill at 12 noon
 
@@ -28,7 +28,7 @@ For my rub I made a variation of the Amazing Ribs, [Meathead's Memphis Dust Rub 
 I set up my grill with the left burner on low and a 13x10 drip pan on the right. I filled the pan with about 1/2 inch of apple juice, put the ribs in a rib stand, and put the rib stand into the pan. I added the rib stand this year because I thought the tilted grate method last year didn't expose the ribs enough to the heat and moisture. This year I found the perfect sized pan, but the problem with the stand is that it's too big to go into the pan the correct way - so that the ribs rest on the sides of the stand. So, I had to improvise and I put a strip of tin foil down the middle of the inverted stand and let the ribs drape over the strip.
 \*\*Cooking\*\*
 
-[![2011_05290007](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939565/2011_05290007/2011_05290007.jpg?_i=AA "2011_05290007")](http://teamsiems.com/wp-content/uploads/2011/05/2011_05290007.jpg)
+[![2011_05290007](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939565/2011_05290007/2011_05290007.jpg?_i=AA "2011_05290007"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/05/2011_05290007.jpg)
 
 Ribs at 5 PM
 

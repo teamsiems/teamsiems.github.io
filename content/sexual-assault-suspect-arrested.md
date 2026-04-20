@@ -13,7 +13,7 @@ By Pachatta Pope / Ch. 3 KBTX News
 "On Wednesday \[November 1, 2006\] residents at the Callaway Villa Apartments were put on high alert. Four women had contacted police to say they were all awaken in the middle of the night to find a man in their bedrooms half dressed. One of those women was sexually assaulted.
 22-year-old Marcus Anthony Wilson was arrested early Saturday morning and jailed for his possible involvement in the assault and attempted assaults that occurred at the apartment complex."
 Now, a simple Google search, and you get this...
-[![KHOU-Marcus-Anthony-Wilson](http://teamsiems.com/wp-content/uploads/2010/04/KHOU-Marcus-Anthony-Wilson-7076941-150x150.jpg "KHOU-Marcus-Anthony-Wilson")](http://teamsiems.com/wp-content/uploads/2010/04/KHOU-Marcus-Anthony-Wilson-7076941.jpg)Police: East End suspect lived near alleged victims
+[![KHOU-Marcus-Anthony-Wilson](http://teamsiems.com/wp-content/uploads/2010/04/KHOU-Marcus-Anthony-Wilson-7076941-150x150.jpg "KHOU-Marcus-Anthony-Wilson"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2010/04/KHOU-Marcus-Anthony-Wilson-7076941.jpg)Police: East End suspect lived near alleged victims
 February 7, 2006
 By Chau Nguyen / Ch. 11 KHOU News
 [http://khou.com/](http://www.khou.com/news/local/houstonmetro/stories/khou060207_ac_eastendsuspect.3e58d48.html)

@@ -8,7 +8,7 @@ Status: published
 
 The former president was shot at one of his campaign rallies, but instead of doing what anyone else who's shot does, he defiantly pumped his fist in the air.
 
-[![](https://res.cloudinary.com/teamsiems/images/v1720980611/TrumpShot20240713/TrumpShot20240713.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1720980611/TrumpShot20240713/TrumpShot20240713.jpg?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1720980611/TrumpShot20240713/TrumpShot20240713.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1720980611/TrumpShot20240713/TrumpShot20240713.jpg?_i=AA)
 >>
 > Law enforcement authorities have identified the man who made an assassination attempt on former President Donald Trump at a rally in Pennsylvania on Saturday.
 >

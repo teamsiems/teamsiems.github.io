@@ -7,7 +7,7 @@ Slug: president-tests-positive-for-covid-19
 Status: published
 
 Just 32 days until the election, and 2 days after the first presidential debate of 2020, the President and the First Lady both test positive for COVID-19. The [President tweeted the announcement](https://twitter.com/realDonaldTrump/status/1311892190680014849) late Thursday (10/1/2020) night.
-![](https://res.cloudinary.com/teamsiems/images/v1603993171/PresidentTrumpCoronaVirusPositive20201001/PresidentTrumpCoronaVirusPositive20201001.png?_i=AA)
+![](https://res.cloudinary.com/teamsiems/images/v1603993171/PresidentTrumpCoronaVirusPositive20201001/PresidentTrumpCoronaVirusPositive20201001.png?_i=AA){: .img-fluid }
 Administration officials were surprise it hadn't happened sooner.
 > CBS News White House correspondent Weijia Jiang reported that administration officials had expressed surprise for weeks that the virus hadn't been detected among White House officials, given Mr. Trump's own unenthusiastic embrace of measures recommended by senior health officials.
 >

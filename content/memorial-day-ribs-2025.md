@@ -57,4 +57,4 @@ First, remove the membrane that covers the rib bones. Then sprinkle the dry brin
 Start the cook with a preheated oven of \*\*250°F\*\* (121°C). While the oven heats up, sprinkle both sides of the ribs with your rub. When the oven is at temperature, place ribs, bones down, \*\*uncovered\*\*, on a baking pan, and bake for \*\*2 hours\*\*.
 Next, take the ribs out, \*\*wrap them\*\* with heavy duty aluminum foil, place them back on the pan, and bake them for another \*\*2 hours\*\*.
 Finally, take the ribs out, uncover them, paint them with your favorite barbeque sauce. Place them back on the pan, \*\*uncovered\*\*, and bake them for another \*\*30 minutes\*\* or so. Check for doneness. If they aren’t tender enough you could try covering them again and baking another 30 minutes. They should have an internal temperature of 190°-205°F (88°-96°C).
-![my ribs](https://res.cloudinary.com/teamsiems/images/w_577,h_1024,c_scale/v1748437361/MemorialDayRibs-2025-05-26/MemorialDayRibs-2025-05-26.jpg?_i=AA)
+![my ribs](https://res.cloudinary.com/teamsiems/images/w_577,h_1024,c_scale/v1748437361/MemorialDayRibs-2025-05-26/MemorialDayRibs-2025-05-26.jpg?_i=AA){: .img-fluid }

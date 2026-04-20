@@ -6,7 +6,7 @@ Tags: Capitol, mob, Trump
 Slug: u-s-capitol-mobbed
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/v1609966122/Trump-Supporters-Storm-Capital-20210106/Trump-Supporters-Storm-Capital-20210106.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1609966122/Trump-Supporters-Storm-Capital-20210106/Trump-Supporters-Storm-Capital-20210106.jpg?_i=AA)\
+[![](https://res.cloudinary.com/teamsiems/images/v1609966122/Trump-Supporters-Storm-Capital-20210106/Trump-Supporters-Storm-Capital-20210106.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1609966122/Trump-Supporters-Storm-Capital-20210106/Trump-Supporters-Storm-Capital-20210106.jpg?_i=AA)\
 
 Police with guns drawn watch as protesters try to break into the House Chamber at the U.S. Capitol on Wednesday, Jan. 6, 2021, in Washington. (AP Photo/J. Scott Applewhite)
 

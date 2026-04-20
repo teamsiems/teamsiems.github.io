@@ -6,7 +6,7 @@ Tags: gas, shame
 Slug: whos-to-blame-for-4-gas
 Status: published
 
-[![gas-price-chart](http://teamsiems.com/wp-content/uploads/2009/11/gas_price_chart2-7065851-150x150.gif "gas-price-chart")](http://teamsiems.com/wp-content/uploads/2009/11/gas\_price\_chart2-7065851.gif)The next time you are at a hosed-robber - I mean the gas pump - do a gut check. The Energy Information Administration has the [numbers that will make you sick](http://tonto.eia.doe.gov/dnav/pet/hist/mg\_rt\_usM.htm) long before the fumes will.
+[![gas-price-chart](http://teamsiems.com/wp-content/uploads/2009/11/gas_price_chart2-7065851-150x150.gif "gas-price-chart"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/11/gas\_price\_chart2-7065851.gif)The next time you are at a hosed-robber - I mean the gas pump - do a gut check. The Energy Information Administration has the [numbers that will make you sick](http://tonto.eia.doe.gov/dnav/pet/hist/mg\_rt\_usM.htm) long before the fumes will.
 ## Who's to blame for \$4 gas
 ### Prices have surged over the past four years - and there's a bunch of reasons why.
 

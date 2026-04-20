@@ -11,7 +11,7 @@ Inspiration from DeepSouthDish.com: [Fall Off the Bone Oven Baked Pork Sparerib
 Well, I delayed getting the ribs a little too long this year, and Kroger (our local grocery store) put spare ribs on sale on the Wednesday before Memorial Day (Monday). Needless to say they were sold out by Friday. All I had to pick from was plastic-wrapped, marinated St. Louis cut spare ribs (Chipotle or Kansas City flavored); I work with what I got. This will be different. I'm starting off with two slabs of marinated ribs. What is Kansas City flavor?
 ## Bake Them
 Remove the membrane. Put the rubbed (or marinated) ribs, uncovered, bones down, in an aluminum-lined baking pan. I use a disposable aluminum pan. Bake at 250 F for \*\*2 hours\*\*.
-[![MemorialDay2014-2hr-mark](https://res.cloudinary.com/teamsiems/images/v1585939554/MemorialDay2014-2hr-mark/MemorialDay2014-2hr-mark.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2014/05/MemorialDay2014-2hr-mark.jpg)\
+[![MemorialDay2014-2hr-mark](https://res.cloudinary.com/teamsiems/images/v1585939554/MemorialDay2014-2hr-mark/MemorialDay2014-2hr-mark.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2014/05/MemorialDay2014-2hr-mark.jpg)\
 
 Ribs for Memorial Day 2014 - 2 hour mark. Left one is coated with barbecue sauce. Right one awaits.
 
@@ -21,7 +21,7 @@ This time after 2 hours, check if the meat pulls away from the bone. If not, w
 You can finish them under the broiler in the oven or in a covered grill (outside). If you want to finish them in the oven, paint them with sauce, lay them in a baking pan, bones down, uncovered, about 6 inches from the broiler for 10 minutes.
 If you want to finish them with a smokey grill, prepare the grill for indirect heat. When the temperature stabilizes (no flames with charcoal) place wood chips on the coals/flames. Place the ribs on the opposite side the grill from the coals/flames. Smoke the ribs for at least 15 minutes (YMMV). Check internal temperature or pull on the bones every 5 minutes.
 ## Eat Them
-[![MemorialDay2014-done](https://res.cloudinary.com/teamsiems/images/v1585939556/MemorialDay2014-done/MemorialDay2014-done.jpg?_i=AA)](http://teamsiems.com/wp-content/uploads/2014/05/MemorialDay2014-done.jpg)\
+[![MemorialDay2014-done](https://res.cloudinary.com/teamsiems/images/v1585939556/MemorialDay2014-done/MemorialDay2014-done.jpg?_i=AA){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2014/05/MemorialDay2014-done.jpg)\
 
 Ribs for Memorial Day 2014 - plate with ribs, potato salad, macaroni salad, andouille and boudin.
 

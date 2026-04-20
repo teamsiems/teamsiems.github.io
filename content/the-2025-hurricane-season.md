@@ -72,7 +72,7 @@ Erin is about 135 miles north-northwest of Anguilla with winds of 160 mph moving
 \*\*Update 8/17/2025 at 2100 UTC\*\*
 Erin is about 275 miles northwest of San Juan, Puerto Rico, with winds of 125 mph moving west-northwest at 13 mph.
 \*\*Update 8/18/2025 at 2100 UTC\*\*
-[![Hurricane Erin 2025](https://res.cloudinary.com/teamsiems/images/v1755562527/Hurricane-Erin-2025-08-18-16x9-1/Hurricane-Erin-2025-08-18-16x9-1.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1755562527/Hurricane-Erin-2025-08-18-16x9-1/Hurricane-Erin-2025-08-18-16x9-1.jpg?_i=AA)
+[![Hurricane Erin 2025](https://res.cloudinary.com/teamsiems/images/v1755562527/Hurricane-Erin-2025-08-18-16x9-1/Hurricane-Erin-2025-08-18-16x9-1.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1755562527/Hurricane-Erin-2025-08-18-16x9-1/Hurricane-Erin-2025-08-18-16x9-1.jpg?_i=AA)
 Erin is about 695 miles southwest of Bermuda with winds of 140 mph moving northwest at 10 mph.
 \*\*Update 8/19/2025 at 2100 UTC\*\*
 Erin is about 615 miles southwest of Bermuda with winds of 105 mph moving north-northwest at 10 mph.
@@ -202,7 +202,7 @@ Melissa strengthens to \*\*Category 4 Hurricane\*\* about 120 miles south-southe
 Melissa is about 115 miles south-southwest of Kingston Jamaica with winds of 145 mph moving west at 5 mph.
 \*\*Update 10/27/2025 at 0900 UTC\*\*
 Melissa strengthens to \*\*Category 5 Hurricane\*\* about 130 miles south-southwest of Kingston Jamaica with winds of 160 mph moving west at 3 mph.
-![](https://res.cloudinary.com/teamsiems/images/v1761574123/HurricaneMelissa_9303085cd/HurricaneMelissa_9303085cd.webp?_i=AA)
+![](https://res.cloudinary.com/teamsiems/images/v1761574123/HurricaneMelissa_9303085cd/HurricaneMelissa_9303085cd.webp?_i=AA){: .img-fluid }
 \*\*Update 10/27/2025 at 2100 UTC\*\*
 Melissa is about 140 miles southwest of Kingston Jamaica with winds of \*\*175 mph\*\* moving northwest at 3 mph.
 \*\*Update 10/28/2025 at 1700 UTC\*\*

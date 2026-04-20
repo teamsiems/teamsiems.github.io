@@ -11,13 +11,13 @@
 {% if (article.next_article is defined and article.next_article) or (article.prev_article is defined and article.prev_article) %}
 <div class="post-navigation">
     {% if article.prev_article is defined and article.prev_article %}
-    <a href="{{ SITEURL }}/{{ article.prev_article.url }}" class="prev-button">
+    <a href="{{ SITEURL }}/{{ article.prev_article.url }}" class="btn btn-primary prev-button">
         &laquo; {{ article.prev_article.title }}
     </a>
     {% endif %}
     {% if article.next_article is defined and article.next_article %}
 		|
-    <a href="{{ SITEURL }}/{{ article.next_article.url }}" class="next-button">
+    <a href="{{ SITEURL }}/{{ article.next_article.url }}" class="btn btn-primary next-button">
         {{ article.next_article.title }} &raquo;
     </a>
     {% endif %}

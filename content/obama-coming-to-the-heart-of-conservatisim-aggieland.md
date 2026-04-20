@@ -14,7 +14,7 @@ A&M official: "We expect our students will treat the president with respect."
 It's not students we fear. It's the hundreds of non-Aggies being bussed in from all over Texas - Tea Party groups - that probably did not vote for Obama and probably will try to stir up trouble.
 I think Friday will be a good day for everyone to stay home.
 
-[![President Obama speaks at Texas A&M](http://teamsiems.com/wp-content/uploads/2009/10/obama-at-tamu-300x186.jpg "obama-at-tamu")](http://teamsiems.com/wp-content/uploads/2009/10/obama-at-tamu.jpg)
+[![President Obama speaks at Texas A&M](http://teamsiems.com/wp-content/uploads/2009/10/obama-at-tamu-300x186.jpg "obama-at-tamu"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/10/obama-at-tamu.jpg)
 
 President Obama speaks at Texas A&M
 

@@ -1,7 +1,8 @@
 import datetime
 
 AUTHOR = 'c'
-SITENAME = 'teamsiems blog'
+SITENAME = 'teamsiems'
+SITESUBTITLE = 'A team of Siems observing life on the web.'
 SITEURL = ""
 
 CURRENT_YEAR = datetime.datetime.now().year
@@ -45,3 +46,12 @@ THEME = 'themes/simple'
 PLUGINS = [
     'neighbors',
 ]
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.extra': {},  # Includes attr_list
+        # OR specifically:
+        'markdown.extensions.attr_list': {},
+    },
+    'output_format': 'html5',
+}

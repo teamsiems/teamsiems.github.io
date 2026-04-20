@@ -6,7 +6,7 @@ Tags: nuclear power
 Slug: finally-2010-the-year-we-make-contact
 Status: published
 
-[![2010 Movie Poster](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603997654/2010-poster01/2010-poster01.jpg?_i=AA "2010 movie poster")](https://res.cloudinary.com/teamsiems/images/v1603997654/2010-poster01/2010-poster01.jpg)
+[![2010 Movie Poster](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603997654/2010-poster01/2010-poster01.jpg?_i=AA "2010 movie poster"){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603997654/2010-poster01/2010-poster01.jpg)
 
 Is this the year we make contact? With whom, you might ask. Well, if you ask that then you don't know what I'm talking about. The year 2010...[the movie 2010](http://www.imdb.com/title/tt0086837/)...this is the year! Will we make contact with aliens? Who knows.
 What I do know is what I remember thinking about what will happen in 2010. I thought I'll turn 39 in 2010, and that sounded old. When I graduated high school my first thought was that my 10 year reunion will be in 2000, and my second thought was that my 20 year reunion will be in 2010. I thought maybe I would be working on space nuclear power by 2010.

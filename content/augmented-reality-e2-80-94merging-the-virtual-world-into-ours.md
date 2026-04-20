@@ -12,7 +12,7 @@ University Web Coordinator, University of Wisconsin - Platteville
 October 6
 Presentation at [www.uwplatt.edu/web/presentations](http://www.uwplatt.edu/web/presentations)
 
-[![Augmented Reality asymmetric image.](http://teamsiems.com/wp-content/uploads/2009/10/PennStateAR-150x150.gif "Penn State AR")](http://teamsiems.com/wp-content/uploads/2009/10/PennStateAR.gif)
+[![Augmented Reality asymmetric image.](http://teamsiems.com/wp-content/uploads/2009/10/PennStateAR-150x150.gif "Penn State AR"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/10/PennStateAR.gif)
 
 Augmented Reality asymmetric marker.
 

@@ -12,7 +12,7 @@ Status: published
 2\] I conquered the Facebook Share button today. They changed it since I last made a button, so it took several hours to learn the new API.
 3\] I took a Facebook contest today and it said I'm a dragon:
 
-![Dragon](http://cdn.playbuzz.com/cdn/25898408-2b52-4d59-8d25-4a8a16dbe21a/620dd9f8-9b46-4b29-99ff-2037bd160d6b.jpg)
+![Dragon](http://cdn.playbuzz.com/cdn/25898408-2b52-4d59-8d25-4a8a16dbe21a/620dd9f8-9b46-4b29-99ff-2037bd160d6b.jpg){: .img-fluid }
 
 I'm a dragon
 

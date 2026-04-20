@@ -6,7 +6,7 @@ Tags: inauguration, Obama
 Slug: barack-obamas-inaugural-address
 Status: published
 
-[![taking-the-oath](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731-150x150.jpg "taking-the-oath")](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731.jpg)© MMVIII, CBS Interactive Inc. All Rights Reserved.
+[![taking-the-oath](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731-150x150.jpg "taking-the-oath"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731.jpg)© MMVIII, CBS Interactive Inc. All Rights Reserved.
 Barack Obama's Inaugural Address
 Jan. 20, 2009
 \*\*(CBS)\*\* \*President Barack Obama's Inaugural Address, as prepared for delivery\*:

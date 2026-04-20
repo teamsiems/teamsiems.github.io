@@ -13,4 +13,4 @@ Sans-Serif: Arial
 Monospace: Courier New / Size: 13
 Minimum font size: None
 Allow pages to choose.... Checked
-![firefoxfonts8dv](http://teamsiems.com/wp-content/uploads/2009/07/firefoxfonts8dv-300x275.png "firefoxfonts8dv")
+![firefoxfonts8dv](http://teamsiems.com/wp-content/uploads/2009/07/firefoxfonts8dv-300x275.png "firefoxfonts8dv"){: .img-fluid }

@@ -6,7 +6,7 @@ Tags: Putin, Russia, war
 Slug: russian-invades-ukraine
 Status: published
 
-[![Vlad the (Impudent) Impaler](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1646607449/Putin/Putin.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1646607449/Putin/Putin-jpg?_i=AA)\
+[![Vlad the (Impudent) Impaler](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1646607449/Putin/Putin.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1646607449/Putin/Putin-jpg?_i=AA)\
 
 Vlad the (Impudent) Impaler\
 

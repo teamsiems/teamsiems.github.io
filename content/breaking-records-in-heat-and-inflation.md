@@ -12,7 +12,7 @@ I thought this was newsworthy. The US is going to fry this weekend, and it's goi
 >
 > \*[The Guardian](https://www.theguardian.com/us-news/2022/jun/15/us-weather-heat-warnings-alerts-record-temperatures)\*,15 June 2022
 
-[![](https://www.wpc.ncep.noaa.gov/heat_index_MAX/bchi_day3.gif)](https://www.wpc.ncep.noaa.gov/heat_index_MAX/bchi_day3.gif)
+[![](https://www.wpc.ncep.noaa.gov/heat_index_MAX/bchi_day3.gif){: .img-fluid }](https://www.wpc.ncep.noaa.gov/heat_index_MAX/bchi_day3.gif)
 When it comes to higher prices, the government is blaming the COVID pandemic and Russia's invasion of Ukraine. This week, the average price of gas topped \$5/gallon in the US. They say it's only going to get worse.
 > \*\*Inflation rose 8.6% in May, highest since 1981\*\*
 > Administration officials pin most of the blame for the surge on supply chain issues related to the Covid pandemic, imbalances created by outsized demand for goods over services and the Russian attack on Ukraine.
